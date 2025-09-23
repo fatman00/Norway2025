@@ -100,16 +100,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vardestopp"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.826105, 60.47827333]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "29 | 2 Aurland",
         "description": "REDDIT: 29 | 2 Aurland is a great choice. We stayed in 2019 and it was definitely a highlight. Book dinner — it’s the high-end version of dinner with other backpackers from around the world. The food and who you meet is well worth the extra expense."
       },
