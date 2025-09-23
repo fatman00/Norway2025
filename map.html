@@ -125,6 +125,7 @@
             iconGps = new LeafIcon({ iconUrl: 'gps.png', iconSize: [20, 20], iconAnchor: [10, 20] }),
             iconFlag = new LeafIcon({ iconUrl: 'flag.png', iconSize: [20, 20], iconAnchor: [0, 20] }),
             iconPin = new LeafIcon({ iconUrl: 'pinGreen.png', iconSize: [20, 20], iconAnchor: [0, 20] }),
+            iconBluePin = new LeafIcon({ iconUrl: 'pinBlue.png', iconSize: [20, 20], iconAnchor: [0, 20] }),
             iconFoss = new LeafIcon({ iconUrl: 'waterfall.png', iconSize: [30, 30], iconAnchor: [0, 30], popupAnchor: [15, -30] }),
             iconTesla = new LeafIcon({ iconUrl: 'tesla.png' });
 
@@ -185,14 +186,22 @@
             // https://gis.stackexchange.com/questions/153381/changing-marker-icon-from-oneachfeature-instead-of-pointtolayer-using-leaflet
             layer.setIcon(iconFoss)
         }
-        // feature.properties.desc ? `<strong>${feature.properties.name}</strong><br>${feature.properties.desc}` : feature.properties.name
         function onEachFeaturePOI(feature, layer) {
+            // does this feature have a property named popupContent?
+            if (feature.properties && feature.properties.name) {
+                layer.bindPopup(feature.properties.name);
+            }
+            // https://gis.stackexchange.com/questions/153381/changing-marker-icon-from-oneachfeature-instead-of-pointtolayer-using-leaflet
+            layer.setIcon(iconPin)
+        }
+
+        function onEachFeatureBluePOI(feature, layer) {
             // does this feature have a property named popupContent?
             if (feature.properties && feature.properties.name) {
                 layer.bindPopup(feature.properties.description ? '<strong>'+feature.properties.name+'</strong><br>'+feature.properties.description : feature.properties.name);
             }
             // https://gis.stackexchange.com/questions/153381/changing-marker-icon-from-oneachfeature-instead-of-pointtolayer-using-leaflet
-            layer.setIcon(iconPin)
+            layer.setIcon(iconBluePin)
         }
 
         function onEachFeatureVeg(feature, layer) {
@@ -243,6 +252,8 @@
         var fossLayer = L.geoJSON(false, { onEachFeature: onEachFeatureFoss });
 
         var pinLayer = L.geoJSON(false, { onEachFeature: onEachFeaturePOI });
+
+        var pinPersonalLayer = L.geoJSON(false, { onEachFeature: onEachFeatureBluePOI });
 
 
 
@@ -376,7 +387,19 @@
                 aurlandLayer.addData(data);
             });
         var baseUrl = 'https://fatman00.github.io/Norway2025/';
-        var pinData = ['atlanterhavsvegenpoi.geojson', 'gaularfjelletpoi.geojson','hardangerpoi.geojson','rondanepoi.geojson','aurlandfjelletpoi.geojson','geirangerpoi.geojson','hardangerviddapoi.geojson','ryfylkepoi.geojson', 'privatepoi.geojson'];
+        var pinData = ['atlanterhavsvegenpoi.geojson', 'gaularfjelletpoi.geojson','hardangerpoi.geojson','rondanepoi.geojson','aurlandfjelletpoi.geojson','geirangerpoi.geojson','hardangerviddapoi.geojson','ryfylkepoi.geojson'];
+        var pinPersonalData = ['privatepoi.geojson'];
+
+
+        pinPersonalData.forEach(addPersonalPins);
+
+        function addPersonalPins(url) {
+            console.log("adding:"+baseUrl+url);
+            fetchJSON(baseUrl+url)
+                .then((data) => {
+                    pinPersonalLayer.addData(data);
+                });
+        }
 
         pinData.forEach(addPins);
 
