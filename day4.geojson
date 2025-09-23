@@ -125049,20 +125049,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Molde",
-                "desc": "Molde, Norway"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.1808245,
-                    62.7402591
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Åfarnes",
                 "desc": "Åfarnes, 6360, Norway"
             },
