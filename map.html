@@ -189,7 +189,7 @@
         function onEachFeaturePOI(feature, layer) {
             // does this feature have a property named popupContent?
             if (feature.properties && feature.properties.name) {
-                layer.bindPopup(feature.properties.desc ? `<strong>${feature.properties.name}</strong><br>${feature.properties.desc}` : feature.properties.name);
+                layer.bindPopup(feature.properties.desc ? '<strong>${feature.properties.name}</strong><br>${feature.properties.desc}' : feature.properties.name);
             }
             // https://gis.stackexchange.com/questions/153381/changing-marker-icon-from-oneachfeature-instead-of-pointtolayer-using-leaflet
             layer.setIcon(iconPin)
