@@ -1,0 +1,56 @@
+{
+    "pointsOfInterest": [
+    {
+      "isCurrent": false,
+      "areaId": 466,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Likholefossen",
+      "longitude": 6.27236158,
+      "latitude": 61.32854323,
+      "sideToShowLabel": 3
+    },
+    {
+      "isCurrent": false,
+      "areaId": 471,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Hestad",
+      "longitude": 5.935847,
+      "latitude": 61.331965,
+      "sideToShowLabel": 3
+    },
+    {
+      "isCurrent": false,
+      "areaId": 465,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Torsnesstølen",
+      "longitude": 6.434813,
+      "latitude": 61.336782,
+      "sideToShowLabel": 4
+    },
+    {
+      "isCurrent": false,
+      "areaId": 223,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Utsikten",
+      "longitude": 6.51817405,
+      "latitude": 61.35145674,
+      "sideToShowLabel": 3
+    }
+  ]
+}

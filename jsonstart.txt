@@ -1,0 +1,13 @@
+{
+    "type": "FeatureCollection",
+    "name": "tracks",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Personal GeoJson Data",
+                "closures": "N/A"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [

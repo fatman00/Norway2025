@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allmannajuvet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.46475341, 59.65261189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Svandalsfossen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.29210259, 59.62537531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ropeid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.21294, 59.485199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ostasteidn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.116982, 59.414458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flesefossen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.752236, 59.692027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Høse bru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.25974473, 59.48132549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lovra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.21975395, 59.41982499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Høllesli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.095502, 58.935446]
+      }
+    }
+  ]
+}

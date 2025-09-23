@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atnbrufossen Vannbruksmuseum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.23388988, 61.85117623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sohlbergplassen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.18534477, 61.88052961]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjøllen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.157547, 61.889865]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strømbu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.053735, 61.921331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Folldal gruver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.991443, 62.140835]
+      }
+    }
+  ]
+}

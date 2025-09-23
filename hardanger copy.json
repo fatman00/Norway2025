@@ -1,0 +1,108 @@
+{
+    "pointsOfInterest": [
+    {
+      "isCurrent": false,
+      "areaId": 478,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Skjervsfossen",
+      "longitude": 6.634626,
+      "latitude": 60.588169,
+      "sideToShowLabel": 3
+    },
+    {
+      "isCurrent": false,
+      "areaId": 4884,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Kvanndal",
+      "longitude": 6.609585,
+      "latitude": 60.471182,
+      "sideToShowLabel": 3
+    },
+    {
+      "isCurrent": false,
+      "areaId": 4090,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Tyrvefjøra",
+      "longitude": 6.4424781,
+      "latitude": 60.432768,
+      "sideToShowLabel": 2
+    },
+    {
+      "isCurrent": false,
+      "areaId": 477,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Steinstøberget",
+      "longitude": 6.31200664,
+      "latitude": 60.39632101,
+      "sideToShowLabel": 3
+    },
+    {
+      "isCurrent": false,
+      "areaId": 312,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Steinsdalsfossen",
+      "longitude": 6.108141,
+      "latitude": 60.370222,
+      "sideToShowLabel": 1
+    },
+    {
+      "isCurrent": false,
+      "areaId": 476,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Hereiane",
+      "longitude": 6.33855315,
+      "latitude": 60.3290127,
+      "sideToShowLabel": 4
+    },
+    {
+      "isCurrent": false,
+      "areaId": 4089,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Espenes",
+      "longitude": 6.6314188,
+      "latitude": 60.2899274,
+      "sideToShowLabel": 2
+    },
+    {
+      "isCurrent": false,
+      "areaId": 474,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Låtefossen",
+      "longitude": 6.58365582,
+      "latitude": 59.94836158,
+      "sideToShowLabel": 3
+    }
+  ]
+}

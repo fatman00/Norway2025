@@ -1,0 +1,95 @@
+  {
+    "pointsOfInterest": [
+    {
+      "isCurrent": false,
+      "areaId": 429,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Kjeksa",
+      "longitude": 6.936262,
+      "latitude": 62.917509,
+      "sideToShowLabel": 3
+    },
+    {
+      "isCurrent": false,
+      "areaId": 430,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Askevågen",
+      "longitude": 7.036496,
+      "latitude": 62.96705,
+      "sideToShowLabel": 1
+    },
+    {
+      "isCurrent": false,
+      "areaId": 431,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Farstadsanden",
+      "longitude": 7.153065,
+      "latitude": 62.980725,
+      "sideToShowLabel": 4
+    },
+    {
+      "isCurrent": false,
+      "areaId": 432,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Hågå",
+      "longitude": 7.296896,
+      "latitude": 63.007856,
+      "sideToShowLabel": 4
+    },
+    {
+      "isCurrent": false,
+      "areaId": 433,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Myrbærholmbrua",
+      "longitude": 7.347161,
+      "latitude": 63.016902,
+      "sideToShowLabel": 3
+    },
+    {
+      "isCurrent": false,
+      "areaId": 435,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Eldhusøya",
+      "longitude": 7.365099,
+      "latitude": 63.018523,
+      "sideToShowLabel": 4
+    },
+    {
+      "isCurrent": false,
+      "areaId": 436,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Geitøya",
+      "longitude": 7.382158,
+      "latitude": 63.021254,
+      "sideToShowLabel": 2
+    }
+  ]
+}

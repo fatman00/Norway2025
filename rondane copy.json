@@ -1,0 +1,69 @@
+{
+    "pointsOfInterest": [
+        {
+            "isCurrent": false,
+            "areaId": 450,
+            "areaType": 0,
+            "image": null,
+            "url": null,
+            "isStartOrStop": false,
+            "margin": 1500,
+            "title": "Atnbrufossen Vannbruksmuseum",
+            "longitude": 10.23388988,
+            "latitude": 61.85117623,
+            "sideToShowLabel": 1
+        },
+        {
+            "isCurrent": false,
+            "areaId": 449,
+            "areaType": 0,
+            "image": null,
+            "url": null,
+            "isStartOrStop": false,
+            "margin": 1500,
+            "title": "Sohlbergplassen",
+            "longitude": 10.18534477,
+            "latitude": 61.88052961,
+            "sideToShowLabel": 2
+        },
+        {
+            "isCurrent": false,
+            "areaId": 4595,
+            "areaType": 0,
+            "image": null,
+            "url": null,
+            "isStartOrStop": false,
+            "margin": 1500,
+            "title": "Kjøllen",
+            "longitude": 10.157547,
+            "latitude": 61.889865,
+            "sideToShowLabel": 1
+        },
+        {
+            "isCurrent": false,
+            "areaId": 448,
+            "areaType": 0,
+            "image": null,
+            "url": null,
+            "isStartOrStop": false,
+            "margin": 1500,
+            "title": "Strømbu",
+            "longitude": 10.053735,
+            "latitude": 61.921331,
+            "sideToShowLabel": 3
+        },
+        {
+            "isCurrent": false,
+            "areaId": 447,
+            "areaType": 0,
+            "image": null,
+            "url": null,
+            "isStartOrStop": false,
+            "margin": 1500,
+            "title": "Folldal gruver",
+            "longitude": 9.991443,
+            "latitude": 62.140835,
+            "sideToShowLabel": 1
+        }
+    ]
+}

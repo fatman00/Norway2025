@@ -1,0 +1,108 @@
+{
+    "pointsOfInterest": [
+    {
+      "isCurrent": false,
+      "areaId": 488,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Allmannajuvet",
+      "longitude": 6.46475341,
+      "latitude": 59.65261189,
+      "sideToShowLabel": 4
+    },
+    {
+      "isCurrent": false,
+      "areaId": 487,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Svandalsfossen",
+      "longitude": 6.29210259,
+      "latitude": 59.62537531,
+      "sideToShowLabel": 1
+    },
+    {
+      "isCurrent": false,
+      "areaId": 486,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Ropeid",
+      "longitude": 6.21294,
+      "latitude": 59.485199,
+      "sideToShowLabel": 1
+    },
+    {
+      "isCurrent": false,
+      "areaId": 485,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Ostasteidn",
+      "longitude": 6.116982,
+      "latitude": 59.414458,
+      "sideToShowLabel": 1
+    },
+    {
+      "isCurrent": false,
+      "areaId": 4986,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Flesefossen",
+      "longitude": 6.752236,
+      "latitude": 59.692027,
+      "sideToShowLabel": 2
+    },
+    {
+      "isCurrent": false,
+      "areaId": 484,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Høse bru",
+      "longitude": 6.25974473,
+      "latitude": 59.48132549,
+      "sideToShowLabel": 2
+    },
+    {
+      "isCurrent": false,
+      "areaId": 483,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Lovra",
+      "longitude": 6.21975395,
+      "latitude": 59.41982499,
+      "sideToShowLabel": 2
+    },
+    {
+      "isCurrent": false,
+      "areaId": 482,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Høllesli",
+      "longitude": 6.095502,
+      "latitude": 58.935446,
+      "sideToShowLabel": 2
+    }
+  ]
+}

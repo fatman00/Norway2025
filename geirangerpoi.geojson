@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trollstigen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.663136, 62.453301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gudbrandsjuvet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.471132, 62.330758]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linge ferjekai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.187762, 62.284513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ørnesvingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.16721732, 62.12626334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flydalsjuvet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.223597, 62.089302]
+      }
+    }
+  ]
+}

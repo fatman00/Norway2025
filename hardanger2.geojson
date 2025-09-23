@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Skjervsfossen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.634626,
+                    60.588169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Kvanndal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.609585,
+                    60.471182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Tyrvefjøra"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4424781,
+                    60.432768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Steinstøberget"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.31200664,
+                    60.39632101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Steinsdalsfossen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.108141,
+                    60.370222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Hereiane"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.33855315,
+                    60.3290127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Espenes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6314188,
+                    60.2899274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Låtefossen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.58365582,
+                    59.94836158
+                ]
+            }
+        }
+    ]
+}

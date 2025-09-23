@@ -1,0 +1,42 @@
+{"pointsOfInterest": [
+    {
+      "isCurrent": false,
+      "areaId": 480,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Vøringsfossen",
+      "longitude": 7.251631,
+      "latitude": 60.42669,
+      "sideToShowLabel": 2
+    },
+    {
+      "isCurrent": false,
+      "areaId": 7044,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Ørteren",
+      "longitude": 7.8140606,
+      "latitude": 60.4661631,
+      "sideToShowLabel": 1
+    },
+    {
+      "isCurrent": false,
+      "areaId": 7043,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Vardestopp ",
+      "longitude": 7.826105,
+      "latitude": 60.47827333,
+      "sideToShowLabel": 2
+    }
+  ]
+}

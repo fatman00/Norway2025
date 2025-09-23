@@ -1,0 +1,56 @@
+{
+    "pointsOfInterest": [
+    {
+      "isCurrent": false,
+      "areaId": 4971,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Sluppen",
+      "longitude": 7.340112,
+      "latitude": 61.042815,
+      "sideToShowLabel": 2
+    },
+    {
+      "isCurrent": false,
+      "areaId": 340,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Stegastein",
+      "longitude": 7.21279388,
+      "latitude": 60.90836182,
+      "sideToShowLabel": 2
+    },
+    {
+      "isCurrent": false,
+      "areaId": 472,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Flotane",
+      "longitude": 7.33157301,
+      "latitude": 61.00775251,
+      "sideToShowLabel": 2
+    },
+    {
+      "isCurrent": false,
+      "areaId": 473,
+      "areaType": 0,
+      "image": null,
+      "url": null,
+      "isStartOrStop": false,
+      "margin": 1500,
+      "title": "Vedahaugane",
+      "longitude": 7.32773954,
+      "latitude": 61.03176844,
+      "sideToShowLabel": 1
+    }
+  ]
+}

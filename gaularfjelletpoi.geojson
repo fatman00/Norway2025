@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Likholefossen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.27236158, 61.32854323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hestad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.935847, 61.331965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torsnesstølen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.434813, 61.336782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Utsikten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.51817405, 61.35145674]
+      }
+    }
+  ]
+}

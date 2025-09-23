@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vøringsfossen",
+                "height_m": 182,
+                "note": "Mest besøgte"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2510537,
+                    60.4269085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Steinsdalsfossen",
+                "height_m": 46,
+                "note": "Kan gå bagved"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1029173,
+                    60.3707773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kjosfossen",
+                "height_m": 225,
+                "note": "Langs Flåmsbanen med huldra"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1389268,
+                    60.7456648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Langfossen",
+                "height_m": 612,
+                "note": "Utrolig smukt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.339501,
+                    59.8446047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vettisfossen",
+                "height_m": 275,
+                "note": "Højeste frit fald"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9458702,
+                    61.37983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mardalsfossen",
+                "height_m": 645,
+                "note": "Et af Norges højeste"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.12288,
+                    62.4741164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seven Sisters",
+                "height_m": 410,
+                "note": "Verdensarv ved Geirangerfjord"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.094222068786621,
+                    62.10702896118164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mongefossen",
+                "height_m": 773,
+                "note": "Fjerde højeste fald"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8951037,
+                    62.4428748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rjukanfossen",
+                "height_m": 104,
+                "note": "Tidlig belyst — historisk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4789696,
+                    59.8664388
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sluppen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.340112, 61.042815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stegastein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.21279388, 60.90836182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flotane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.33157301, 61.00775251]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vedahaugane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.32773954, 61.03176844]
+      }
+    }
+  ]
+}

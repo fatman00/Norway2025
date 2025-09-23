@@ -1,0 +1,10 @@
+
+cat data-28_08_2025.csv | cut -d',' -f2,3 > file.csv
+
+awk -F',' '{ print "[" $1 "," $2 "]," }' file.csv
+
+cat data-28_08_2025.csv | csvcut -c 3,2 | awk -F',' '{ print "[" $1 "," $2 "]," }'
+
+cat jsonstart.txt > data.geojson
+cat data-spring_2025.csv | csvcut -c 3,2 | awk -F',' '{ print "[" $1 "," $2 "]," }' >> data.geojson
+cat jsonend.txt >> data.geojson

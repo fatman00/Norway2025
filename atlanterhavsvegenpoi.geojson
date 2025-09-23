@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kjeksa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.936262, 62.917509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Askevågen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.036496, 62.96705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farstadsanden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.153065, 62.980725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hågå"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.296896, 63.007856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myrbærholmbrua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.347161, 63.016902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eldhusøya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.365099, 63.018523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geitøya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.382158, 63.021254]
+      }
+    }
+  ]
+}

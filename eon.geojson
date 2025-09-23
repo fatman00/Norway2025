@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-11-04T19:49:13Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6016034804",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "E.ON",
+        "capacity": "4",
+        "name": "E.ON Lillesand",
+        "note": "Endret effekt, feil fra Nobil",
+        "parking:fee": "no",
+        "ref:nobil": "16133",
+        "socket:chademo": "4",
+        "socket:chademo:output": "75 kW",
+        "socket:type2_combo": "4",
+        "socket:type2_combo:output": "175 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2980028,
+          58.2397337
+        ]
+      },
+      "id": "node/6016034804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10663394917",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "E.ON",
+        "capacity": "4",
+        "fee": "yes",
+        "name": "E.ON Bromma",
+        "note": "Endret sockets, feil fra Nobil.",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "parking:fee": "no",
+        "ref:nobil": "16139",
+        "socket:chademo": "1",
+        "socket:chademo:output": "80 kW",
+        "socket:type2_combo": "4",
+        "socket:type2_combo:output": "300 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1893406,
+          60.4880667
+        ]
+      },
+      "id": "node/10663394917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10744099837",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "E.ON",
+        "capacity": "2",
+        "description": "E.ON ICA Kvantum Strömstad",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "parking:fee": "no",
+        "ref:nobil": "5750",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "43 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.194257,
+          58.9358191
+        ]
+      },
+      "id": "node/10744099837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10951510105",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "E.ON",
+        "capacity": "4",
+        "fee": "yes",
+        "name": "E.ON Evje",
+        "note": "Endret sockets, feil fra Nobil.",
+        "operator": "Powered by E.ON Drive & Clever",
+        "parking:fee": "no",
+        "ref:nobil": "16134",
+        "socket:chademo": "1",
+        "socket:chademo:output": "75 kW",
+        "socket:type2_combo": "4",
+        "socket:type2_combo:output": "225 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7978213,
+          58.5830876
+        ]
+      },
+      "id": "node/10951510105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10951510107",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "E.ON",
+        "capacity": "4",
+        "fee": "yes",
+        "name": "E.ON Haukeli",
+        "note": "Endret sockets, feil fra Nobil.",
+        "operator": "Powered by E.ON Drive & Clever",
+        "parking:fee": "no",
+        "ref:nobil": "16135",
+        "socket:chademo": "1",
+        "socket:chademo:output": "75 kW",
+        "socket:type2_combo": "4",
+        "socket:type2_combo:output": "300 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5634794,
+          59.7368317
+        ]
+      },
+      "id": "node/10951510107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10951510108",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "E.ON",
+        "capacity": "4",
+        "fee": "yes",
+        "name": "E.ON Vang",
+        "note": "Endret sockets, feil fra Nobil.",
+        "operator": "Powered by E.ON Drive & Clever",
+        "parking:fee": "no",
+        "ref:nobil": "16141",
+        "socket:chademo": "1",
+        "socket:chademo:output": "62 kW",
+        "socket:type2_combo": "4",
+        "socket:type2_combo:output": "300 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5424991,
+          61.1302139
+        ]
+      },
+      "id": "node/10951510108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11193540550",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "E.ON",
+        "capacity": "4",
+        "name": "E.ON Vinterbo",
+        "note": "Endret sockets, feil fra Nobil.",
+        "parking:fee": "no",
+        "ref:nobil": "16136",
+        "socket:chademo": "1",
+        "socket:chademo:output": "75 kW",
+        "socket:type2_combo": "4",
+        "socket:type2_combo:output": "300 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7638701,
+          59.7377602
+        ]
+      },
+      "id": "node/11193540550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11193540555",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "E.ON",
+        "capacity": "4",
+        "name": "E.ON Kløfta",
+        "note": "Endret sockets, feil fra Nobil.",
+        "parking:fee": "no",
+        "ref:nobil": "16137",
+        "socket:chademo": "1",
+        "socket:chademo:output": "75 kW",
+        "socket:type2_combo": "4",
+        "socket:type2_combo:output": "300 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1461315,
+          60.0776913
+        ]
+      },
+      "id": "node/11193540555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11193540556",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "E.ON",
+        "capacity": "4",
+        "name": "E.ON Hallingby",
+        "note": "Endret effekt, feil fra Nobil",
+        "parking:fee": "no",
+        "ref:nobil": "16138",
+        "socket:chademo": "4",
+        "socket:chademo:output": "75 kW",
+        "socket:type2_combo": "4",
+        "socket:type2_combo:output": "175 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1886915,
+          60.2766827
+        ]
+      },
+      "id": "node/11193540556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11193540557",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "E.ON",
+        "capacity": "6",
+        "name": "E.ON Rudshøgda",
+        "parking:fee": "no",
+        "ref:nobil": "16140",
+        "socket:chademo": "3",
+        "socket:chademo:output": "75 kW",
+        "socket:type2_combo": "6",
+        "socket:type2_combo:output": "300 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8121267,
+          60.9104484
+        ]
+      },
+      "id": "node/11193540557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11193540558",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "E.ON",
+        "capacity": "6",
+        "name": "E.ON Kvitfjelltunet",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "parking:fee": "no",
+        "ref:nobil": "16142",
+        "socket:chademo": "2",
+        "socket:chademo:output": "75 kW",
+        "socket:type2_combo": "6",
+        "socket:type2_combo:output": "300 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.189102,
+          61.453981
+        ]
+      },
+      "id": "node/11193540558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11193540634",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "E.ON",
+        "capacity": "3",
+        "name": "E.ON Dombås",
+        "note": "Endret effekt, feil fra Nobil",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "parking:fee": "no",
+        "ref": "28458.1;28458.2;28459.1;28459.2;28455.1;28455.2",
+        "ref:nobil": "16143",
+        "socket:chademo": "3",
+        "socket:chademo:output": "75 kW",
+        "socket:type2_combo": "3",
+        "socket:type2_combo:output": "175 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1282164,
+          62.0749138
+        ]
+      },
+      "id": "node/11193540634"
+    }
+  ]
+}

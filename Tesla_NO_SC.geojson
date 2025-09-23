@@ -1,0 +1,2742 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-09-02T12:29:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1770692868",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "18",
+        "name": "Tesla Oslo Sentrum p-hus Supercharger",
+        "ref:nobil": "7860",
+        "ref:tesla": "OsloCentralSentrumPhusnosupercharger",
+        "ref:tesla2": "55543",
+        "socket:type2_combo": "18",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/OsloCentralSentrumPhusnosupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.741638,
+          59.9160138
+        ]
+      },
+      "id": "node/1770692868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2871059176",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "23",
+        "name": "Tesla Dombås Supercharger",
+        "ref:nobil": "1678",
+        "ref:tesla": "dombassupercharger",
+        "ref:tesla2": "6354",
+        "socket:tesla_supercharger": "8",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "23",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/dombassupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1278992,
+          62.0746972
+        ]
+      },
+      "id": "node/2871059176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2871061058",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "36",
+        "name": "Tesla Brokelandsheia Supercharger",
+        "ref:nobil": "1682",
+        "ref:tesla": "brokelandsheiabrusupercharger",
+        "ref:tesla2": "14206",
+        "socket:tesla_supercharger": "12",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "36",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/brokelandsheiabrusupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0732258,
+          58.8209454
+        ]
+      },
+      "id": "node/2871061058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2871087177",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "10",
+        "name": "Tesla Lillehammer Supercharger",
+        "ref:nobil": "1679",
+        "ref:tesla": "lillehammersupercharger",
+        "ref:tesla2": "6421",
+        "socket:tesla_supercharger": "10",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "10",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/lillehammersupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.434631,
+          61.130461
+        ]
+      },
+      "id": "node/2871087177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2871097495",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "8",
+        "name": "Tesla Gol Supercharger",
+        "ref:nobil": "1680",
+        "ref:tesla": "golsupercharger",
+        "ref:tesla2": "6381",
+        "socket:tesla_supercharger": "8",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/golsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.986203,
+          60.702285
+        ]
+      },
+      "id": "node/2871097495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2871099861",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "6",
+        "name": "Tesla Aurland Supercharger",
+        "ref:nobil": "1681",
+        "ref:tesla": "aurlandsupercharger",
+        "ref:tesla2": "6301",
+        "socket:tesla_supercharger": "6",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "6",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/aurlandsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.211273,
+          60.898695
+        ]
+      },
+      "id": "node/2871099861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2882186757",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "8",
+        "name": "Tesla Lier nord Supercharger",
+        "ref:nobil": "2098",
+        "ref:tesla": "liernorthsupercharger",
+        "ref:tesla2": "6562",
+        "socket:tesla_supercharger": "8",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/liernorthsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.262074,
+          59.770848
+        ]
+      },
+      "id": "node/2882186757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2943444993",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "12",
+        "name": "Tesla Åmot Supercharger",
+        "ref:nobil": "1980",
+        "ref:tesla": "amotsupercharger",
+        "ref:tesla2": "6542",
+        "socket:tesla_supercharger": "12",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/amotsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.992534,
+          59.570142
+        ]
+      },
+      "id": "node/2943444993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3002125370",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "8",
+        "name": "Tesla Lier sør Supercharger",
+        "ref:nobil": "2008",
+        "ref:tesla": "liersouthsupercharger",
+        "ref:tesla2": "6420",
+        "socket:tesla_supercharger": "8",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/liersouthsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.257975,
+          59.766317
+        ]
+      },
+      "id": "node/3002125370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3006405440",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "10",
+        "name": "Tesla Solli Supercharger",
+        "ref:nobil": "1990",
+        "ref:tesla": "sollisupercharger",
+        "ref:tesla2": "6509",
+        "socket:tesla_supercharger": "10",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "10",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/sollisupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.954501,
+          59.324246
+        ]
+      },
+      "id": "node/3006405440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3046946764",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "6",
+        "name": "Tesla Sandane Supercharger",
+        "ref:nobil": "1989",
+        "ref:tesla": "sandanesupercharger",
+        "ref:tesla2": "6500",
+        "socket:tesla_supercharger": "6",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "6",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/sandanesupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.21327,
+          61.778011
+        ]
+      },
+      "id": "node/3046946764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3066308476",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "20",
+        "description": "Tesla Uddevalla Supercharger",
+        "object:city": "Uddevalla",
+        "object:country": "SE",
+        "object:housenumber": "310",
+        "object:postcode": "45198",
+        "object:street": "Herrestads-Torp",
+        "ref:tesla": "uddevallasupercharger",
+        "socket:tesla_supercharger": "12",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/uddevallasupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.811564,
+          58.351635
+        ]
+      },
+      "id": "node/3066308476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3093767759",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "36",
+        "name": "Tesla Alvdal Supercharger",
+        "ref:nobil": "2194",
+        "ref:tesla": "1898",
+        "ref:tesla2": "6777",
+        "socket:tesla_supercharger": "16",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "36",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/alvdalsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6163123,
+          62.1146865
+        ]
+      },
+      "id": "node/3093767759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3174755444",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "8",
+        "name": "Tesla Elverum Supercharger",
+        "ref:nobil": "2331",
+        "ref:tesla": "elverumsupercharger",
+        "ref:tesla2": "6876",
+        "socket:tesla_supercharger": "8",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/elverumsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.541332,
+          60.883982
+        ]
+      },
+      "id": "node/3174755444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3562893793",
+        "access": "customers",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "18",
+        "name": "Tesla Klett Supercharger",
+        "ref:nobil": "2580",
+        "ref:tesla": "leinstrandklettsupercharger",
+        "ref:tesla2": "7585",
+        "socket:tesla_supercharger": "18",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "18",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/leinstrandklettsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.305058,
+          63.32527
+        ]
+      },
+      "id": "node/3562893793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4144024453",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "20",
+        "name": "Tesla Valdresporten Supercharger",
+        "ref:nobil": "13504",
+        "ref:tesla": "nesiadalsupercharger",
+        "ref:tesla2": "13796",
+        "socket:tesla_supercharger": "20",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/nesiadalsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9854807,
+          60.5851072
+        ]
+      },
+      "id": "node/4144024453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4769721500",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Vinstra Supercharger",
+        "ref:nobil": "4074",
+        "ref:tesla": "vinstrasupercharger",
+        "ref:tesla2": "26296",
+        "socket:tesla_supercharger": "12",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/vinstrasupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.721481,
+          61.590477
+        ]
+      },
+      "id": "node/4769721500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4991262767",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "20",
+        "name": "Tesla Töcksfors Supercharger",
+        "object:city": "Töcksfors",
+        "object:country": "SE",
+        "object:housenumber": "3",
+        "object:postcode": "670 10",
+        "object:street": "Lindudden Töcksfors",
+        "ref:tesla": "tocksforssupercharger",
+        "socket:tesla_supercharger": "20",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/tocksforssupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.822397,
+          59.509361
+        ]
+      },
+      "id": "node/4991262767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5376089261",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "20",
+        "name": "Tesla Ringdalskogen Supercharger",
+        "ref:nobil": "4776",
+        "ref:tesla": "47752",
+        "ref:tesla2": "39153",
+        "socket:tesla_supercharger": "20",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/ringdalskogensupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1082699,
+          59.112085
+        ]
+      },
+      "id": "node/5376089261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5530152702",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Voss Supercharger",
+        "ref:nobil": "5072",
+        "ref:tesla": "vosssupercharger",
+        "ref:tesla2": "38997",
+        "socket:tesla_supercharger": "12",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/vosssupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4362443,
+          60.6582566
+        ]
+      },
+      "id": "node/5530152702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656031092",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "10",
+        "name": "Tesla Norheimsund Supercharger",
+        "ref:nobil": "4464",
+        "ref:tesla": "norheimsundsupercharger",
+        "ref:tesla2": "35746",
+        "socket:tesla_supercharger": "10",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "10",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/norheimsundsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.141043,
+          60.372297
+        ]
+      },
+      "id": "node/5656031092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5660819788",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "10",
+        "name": "Tesla Lavik Supercharger",
+        "ref:nobil": "4221",
+        "ref:tesla": "Laviksupercharger",
+        "ref:tesla2": "31632",
+        "socket:tesla_supercharger": "10",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "10",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/laviksupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.512982,
+          61.103699
+        ]
+      },
+      "id": "node/5660819788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754893295",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "8",
+        "name": "Tesla Eidfjord Supercharger",
+        "ref:nobil": "3755",
+        "ref:tesla": "eidfjordsupercharger",
+        "ref:tesla2": "23305",
+        "socket:tesla_supercharger": "8",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/eidfjordsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.068901,
+          60.467336
+        ]
+      },
+      "id": "node/5754893295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5923882753",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "16",
+        "name": "Tesla Holmestrand Supercharger",
+        "ref:nobil": "4627",
+        "ref:tesla": "holmestrandsupercharger",
+        "ref:tesla2": "38327",
+        "socket:tesla_supercharger": "16",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "16",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/holmestrandsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.294776,
+          59.490221
+        ]
+      },
+      "id": "node/5923882753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6016034802",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Hovden Supercharger",
+        "ref:nobil": "4463",
+        "ref:tesla": "hovdensupercharger",
+        "ref:tesla2": "36012",
+        "socket:tesla_supercharger": "12",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/hovdensupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.356798,
+          59.561358
+        ]
+      },
+      "id": "node/6016034802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6017102048",
+        "access": "customers",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "3",
+        "not:brand:wikidata": "Q478214",
+        "opening_hours": "24/7",
+        "operator": "Straand Hotel",
+        "parking:fee": "yes",
+        "ref:nobil": "1799",
+        "socket:type2": "3",
+        "socket:type2:output": "7.4 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4963753,
+          59.3243974
+        ]
+      },
+      "id": "node/6017102048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6019570786",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "44",
+        "name": "Tesla Nebbenes Supercharger",
+        "ref:nobil": "3535",
+        "ref:tesla": "eldsvollverknorwaysupercharger",
+        "ref:tesla2": "20098",
+        "socket:tesla_supercharger": "44",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "44",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/eldsvollverknorwaysupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.145045,
+          60.312284
+        ]
+      },
+      "id": "node/6019570786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6024217375",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "26",
+        "name": "Tesla Gulsvik Supercharger",
+        "ref:nobil": "5071",
+        "ref:tesla": "gulsviksupercharger",
+        "ref:tesla2": "43289",
+        "socket:tesla_supercharger": "26",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "26",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/gulsviksupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.609943,
+          60.381213
+        ]
+      },
+      "id": "node/6024217375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6024217380",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q17089620",
+        "capacity": "20",
+        "name": "Tesla Eiker Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "ref:nobil": "4462",
+        "ref:tesla": "hokksundsupercharger",
+        "ref:tesla2": "35927",
+        "socket:tesla_supercharger": "20",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/hokksundsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.905523,
+          59.761183
+        ]
+      },
+      "id": "node/6024217380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6025956809",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "18",
+        "name": "Tesla Bismo Supercharger",
+        "ref:nobil": "3780",
+        "ref:tesla": "skjakbismosupercharger",
+        "ref:tesla2": "22039",
+        "socket:tesla_supercharger": "10",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "18",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/skjakbismosupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.267024,
+          61.883142
+        ]
+      },
+      "id": "node/6025956809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6034292215",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "20",
+        "name": "Tesla Arna Supercharger",
+        "ref:nobil": "4874",
+        "ref:tesla": "asanearnasupercharger",
+        "ref:tesla2": "43472",
+        "socket:tesla_supercharger": "20",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/asanearnasupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.467055,
+          60.421842
+        ]
+      },
+      "id": "node/6034292215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6034292225",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "14",
+        "name": "Tesla Os Supercharger",
+        "ref:nobil": "4937",
+        "ref:tesla": "ossupercharger",
+        "ref:tesla2": "43287",
+        "socket:tesla_supercharger": "14",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "14",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/ossupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.464821,
+          60.193053
+        ]
+      },
+      "id": "node/6034292225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051230320",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "20",
+        "name": "Tesla Berkåk Supercharger",
+        "ref:nobil": "4695",
+        "ref:tesla": "berkaknosupercharger",
+        "ref:tesla2": "34117",
+        "socket:tesla_supercharger": "20",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/berkaknosupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0098982,
+          62.831924
+        ]
+      },
+      "id": "node/6051230320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6068812194",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Tesla Aspøya Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "ref:nobil": "2099",
+        "ref:tesla": "aspoyasupercharger",
+        "ref:tesla2": "6557",
+        "socket:tesla_supercharger": "8",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/aspoyasupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.977802,
+          63.011454
+        ]
+      },
+      "id": "node/6068812194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6068812208",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Åndalsnes Supercharger",
+        "ref:nobil": "5032",
+        "ref:tesla": "andalsnessupercharger",
+        "ref:tesla2": "43467",
+        "socket:tesla_supercharger": "12",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/andalsnessupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6853553,
+          62.5577854
+        ]
+      },
+      "id": "node/6068812208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6886631743",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Røldal Supercharger",
+        "ref:nobil": "5318",
+        "ref:tesla": "roldalsupercharger",
+        "ref:tesla2": "28798",
+        "socket:tesla_supercharger": "12",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/roldalsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.752256,
+          59.81685
+        ]
+      },
+      "id": "node/6886631743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7004520227",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "20",
+        "name": "Tesla Lasses Supercharger",
+        "ref:nobil": "5870",
+        "ref:tesla": "lassessupercharger",
+        "ref:tesla2": "50580",
+        "socket:tesla_supercharger": "20",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/lassessupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6737487,
+          59.0374576
+        ]
+      },
+      "id": "node/7004520227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7004520231",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "20",
+        "name": "Tesla Øyer Supercharger",
+        "ref:nobil": "5320",
+        "ref:tesla": "oyersupercharger",
+        "ref:tesla2": "47912",
+        "socket:tesla_supercharger": "20",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/oyersupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.43448,
+          61.243385
+        ]
+      },
+      "id": "node/7004520231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7004520232",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "16",
+        "name": "Tesla Lærdal Supercharger",
+        "ref:nobil": "5872",
+        "ref:tesla": "laedalnosupercharger",
+        "ref:tesla2": "43604",
+        "socket:tesla_supercharger": "12",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "16",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/laedalnosupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5107361,
+          61.0646844
+        ]
+      },
+      "id": "node/7004520232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7004520233",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "20",
+        "name": "Tesla Brumunddal Supercharger",
+        "ref:nobil": "5873",
+        "ref:tesla": "brumundalsupercharger",
+        "ref:tesla2": "43505",
+        "socket:tesla_supercharger": "20",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/brumundalsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.929593,
+          60.878178
+        ]
+      },
+      "id": "node/7004520233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7058633613",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "16",
+        "name": "Tesla Skei Supercharger",
+        "ref:nobil": "6117",
+        "ref:tesla": "skeisupercharger",
+        "ref:tesla2": "50581",
+        "socket:tesla_supercharger": "12",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "16",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/skeisupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.483437,
+          61.575496
+        ]
+      },
+      "id": "node/7058633613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7079485670",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "16",
+        "name": "Tesla Skarnes Supercharger",
+        "ref:nobil": "6403",
+        "ref:tesla": "skarnessupercharger",
+        "ref:tesla2": "52490",
+        "socket:tesla_supercharger": "16",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "16",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/skarnessupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7436817,
+          60.2488783
+        ]
+      },
+      "id": "node/7079485670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7680482175",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "20",
+        "name": "Tesla Bamble Supercharger",
+        "ref:nobil": "6705",
+        "ref:tesla": "bamblesupercharger",
+        "ref:tesla2": "53153",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/bamblesupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.512776,
+          58.971326
+        ]
+      },
+      "id": "node/7680482175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7684338672",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "24",
+        "name": "Tesla Gol vest Supercharger",
+        "ref:nobil": "6760",
+        "ref:tesla": "golwestsupercharger",
+        "ref:tesla2": "52461",
+        "socket:tesla_supercharger": "16",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "24",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/golwestsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9536374,
+          60.6974107
+        ]
+      },
+      "id": "node/7684338672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8478719205",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "40",
+        "name": "Tesla Vestby Supercharger",
+        "ref:nobil": "7247",
+        "ref:tesla": "15291",
+        "ref:tesla2": "64335",
+        "socket:type2_combo": "40",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.741187,
+          59.602856
+        ]
+      },
+      "id": "node/8478719205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8567570562",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "16",
+        "name": "Tesla Leira Supercharger",
+        "ref:nobil": "7181",
+        "ref:tesla": "leirasupercharger",
+        "ref:tesla2": "54514",
+        "socket:type2_combo": "16",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/leirasupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2913155,
+          60.9691432
+        ]
+      },
+      "id": "node/8567570562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9355801209",
+        "access": "yes",
+        "addr:city": "Storlien",
+        "addr:country": "SE",
+        "addr:housenumber": "1",
+        "addr:postcode": "83799",
+        "addr:street": "Vintergatan",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "8",
+        "name": "Tesla Storlien Supercharger",
+        "ref:tesla": "storliensupercharger",
+        "socket:tesla_supercharger": "8",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/storliensupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.109254,
+          63.309975
+        ]
+      },
+      "id": "node/9355801209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9355862663",
+        "access": "yes",
+        "addr:city": "Uddevalla",
+        "addr:postcode": "451 95",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "16",
+        "description": "Tesla Hogstorp Supercharger",
+        "ref:tesla": "hogstorpsupercharger",
+        "socket:type2_combo": "16",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/Uddevallasesupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7581144,
+          58.3932907
+        ]
+      },
+      "id": "node/9355862663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9440308213",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Maurset Supercharger",
+        "ref:nobil": "6906",
+        "ref:tesla": "maursetsupercharger",
+        "ref:tesla2": "54713",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/maursetsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.325257,
+          60.410324
+        ]
+      },
+      "id": "node/9440308213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9464240594",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "16",
+        "name": "Tesla Fåvang Supercharger",
+        "ref:nobil": "9357",
+        "ref:tesla": "Favangnosupercharger",
+        "ref:tesla2": "55561",
+        "socket:type2_combo": "16",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/Favangnosupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1890865,
+          61.4544042
+        ]
+      },
+      "id": "node/9464240594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9464242261",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "24",
+        "name": "Tesla Fokserød Supercharger",
+        "ref:nobil": "8073",
+        "ref:tesla": "Tonsbergnosupercharger",
+        "ref:tesla2": "55553",
+        "socket:type2_combo": "24",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/Tonsbergnosupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2092331,
+          59.17952
+        ]
+      },
+      "id": "node/9464242261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9464254410",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "24",
+        "name": "Tesla Gjøvik Supercharger",
+        "ref:nobil": "9363",
+        "ref:tesla": "Gjoviknosupercharger",
+        "ref:tesla2": "55542",
+        "socket:type2_combo": "24",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/Gjoviknosupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.691735,
+          60.800837
+        ]
+      },
+      "id": "node/9464254410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476587319",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "24",
+        "name": "Tesla Rudshøgda Supercharger",
+        "ref:nobil": "9359",
+        "ref:tesla": "Rudshogdasupercharger",
+        "ref:tesla2": "59848",
+        "socket:type2_combo": "24",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/Rudshogdasupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8117153,
+          60.9102816
+        ]
+      },
+      "id": "node/9476587319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476587320",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Stryn Supercharger",
+        "ref:nobil": "9366",
+        "ref:tesla": "NordfjordeidSupercharger",
+        "ref:tesla2": "58043",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/NordfjordeidSupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.725761,
+          61.904626
+        ]
+      },
+      "id": "node/9476587320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476587321",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "20",
+        "motorcar": "yes",
+        "name": "Tesla Strandtorget Supercharger",
+        "opening_hours": "24/7",
+        "ref:nobil": "9858",
+        "ref:tesla": "LillehammerCentralSupercharger",
+        "ref:tesla2": "58042",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/LillehammerCentralSupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4471889,
+          61.1145951
+        ]
+      },
+      "id": "node/9476587321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476587322",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "20",
+        "name": "Tesla Kløfta Supercharger",
+        "ref:nobil": "8072",
+        "ref:tesla": "Kloftanosupercharger",
+        "ref:tesla2": "55563",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/Kloftanosupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1494317,
+          60.0795542
+        ]
+      },
+      "id": "node/9476587322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476587323",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "8",
+        "name": "Tesla Treungen Supercharger",
+        "ref:nobil": "9360",
+        "ref:tesla": "Treungennosupercharger",
+        "ref:tesla2": "55562",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/Treungennosupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.52385,
+          59.018794
+        ]
+      },
+      "id": "node/9476587323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476587325",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "9",
+        "name": "Tesla Skien Supercharger",
+        "ref:nobil": "9365",
+        "ref:tesla": "Skiennosupercharger",
+        "ref:tesla2": "55544",
+        "socket:type2_combo": "9",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/Skiennosupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.609231,
+          59.2065108
+        ]
+      },
+      "id": "node/9476587325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476587326",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Molde Supercharger",
+        "ref:nobil": "9364",
+        "ref:tesla": "Moldenosupercharger",
+        "ref:tesla2": "55540",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/Moldenosupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.199849,
+          62.739444
+        ]
+      },
+      "id": "node/9476587326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9476587327",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "12",
+        "name": "Tesla Notodden Supercharger",
+        "ref:nobil": "7248",
+        "ref:tesla": "notoddensupercharger",
+        "ref:tesla2": "55372",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/notoddensupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.218931,
+          59.56683
+        ]
+      },
+      "id": "node/9476587327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901970413",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Oppdal Supercharger",
+        "ref:nobil": "9859",
+        "ref:tesla": "oppdalsuperchargerq122",
+        "ref:tesla2": "62196",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6891204,
+          62.5958268
+        ]
+      },
+      "id": "node/9901970413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9932787713",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "20",
+        "name": "Tesla Vinstra nord Supercharger",
+        "ref:nobil": "9861",
+        "ref:tesla": "VinstraNorthq222",
+        "ref:tesla2": "63017",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7265558,
+          61.5945417
+        ]
+      },
+      "id": "node/9932787713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10567560549",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Veggli Supercharger",
+        "ref:nobil": "14043",
+        "ref:tesla": "vegglisupercharger",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/vegglisupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1551089,
+          60.0402339
+        ]
+      },
+      "id": "node/10567560549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10567917059",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "28",
+        "name": "Tesla Ullevaal Supercharger",
+        "ref:nobil": "11811",
+        "ref:tesla": "OsloNorthSupercharger",
+        "socket:type2_combo": "28",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/OsloNorthSupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7377142,
+          59.9503526
+        ]
+      },
+      "id": "node/10567917059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10738043935",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "16",
+        "name": "Tesla Hernes Supercharger",
+        "ref:nobil": "5874",
+        "ref:tesla": "hernessupercharger",
+        "ref:tesla2": "50576",
+        "socket:tesla_supercharger": "16",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:type2_combo": "16",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/hernessupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6762862,
+          60.9331877
+        ]
+      },
+      "id": "node/10738043935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10738043936",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "40",
+        "name": "Tesla Grålum Supercharger",
+        "ref:nobil": "10169",
+        "ref:tesla": "29680",
+        "ref:tesla2": "64357",
+        "socket:type2_combo": "40",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0627925,
+          59.2977028
+        ]
+      },
+      "id": "node/10738043936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10738043937",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "12",
+        "name": "Tesla Gran Supercharger",
+        "ref:nobil": "9865",
+        "ref:tesla": "gransupercharger",
+        "ref:tesla2": "63179",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5723351,
+          60.3544884
+        ]
+      },
+      "id": "node/10738043937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10738043938",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "20",
+        "name": "Tesla Ål Supercharger",
+        "ref:nobil": "9864",
+        "ref:tesla": "aisupercharger",
+        "ref:tesla2": "63097",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5638403,
+          60.6300697
+        ]
+      },
+      "id": "node/10738043938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10738043939",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "8",
+        "name": "Tesla Volda Supercharger",
+        "ref:nobil": "9862",
+        "ref:tesla": "OrstaVoldaSupercharger",
+        "ref:tesla2": "58044",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.090191,
+          62.140422
+        ]
+      },
+      "id": "node/10738043939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11131997784",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Gudvangen Supercharger",
+        "ref:nobil": "16491",
+        "ref:tesla": "265738",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/265738"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8456049,
+          60.8795939
+        ]
+      },
+      "id": "node/11131997784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11188024333",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "28",
+        "name": "Tesla Elverum vest Supercharger",
+        "ref:nobil": "13503",
+        "ref:tesla": "ElverumWestq222",
+        "socket:type2_combo": "28",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/ElverumWestq222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5155146,
+          60.8875989
+        ]
+      },
+      "id": "node/11188024333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197209564",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q17089620",
+        "capacity": "20",
+        "fee": "yes",
+        "name": "Tesla Gardermoen Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "ref:nobil": "15099",
+        "ref:tesla": "OsloEastLorenskognosupercharger",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/en_eu/findus?bounds=60.75038323232459%2C13.459814906250003%2C59.57392680724586%2C8.845557093750003&location=OsloEastLorenskognosupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1522354,
+          60.1672892
+        ]
+      },
+      "id": "node/11197209564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197209566",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "12",
+        "name": "Tesla Forus Supercharger",
+        "ref:nobil": "15100",
+        "ref:tesla": "StavangerCentralnosupercharger",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7037068,
+          58.8970578
+        ]
+      },
+      "id": "node/11197209566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197209569",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q17089620",
+        "capacity": "12",
+        "fee": "yes",
+        "name": "Tesla Hjerkinn Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "ref:nobil": "16112",
+        "ref:tesla": "328054",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.545076,
+          62.221127
+        ]
+      },
+      "id": "node/11197209569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197209570",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Tesla Rødberg Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "ref:nobil": "17595",
+        "ref:tesla": "339611",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9458514,
+          60.2661314
+        ]
+      },
+      "id": "node/11197209570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197209571",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q17089620",
+        "capacity": "12",
+        "fee": "yes",
+        "name": "Tesla Stord Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "ref:nobil": "17594",
+        "ref:tesla": "325777",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4874821,
+          59.776014
+        ]
+      },
+      "id": "node/11197209571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197209572",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "16",
+        "name": "Tesla Stavanger Supercharger",
+        "ref:nobil": "11702",
+        "ref:tesla": "30368",
+        "socket:type2_combo": "16",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7369194,
+          58.9720299
+        ]
+      },
+      "id": "node/11197209572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11197209575",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q17089620",
+        "capacity": "6",
+        "fee": "yes",
+        "name": "Tesla Rjukan Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "ref:nobil": "15101",
+        "ref:tesla": "295878",
+        "socket:type2_combo": "6",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6257833,
+          59.8803846
+        ]
+      },
+      "id": "node/11197209575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12105202441",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Supercharger",
+        "ref:nobil": "20041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3551608,
+          60.2460435
+        ]
+      },
+      "id": "node/12105202441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12194128123",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "16",
+        "name": "Tesla Vøringsfossen supercharger",
+        "ref:nobil": "30544",
+        "socket:type2_combo": "16",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2474716,
+          60.4251523
+        ]
+      },
+      "id": "node/12194128123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12321225026",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Voss Handelshus Supercharger",
+        "ref:nobil": "37056",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus?location=403105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4579943,
+          60.6350974
+        ]
+      },
+      "id": "node/12321225026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12657852443",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Odda Supercharger",
+        "ref:nobil": "37956",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus?location=29743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5487421,
+          60.0657667
+        ]
+      },
+      "id": "node/12657852443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12734696141",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "11",
+        "name": "Tesla Hemsedal Supercharger",
+        "ref:nobil": "34338",
+        "socket:type2_combo": "11",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus?location=30101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5554475,
+          60.8624173
+        ]
+      },
+      "id": "node/12734696141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12736743711",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "20",
+        "name": "Tesla Hell Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "18849",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9132362,
+          63.4479663
+        ]
+      },
+      "id": "node/12736743711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12736743712",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "12",
+        "name": "Tesla Lillehammer Rosenlund Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "39270",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4514204,
+          61.1274971
+        ]
+      },
+      "id": "node/12736743712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12773980009",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "12",
+        "name": "Tesla Nordfjordeid Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "23689",
+        "ref:tesla2": "nordfjordeidsuperchargerq122",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/nordfjordeidsuperchargerq122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9802908,
+          61.9124979
+        ]
+      },
+      "id": "node/12773980009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12773980010",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "8",
+        "name": "Tesla Østerbø Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "30545",
+        "ref:tesla2": "407620",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/407620"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5073448,
+          60.8282333
+        ]
+      },
+      "id": "node/12773980010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12773980015",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "4",
+        "name": "Tesla Eikelandsosen Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "42835",
+        "ref:tesla2": "455123",
+        "socket:type2_combo": "4",
+        "socket:type2_combo:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/455123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7497348,
+          60.2392916
+        ]
+      },
+      "id": "node/12773980015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12773980020",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "16",
+        "name": "Tesla Førde Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "38907",
+        "ref:tesla2": "30092",
+        "socket:type2_combo": "16",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/30092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8863806,
+          61.4485962
+        ]
+      },
+      "id": "node/12773980020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12773980021",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "8",
+        "name": "Tesla Øvre Årdal Supercharger",
+        "ref:nobil": "31062",
+        "ref:tesla2": "435002",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/435002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.806794,
+          61.3094653
+        ]
+      },
+      "id": "node/12773980021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12823935202",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "16",
+        "name": "Tesla Oppdal East Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "30546",
+        "socket:type2_combo": "16",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8820883,
+          62.6571374
+        ]
+      },
+      "id": "node/12823935202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12828063585",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "12",
+        "name": "Tesla Ålesund Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "51307",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3644488,
+          62.4724731
+        ]
+      },
+      "id": "node/12828063585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12840594746",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "20",
+        "name": "Tesla Rena Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "30542",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.375298,
+          61.1307448
+        ]
+      },
+      "id": "node/12840594746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12840601336",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q17089620",
+        "capacity": "20",
+        "fee": "yes",
+        "name": "Tesla Jessheim Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "parking:fee": "no",
+        "ref:nobil": "38906",
+        "socket:type2_combo": "20",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/en_eu/findus?bounds=60.71795756992204%2C13.468299906250015%2C59.54031937707252%2C8.854042093750015&location=428010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1609579,
+          60.1344239
+        ]
+      },
+      "id": "node/12840601336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12840603121",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "12",
+        "name": "Tesla Gjennestad Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "30543",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2732288,
+          59.2304829
+        ]
+      },
+      "id": "node/12840603121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12840608138",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "12",
+        "name": "Tesla Brokelandsheia East Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "42836",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0775853,
+          58.8221232
+        ]
+      },
+      "id": "node/12840608138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12840612275",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "12",
+        "name": "Tesla Røros Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "35850",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3751117,
+          62.5663141
+        ]
+      },
+      "id": "node/12840612275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12840612438",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q17089620",
+        "capacity": "16",
+        "fee": "yes",
+        "name": "Tesla Bogstadveien Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "parking:fee": "yes",
+        "ref:nobil": "21580",
+        "socket:type2_combo": "16",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7261681,
+          59.9241472
+        ]
+      },
+      "id": "node/12840612438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12840618124",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "38",
+        "check_date": "2025-08-01",
+        "name": "Tesla Flå Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "35852",
+        "socket:type2_combo": "38",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.45553,
+          60.430729
+        ]
+      },
+      "id": "node/12840618124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12840625144",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "8",
+        "name": "Tesla Vestnes Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "22710",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0894172,
+          62.6225076
+        ]
+      },
+      "id": "node/12840625144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12840626668",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "24",
+        "name": "Tesla Åsane Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "21135",
+        "socket:type2_combo": "24",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.33273,
+          60.47253
+        ]
+      },
+      "id": "node/12840626668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12840630109",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "8",
+        "name": "Tesla Beitostølen Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "20042",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9015031,
+          61.2485642
+        ]
+      },
+      "id": "node/12840630109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12840632082",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q17089620",
+        "capacity": "12",
+        "fee": "yes",
+        "name": "Tesla Vågå Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "parking:fee": "no",
+        "ref:nobil": "38905",
+        "socket:type2_combo": "12",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/32574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1036155,
+          61.8699177
+        ]
+      },
+      "id": "node/12840632082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12840635202",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "capacity": "2",
+        "name": "Tesla Fredrikstad Supercharger",
+        "parking:fee": "no",
+        "ref:nobil": "39492",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "150 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.94118,
+          59.21167
+        ]
+      },
+      "id": "node/12840635202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12959239107",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "Q478214",
+        "capacity": "16",
+        "fee": "yes",
+        "name": "Tesla Skulestadmo Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "ref:tesla2": "4005476",
+        "socket:type2_combo": "16",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/en_eu/findus?bounds=60.659141998740765%2C6.4455240688476545%2C60.65485185840292%2C6.428357931152342&location=4005476&functionType=party"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.437202,
+          60.6567952
+        ]
+      },
+      "id": "node/12959239107"
+    }
+  ]
+}

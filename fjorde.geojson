@@ -1,0 +1,159 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lysefjorden",
+                "desc": "Vandreture til verdenskendte klippeformationer som Preikestolen og Kjerag eller de 4.444 trin på Flørlis trætrapper er blot nogle af højdepunkterne ved Lysefjorden i Fjord Norge. ref:https://www.visitnorway.dk/aktiviteter/naturattraktioner/fjorde/fjordguide/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3446502, 
+                    59.0109362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hardangerfjorden",
+                "desc": "Fra selve fjorden og til Folgefonna og videre til den ikoniske Trolltunga – i Hardangerfjord-regionen finder du noget af det mest seværdige natur i Norge. Området er også kendt for de blomstrende frugttræer om foråret. ref:https://www.visitnorway.dk/aktiviteter/naturattraktioner/fjorde/fjordguide/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2093501,
+                    60.2773358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lyngenfjorden",
+                "desc": "Lyngenfjorden og Lyngsalpene er et arktisk område med eksotiske, bæredygtige og sjove udendørs oplevelser for hele familien. ref:https://www.visitnorway.dk/aktiviteter/naturattraktioner/fjorde/fjordguide/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4115335,
+                    69.7224843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aurlandsfjorden",
+                "desc": "En smal, frodig sidearm af Norges længste fjord, Sognefjorden. Landsbyen Flåm ligger inderst i Aurlandsfjorden."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1025439,
+                    60.9594992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nærøyfjorden",
+                "desc": "Nærøyfjorden er optaget på UNESCOs verdensarv og er en sidearm til Sognefjorden."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9299083,
+                    60.9432375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sognefjorden",
+                "desc": "Sognefjorden er Norges længste fjord, og én af dens arme, Nærøyfjorden, er på UNESCOs verdensarv. De omgivende fjelde er blandt Norges mest populære vandreområder."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3685278,
+                    61.0919065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nordfjord",
+                "desc": "Fra tårnhøje tinder og gletsjere til dybe fjorde – i Nordfjord er det naturen, der er hovedattraktionen. Tag på vandretur, ud at surfe eller padle, eller slap af på et spahotel. Måske får du også hilst på en fjordhest?"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0045553,
+                    61.8398874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Geirangerfjorden",
+                "desc": "Den dybe blå Geirangerfjord er optaget på UNESCOs verdensarvsliste – omgivet af sneklædte fjeldtoppe, vilde vandfald og frodige grønne græstæpper er den et rent underværk at beskue."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0988588,
+                    62.1031443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hjørundfjorden",
+                "desc": "Denne fjord har mange af de samme træk som Geirangerfjorden, men med langt færre turister og mere uberørt natur. Små landsbyer ligger langs hele fjorden."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4439561,
+                    62.2878691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Romsdalsfjorden",
+                "desc": "Romsdal i Nordvest-regionen er kendt for sin varierede natur. To kendte turistattraktioner i området er fjeldvejen Trollstigen og vandreturen over Romsdalseggen."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3898988,
+                    62.6014855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trollfjorden",
+                "desc": "Denne fjord er blot 100 meter bred på sit smalleste, men besøges alligevel dagligt af krydstogtskibe, herunder Hurtigruten."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94030642968626,
+                    68.36334164693885
+                ]
+            }
+        }
+    ]
+}
