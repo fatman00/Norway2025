@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ålesund lufthavn",
+        "description": "REDDIT: We were in Ålesund this summer. Visited Atlantic Sea Park,  Sunnmøre museum (open air museum with old houses), and a cozy water park Bybadet. Just hanging around the port and lighthouse is nice too. We also took the stairs to the top of the Aksla mountain. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.11471, 62.558247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Aksla viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.166080351983282, 62.47539377628345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlantic Sea-Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.096745492054304, 62.465485474279426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tueneset",
+        "description": "REDDIT: If you would like to hike in mostly easy terrain, there is Tueneset - area around Atlantic Sea Park, a very nice place with beautiful nature and some old World War 2 bunkers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.091913636544147, 62.46849211931721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torghatten - Nasjonale turistveger",
+        "description":"REDDIT: https://www.reddit.com/r/Norway/comments/1n2meeg/this_place/?share_id=uaVysoMY-oVv0rSKda6FI&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.097776591349515, 65.39788791326949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borgund Stave Church"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.812464799999711, 61.04743408638146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lærdalsøyri"
+        "description":"REDDIT: Your final destination for the day should be near Lærdalsøyri, beautiful little town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.485830641983007, 61.09904793463137]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hjellefossen",
+        "description": "REDDIT: You could also drive a bit further if you like to Øvre Årdal, to walk into a beautfil vallet called Utladalen. Go from Hjellefossen. also i would suggest going up to Øvre årdal (right north from Borgund, so you can walk from Hjellefossen into to the beautiful Utladalen, with also various signs with history on it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.8829304093495525, 61.3465142085598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Union Geiranger AS",
+        "description": "REDDIT: lso a stay at Hotel Union Geiranger was nice. Great buffet dinner and nice outdoor heated pool with the mountains with the scenery."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.210448980159153, 62.09655632882941]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vardestopp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.826105, 60.47827333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "29 | 2 Aurland",
+        "description": "REDDIT: 29 | 2 Aurland is a great choice. We stayed in 2019 and it was definitely a highlight. Book dinner — it’s the high-end version of dinner with other backpackers from around the world. The food and who you meet is well worth the extra expense."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.226017567442494, 60.892911587285475]
+      }
+    }
+  ]
+}
