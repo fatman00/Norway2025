@@ -185,7 +185,7 @@
             // https://gis.stackexchange.com/questions/153381/changing-marker-icon-from-oneachfeature-instead-of-pointtolayer-using-leaflet
             layer.setIcon(iconFoss)
         }
-
+        // feature.properties.desc ? `<strong>${feature.properties.name}</strong><br>${feature.properties.desc}` : feature.properties.name
         function onEachFeaturePOI(feature, layer) {
             // does this feature have a property named popupContent?
             if (feature.properties && feature.properties.name) {
@@ -376,7 +376,7 @@
                 aurlandLayer.addData(data);
             });
         var baseUrl = 'https://fatman00.github.io/Norway2025/';
-        var pinData = ['atlanterhavsvegenpoi.geojson', 'gaularfjelletpoi.geojson','hardangerpoi.geojson','rondanepoi.geojson','aurlandfjelletpoi.geojson','geirangerpoi.geojson','hardangerviddapoi.geojson','ryfylkepoi.geojson'];
+        var pinData = ['atlanterhavsvegenpoi.geojson', 'gaularfjelletpoi.geojson','hardangerpoi.geojson','rondanepoi.geojson','aurlandfjelletpoi.geojson','geirangerpoi.geojson','hardangerviddapoi.geojson','ryfylkepoi.geojson', 'privatepoi.geojson'];
 
         pinData.forEach(addPins);
 
