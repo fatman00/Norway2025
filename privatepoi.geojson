@@ -118,6 +118,28 @@
         "type": "Point",
         "coordinates": [6.164492077030921, 62.47277057264021]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buarbreen",
+        "description": "Viewpoint to the glacier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.440118540981013, 60.04238122692383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buer Restaurant",
+        "description": "<a href='https://buer.no/'>Website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.472343770308502, 60.04644087653178]
+      }
     }
   ]
 }
