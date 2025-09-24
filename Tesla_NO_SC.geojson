@@ -2737,6 +2737,33 @@
         ]
       },
       "id": "node/12959239107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/66666666",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla",
+        "brand:wikidata": "66666666",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Tesla Sirdal Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "666666",
+        "ref:tesla2": "6666666",
+        "socket:type2_combo": "8",
+        "socket:type2_combo:output": "250 kW",
+        "website": "https://www.tesla.com/findus?location=59301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.89235,
+          58.91888
+        ]
+      },
+      "id": "node/6666666666"
     }
   ]
 }
