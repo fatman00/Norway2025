@@ -107,6 +107,17 @@
         "type": "Point",
         "coordinates": [7.226017567442494, 60.892911587285475]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bybadet Ålesund",
+        "description": "<a href='https://bybadet.no/en/facilities'>Website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.164492077030921, 62.47277057264021]
+      }
     }
   ]
 }
