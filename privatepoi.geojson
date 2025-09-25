@@ -173,6 +173,28 @@
         "type": "Point",
         "coordinates": [9.864872791178424, 61.59897611704042]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hardangerbadet AS",
+        "description": "<a href='https://www.hardangerbadet.no/om-hardangerbadet/basseng-og-treningsrom/'>Website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.209106039155009, 60.40126712342929]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hovden Water Park & ​​Spa",
+        "description": "<a href='https://hovden.com/hovden-fjellbad'>Website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.354174512804172, 59.570850919247285]
+      }
     }
   ]
 }
