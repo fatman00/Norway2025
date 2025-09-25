@@ -140,6 +140,39 @@
         "type": "Point",
         "coordinates": [6.472343770308502, 60.04644087653178]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Høyangerbadet",
+        "description": "<a href='https://www.hoyanger.kommune.no/hoyangerbadet/'>Website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.072309009605462, 61.233553570424974]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moldebadet",
+        "description": "<a href='https://www.moldebadet.no/fasiliteter-og-basseng'>Website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.146271732513885, 62.735878769322774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fron Badeland",
+        "description": "<a href='https://fronbadeland.no/badeanlegg/'>Website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.864872791178424, 61.59897611704042]
+      }
     }
   ]
 }
