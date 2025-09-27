@@ -195,6 +195,36 @@
         "type": "Point",
         "coordinates": [7.354174512804172, 59.570850919247285]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.326034203743695, 60.40140897761385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.326034203743695, 60.40140897761385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.233108354382364, 60.37152457579086]
+      }
     }
   ]
 }
