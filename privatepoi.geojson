@@ -225,6 +225,39 @@
         "type": "Point",
         "coordinates": [5.233108354382364, 60.37152457579086]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Historiske Dalen Hotel",
+        "description":"Dalen Hotel, eventyrhotellet fra 1894, i overdådig, romantisk stil med dragehovud, tårn og spir, altaner, utspring og gesimser. <a href='https://www.visittelemark.no/ting-a-gjore/historiske-dalen-hotel-p555733'>VisitTelemarken.no</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.011341569173384, 59.44429853509287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaustatoppen",
+        "description":"Gaustatoppen (1883 m.o.h.) troner majestetisk over Rjukan i Telemark og omtales ofte som Norges vakreste fjell. Fra toppen kan du i klarvær se nesten en sjettedel av landet – en utsikt som få andre fjell i Norge kan måle seg med. <a href='https://www.visittelemark.no/ting-a-gjore/gaustatoppen-p508993'>VisitTelemarken.no</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.648895434595573, 59.85542134172597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heddal Stavkirke",
+        "description":"Bli med inn i Noregs største stavkirke, den vakreste av dem alle! Heddal Stavkirke har ligget i bygden Heddal i mange århundrer, helt siden 1200-tallet.<a href='https://www.visittelemark.no/ting-a-gjore/heddal-stavkirke-p517493'>VisitTelemarken.no</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.176256108655352, 59.579634631220905]
+      }
     }
   ]
 }
