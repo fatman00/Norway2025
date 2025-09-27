@@ -258,6 +258,17 @@
         "type": "Point",
         "coordinates": [9.176256108655352, 59.579634631220905]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jettegrytene",
+        "description":"Jettegrytene i Nissedal, dette utrolige flotte naturfenomenet, finner du helt sør i kommunen, ved den vesle bygda Eikhom, en mil fra Telemarksvegen.<a href='https://www.visittelemark.no/ting-a-gjore/jettegrytene-p544563'>VisitTelemarken.no</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.338283943691641, 58.93872053613444]
+      }
     }
   ]
 }
