@@ -269,6 +269,16 @@
         "type": "Point",
         "coordinates": [8.338283943691641, 58.93872053613444]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viewpoint to Storseisundsbrua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3885938057986795, 62.99965300780564]
+      }
     }
   ]
 }
