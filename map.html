@@ -149,7 +149,7 @@
         function onEachFeatureEon(feature, layer) {
             // does this feature have a property named popupContent?
             if (feature.properties && feature.properties.city) {
-                layer.bindPopup(feature.properties.city + "E.ON");
+                layer.bindPopup(feature.properties.city + " E.ON");
             }
             // https://gis.stackexchange.com/questions/153381/changing-marker-icon-from-oneachfeature-instead-of-pointtolayer-using-leaflet
             layer.setIcon(iconEon)
@@ -306,7 +306,7 @@
             .then((data) => {
                 teslaLayer.addData(data);
             });
-
+        // Data fetched from https://locator.uberall.com/api/storefinders/AEPBHLbGYaPvMJ1w85NoAO1yMfrGLF/locations/all?v=20230110&language=en&fieldMask=id&fieldMask=identifier&fieldMask=googlePlaceId&fieldMask=lat&fieldMask=lng&fieldMask=name&fieldMask=country&fieldMask=city&fieldMask=province&fieldMask=streetAndNumber&fieldMask=zip&fieldMask=businessId&fieldMask=addressExtra&
         fetchJSON('https://fatman00.github.io/Norway2025/all_eon.geojson')
             .then((data) => {
                 eonLayer.addData(data);
