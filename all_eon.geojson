@@ -1,0 +1,879 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.988902,
+          54.9478761
+        ]
+      },
+      "properties": {
+        "id": 4553563,
+        "identifier": "Farø",
+        "googlePlaceId": "ChIJiYQalJ7NUkYR7MOF6Ad6sIA",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "DK",
+        "city": "Bogø By",
+        "province": "Zealand",
+        "streetAndNumber": "Grønsundvej 699",
+        "zip": "4793",
+        "businessId": 2114678,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.69486855,
+          56.78401618
+        ]
+      },
+      "properties": {
+        "id": 4553564,
+        "identifier": "Haverslev",
+        "googlePlaceId": "ChIJK6BotLJPSUYRy9vm3gppmLw",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "DK",
+        "city": "Nørager",
+        "province": "North Denmark Region",
+        "streetAndNumber": "Industriparken 11",
+        "zip": "9610",
+        "businessId": 2114678,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2299701,
+          55.561624
+        ]
+      },
+      "properties": {
+        "id": 4553565,
+        "identifier": "Karlslunde W",
+        "googlePlaceId": "ChIJK76nmlr3UkYR2z88pXdXW-8",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "DK",
+        "city": "Karlslunde",
+        "province": "Zealand",
+        "streetAndNumber": "Køge Bugt Motorvejen 296A",
+        "zip": "2690",
+        "businessId": 2114678,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.23070493,
+          55.55980173
+        ]
+      },
+      "properties": {
+        "id": 4553566,
+        "identifier": "Karlslunde E",
+        "googlePlaceId": "ChIJA9WSxrL3UkYRyIEFEh0iTG4",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "DK",
+        "city": "Karlslunde",
+        "province": "Zealand",
+        "streetAndNumber": "Køge Bugt Motorvejen 295A",
+        "zip": "2690",
+        "businessId": 2114678,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.11960346,
+          55.34731583
+        ]
+      },
+      "properties": {
+        "id": 4553567,
+        "identifier": "Halsskov",
+        "googlePlaceId": "ChIJ12fPGxloTUYRVhumso77t_w",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "DK",
+        "city": "Korsør",
+        "province": "Zealand",
+        "streetAndNumber": "Storebæltsvej 60A",
+        "zip": "4220",
+        "businessId": 2114678,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.71834112,
+          55.53572356
+        ]
+      },
+      "properties": {
+        "id": 4553568,
+        "identifier": "Fredericia",
+        "googlePlaceId": "ChIJTSdERz6XTEYRrdv25DDT4G0",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "DK",
+        "city": "Fredericia",
+        "province": "Southern Denmark Region",
+        "streetAndNumber": "Strevelinsvej 5",
+        "zip": "7000",
+        "businessId": 2114678,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.37963433,
+          54.94001269
+        ]
+      },
+      "properties": {
+        "id": 4553569,
+        "identifier": "Kliplev",
+        "googlePlaceId": "ChIJa-497W9as0cRAU3gdTZFzYA",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "DK",
+        "city": "Aabenraa",
+        "province": "Southern Denmark Region",
+        "streetAndNumber": "Kliplev Industripark 2",
+        "zip": "6200",
+        "businessId": 2114678,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8397279,
+          55.29720683
+        ]
+      },
+      "properties": {
+        "id": 4553570,
+        "identifier": "Knudshoved",
+        "googlePlaceId": "ChIJlXH3sug_TUYRhpK17HccfoY",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "DK",
+        "city": "Nyborg",
+        "province": "Southern Denmark Region",
+        "streetAndNumber": "Hjejlevej 107",
+        "zip": "5800",
+        "businessId": 2114678,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.79750209,
+          58.58283048
+        ]
+      },
+      "properties": {
+        "id": 4553448,
+        "identifier": "Evje",
+        "googlePlaceId": "ChIJHfgvPwVqOEYR2qUP_GA5rfY",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "NO",
+        "city": "Evje",
+        "province": "Agder",
+        "streetAndNumber": "Verksvegen 1",
+        "zip": "4735",
+        "businessId": 2114679,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.12634889,
+          62.07341364
+        ]
+      },
+      "properties": {
+        "id": 4553449,
+        "identifier": "Dombås",
+        "googlePlaceId": "ChIJ5a9l4UvBFEYRds20M9ZM4Fc",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "NO",
+        "city": "Dombås",
+        "province": "Innlandet",
+        "streetAndNumber": "Sentralplassen 5",
+        "zip": "2660",
+        "businessId": 2114679,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.18891985,
+          60.27677146
+        ]
+      },
+      "properties": {
+        "id": 4553450,
+        "identifier": "Hallingby",
+        "googlePlaceId": "ChIJv9ak2HurQUYRigQOSpKrgJU",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "NO",
+        "city": "Hallingby",
+        "province": "Buskerud",
+        "streetAndNumber": "Moseveien 5",
+        "zip": "3525",
+        "businessId": 2114679,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1899824,
+          60.4880252
+        ]
+      },
+      "properties": {
+        "id": 4553451,
+        "identifier": "Bromma",
+        "googlePlaceId": "ChIJ0w_j6udwQEYR9Ba6m9xDavs",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "NO",
+        "city": "Nesbyen",
+        "province": "Buskerud",
+        "streetAndNumber": "Hallingdalsveien 4224",
+        "zip": "3540",
+        "businessId": 2114679,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.14610197,
+          60.07773779
+        ]
+      },
+      "properties": {
+        "id": 4553452,
+        "identifier": "Kløfta",
+        "googlePlaceId": "ChIJWTOmIs1_QUYR44V-8sP4__0",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "NO",
+        "city": "Kløfta",
+        "province": "Akershus",
+        "streetAndNumber": "Kongsvingervegen 27",
+        "zip": "2040",
+        "businessId": 2114679,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.81208062,
+          60.91050152
+        ]
+      },
+      "properties": {
+        "id": 4553453,
+        "identifier": "Rudshøgda",
+        "googlePlaceId": "ChIJp5NqoT52akYRqBWskV7RVPI",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "NO",
+        "city": "Rudshøgda",
+        "province": "Innlandet",
+        "streetAndNumber": "Stolvstadvegen 2",
+        "zip": "2360",
+        "businessId": 2114679,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.29850298,
+          58.24033213
+        ]
+      },
+      "properties": {
+        "id": 4553454,
+        "identifier": "Lillesand",
+        "googlePlaceId": "ChIJQ4HlDKr5R0YRgeMd936EIhc",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "NO",
+        "city": "Lillesand",
+        "province": "Agder",
+        "streetAndNumber": "Legdene 1",
+        "zip": "4790",
+        "businessId": 2114679,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.80222078,
+          59.89669023
+        ]
+      },
+      "properties": {
+        "id": 4553455,
+        "identifier": "Ryen",
+        "googlePlaceId": "ChIJCRlwsARvQUYRizPmOSHcO0w",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "NO",
+        "city": "Oslo",
+        "province": "Oslo",
+        "streetAndNumber": "Enebakkveien 150",
+        "zip": "0680",
+        "businessId": 2114679,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56364979,
+          59.73681391
+        ]
+      },
+      "properties": {
+        "id": 4553456,
+        "identifier": "Haukeli",
+        "googlePlaceId": "ChIJUwIJ0BjWPkYRltqUfSvNhGs",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "NO",
+        "city": "Edland",
+        "province": "Telemark",
+        "streetAndNumber": "Storegutvegen 256",
+        "zip": "3895",
+        "businessId": 2114679,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54210849,
+          61.13052818
+        ]
+      },
+      "properties": {
+        "id": 4553457,
+        "identifier": "Vang i Valdres",
+        "googlePlaceId": "ChIJV1qRgiFhFUYRPbguDxBmpXY",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "NO",
+        "city": "Vang i Valdres",
+        "province": "Innlandet",
+        "streetAndNumber": "Tyinvegen 5340",
+        "zip": "2975",
+        "businessId": 2114679,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.76390504,
+          59.73780694
+        ]
+      },
+      "properties": {
+        "id": 4553458,
+        "identifier": "Vinterbro",
+        "googlePlaceId": "ChIJyZVM_cJCQUYRbfsfmjOxW98",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "NO",
+        "city": "Vinterbro",
+        "province": "Akershus",
+        "streetAndNumber": "Sjøskogenveien 2",
+        "zip": "1407",
+        "businessId": 2114679,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.19016234,
+          61.45390025
+        ]
+      },
+      "properties": {
+        "id": 4553470,
+        "identifier": "Kvitfjelltunet",
+        "googlePlaceId": "ChIJFz352t3uakYRfrKCvanKGTc",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "NO",
+        "city": "Fåvang",
+        "province": "Innlandet",
+        "streetAndNumber": "Stasjonsvegen 9",
+        "zip": "2436",
+        "businessId": 2114679,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.97454116,
+          57.72063285
+        ]
+      },
+      "properties": {
+        "id": 4553459,
+        "identifier": "Boras",
+        "googlePlaceId": "ChIJ-xvS_JagWkYRZWsDXLuHNuc",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Borås",
+        "province": "Västra Götalands län",
+        "streetAndNumber": "Hultagatan 11",
+        "zip": "507 50",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.46636632,
+          59.39348165
+        ]
+      },
+      "properties": {
+        "id": 4553460,
+        "identifier": "Eskilstuna",
+        "googlePlaceId": "ChIJJXxadRmNXkYRmFzkxaz8_jM",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Eskilstuna",
+        "province": "Södermanlands län",
+        "streetAndNumber": "Västerleden 40",
+        "zip": "633 47",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47575985,
+          59.3837073
+        ]
+      },
+      "properties": {
+        "id": 4553461,
+        "identifier": "Karlstad",
+        "googlePlaceId": "ChIJ1y7cBI6zXEYR0Z48zCb0byE",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Karlstad",
+        "province": "Värmlands län",
+        "streetAndNumber": "Hagalundsvägen 31",
+        "zip": "653 41",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9904427,
+          55.7666499
+        ]
+      },
+      "properties": {
+        "id": 4553462,
+        "identifier": "Löddeköpinge",
+        "googlePlaceId": "ChIJH_ewwza6U0YR2O5-ER9MILo",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Löddeköpinge",
+        "province": "Skåne län",
+        "streetAndNumber": "Marknadsvägen 1",
+        "zip": "246 42",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.63063438,
+          58.48793791
+        ]
+      },
+      "properties": {
+        "id": 4553463,
+        "identifier": "Munkedal",
+        "googlePlaceId": "ChIJ56fbpNWrRUYR8iFBow6BRo8",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Munkedal",
+        "province": "Västra Götalands län",
+        "streetAndNumber": "Tradenvägen 6",
+        "zip": "455 91",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.08034541,
+          58.5684725
+        ]
+      },
+      "properties": {
+        "id": 4553464,
+        "identifier": "Norrköping Klinga",
+        "googlePlaceId": "ChIJBSxDwzk5WUYRuE0FJmZpK4c",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Norrköping",
+        "province": "Östergötlands län",
+        "streetAndNumber": "Skärblackavägen 4",
+        "zip": "605 97",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.63001333,
+          59.18334183
+        ]
+      },
+      "properties": {
+        "id": 4553465,
+        "identifier": "Södertälje",
+        "googlePlaceId": "ChIJ9XFiXLwSX0YRHMuNULSOnEo",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Södertälje",
+        "province": "Stockholms län",
+        "streetAndNumber": "Genetaleden 35",
+        "zip": "151 44",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.98086334,
+          58.74906503
+        ]
+      },
+      "properties": {
+        "id": 4553466,
+        "identifier": "Nyköping",
+        "googlePlaceId": "ChIJkTh4ehctX0YRSI4TRobi0LM",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Nyköping",
+        "province": "Södermanlands län",
+        "streetAndNumber": "Bergshammarsvägen 2",
+        "zip": "611 38",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.72947157,
+          59.84462682
+        ]
+      },
+      "properties": {
+        "id": 4553467,
+        "identifier": "Uppsala",
+        "googlePlaceId": "ChIJxVFseinJX0YR8bCdzSFVNco",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Uppsala",
+        "province": "Uppsala län",
+        "streetAndNumber": "Kumlagatan 2",
+        "zip": "754 54",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.07675064,
+          57.16113782
+        ]
+      },
+      "properties": {
+        "id": 4553468,
+        "identifier": "Värnamo",
+        "googlePlaceId": "ChIJI8D_mH_BUEYRGnhx_-JGeGc",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Värnamo",
+        "province": "Jönköpings län",
+        "streetAndNumber": "Bredastensvägen 3",
+        "zip": "331 44",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.27633275,
+          57.1692747
+        ]
+      },
+      "properties": {
+        "id": 4553469,
+        "identifier": "Varberg",
+        "googlePlaceId": "ChIJJYBjbNQpUEYRre5Bq2sGNi4",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Varberg",
+        "province": "Hallands län",
+        "streetAndNumber": "Guunertorpsvägen 6",
+        "zip": "43295",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.96653521,
+          61.07231299
+        ]
+      },
+      "properties": {
+        "id": 4553471,
+        "identifier": "Tönnebro",
+        "googlePlaceId": "ChIJ3dd2JnnVZkYRlc6wOmYQano",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Stråtjära",
+        "province": "Gävleborgs län",
+        "streetAndNumber": "Tönnebro 125",
+        "zip": "82669",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.64172489,
+          60.60479857
+        ]
+      },
+      "properties": {
+        "id": 4621980,
+        "identifier": "Falun",
+        "googlePlaceId": "ChIJq2jjQnNwZ0YRvMdVA6GP9lw",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Falun",
+        "province": "Dalarnas län",
+        "streetAndNumber": "Tullkammaregatan 2",
+        "zip": "791 31",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2160961,
+          61.9284966
+        ]
+      },
+      "properties": {
+        "id": 4621981,
+        "identifier": "Harmånger",
+        "googlePlaceId": "ChIJW9xHlocaZEYRElExZid7_OI",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Harmånger",
+        "province": "Gävleborgs län",
+        "streetAndNumber": "Strömsbruksvägen 2",
+        "zip": "820 75",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.14147305,
+          59.2174276
+        ]
+      },
+      "properties": {
+        "id": 4711230,
+        "identifier": "Örebro",
+        "googlePlaceId": "ChIJrY4fIEkTXEYREJEEEwL4TdQ",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Örebro",
+        "province": "Örebro län",
+        "streetAndNumber": "Säljarevägen 8",
+        "zip": "702 36",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8059356,
+          58.35066297
+        ]
+      },
+      "properties": {
+        "id": 4717980,
+        "identifier": "Uddevalla",
+        "googlePlaceId": "ChIJVdCswDcPRUYRwkfLleaBgl0",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Uddevalla",
+        "province": "Västra Götalands län",
+        "streetAndNumber": "Herrestads Torp 354",
+        "zip": "451 76",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0987116,
+          61.7338866
+        ]
+      },
+      "properties": {
+        "id": 5060079,
+        "identifier": "Hudiksvall",
+        "googlePlaceId": "ChIJd2M1t72nZkYRa3qrs6P14cw",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Hudiksvall",
+        "province": "Gävleborgs län",
+        "streetAndNumber": "Kungsgatan 51",
+        "zip": "824 30",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1160791,
+          65.840959
+        ]
+      },
+      "properties": {
+        "id": 5219173,
+        "identifier": "Haparanda",
+        "googlePlaceId": "ChIJmW9vBQ1H1UUR82MdDAAJ9NY",
+        "name": "Powered by E.ON Drive & Clever Charging Station",
+        "country": "SE",
+        "city": "Haparanda",
+        "province": "Norrbottens län",
+        "streetAndNumber": "Hästskovägen 4",
+        "zip": "953 36",
+        "businessId": 2114680,
+        "addressExtra": null
+      }
+    }
+  ]
+}
