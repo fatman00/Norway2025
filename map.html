@@ -311,6 +311,10 @@
             .then((data) => {
                 eonLayer.addData(data);
             });
+        fetchJSON('https://fatman00.github.io/Norway2025/eon_sv.geojson')
+            .then((data) => {
+                eonLayer.addData(data);
+            });
 
         fetchJSON('https://fatman00.github.io/Norway2025/drinking_water.geojson')
             .then((data) => {

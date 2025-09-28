@@ -1,0 +1,265 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.8 e802775f",
+    "osm3s": {
+        "timestamp_osm_base": "2025-09-28T20:38:21Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "node",
+            "id": 10742030936,
+            "lat": 57.1678800,
+            "lon": 12.2772200,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "brand": "E.ON",
+                "capacity": "4",
+                "description": "E.ON Gunnestorpsvägen 6",
+                "parking:fee": "no",
+                "ref:nobil": "5754",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10740076761,
+            "lat": 57.1598800,
+            "lon": 14.0758600,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "capacity": "4",
+                "description": "Varnamo UFC",
+                "operator": "E.ON & Clever",
+                "parking:fee": "no",
+                "ref:nobil": "9954",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 107987076761,
+            "lat": 58.51255202812726,
+            "lon": 11.623400963278627,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "capacity": "4",
+                "description": "Munkedal UFC",
+                "operator": "E.ON & Clever",
+                "parking:fee": "no",
+                "ref:nobil": "9954",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 108767076761,
+            "lat": 58.350702742759644,
+            "lon": 11.805503764997885,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "capacity": "4",
+                "description": "Undevella UFC",
+                "operator": "E.ON & Clever",
+                "parking:fee": "no",
+                "ref:nobil": "9954",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1087670764531,
+            "lat": 57.72298211980249,
+            "lon": 12.975111561830463,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "capacity": "4",
+                "description": "Borås UFC",
+                "operator": "E.ON & Clever",
+                "parking:fee": "no",
+                "ref:nobil": "9954",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1087698764531,
+            "lat": 58.577523819516145,
+            "lon": 16.07788443574384,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "capacity": "4",
+                "description": "Norrkoping UFC",
+                "operator": "E.ON & Clever",
+                "parking:fee": "no",
+                "ref:nobil": "9954",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1087698764531,
+            "lat": 58.74912620092673,
+            "lon": 16.98086333245444,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "capacity": "4",
+                "description": "Nykoping UFC",
+                "operator": "E.ON & Clever",
+                "parking:fee": "no",
+                "ref:nobil": "9954",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1087698764531,
+            "lat": 59.234658355150714,
+            "lon": 15.135832708458906,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "capacity": "4",
+                "description": "orebro UFC",
+                "operator": "E.ON & Clever",
+                "parking:fee": "no",
+                "ref:nobil": "9954",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1087698764531,
+            "lat": 59.422283421177475,
+            "lon": 16.468467784369395,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "capacity": "4",
+                "description": "Eskildstuna UFC",
+                "operator": "E.ON & Clever",
+                "parking:fee": "no",
+                "ref:nobil": "9954",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1087698764531,
+            "lat": 59.54700102456555,
+            "lon": 13.520825198655363,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "capacity": "4",
+                "description": "Karlstad UFC",
+                "operator": "E.ON & Clever",
+                "parking:fee": "no",
+                "ref:nobil": "9954",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1087698764531,
+            "lat": 60.63120385599774,
+            "lon": 15.630520558945147,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "capacity": "4",
+                "description": "Falun UFC",
+                "operator": "E.ON & Clever",
+                "parking:fee": "no",
+                "ref:nobil": "9954",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1087698764531,
+            "lat": 61.08811710223874,
+            "lon": 16.96829519074132,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "capacity": "4",
+                "description": "Tonnebro UFC",
+                "operator": "E.ON & Clever",
+                "parking:fee": "no",
+                "ref:nobil": "9954",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1087698764531,
+            "lat": 61.746280499277916,
+            "lon": 17.100954735666644,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "capacity": "4",
+                "description": "Hudliksvall UFC",
+                "operator": "E.ON & Clever",
+                "parking:fee": "no",
+                "ref:nobil": "9954",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1087698764531,
+            "lat": 61.953081197692974,
+            "lon": 17.206541521645587,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "capacity": "4",
+                "description": "Harmånger UFC",
+                "operator": "E.ON & Clever",
+                "parking:fee": "no",
+                "ref:nobil": "9954",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        },
+        {
+            "type": "node",
+            "id": 1087698764531,
+            "lat": 65.84138301155701,
+            "lon": 24.116030950059127,
+            "tags": {
+                "access": "yes",
+                "amenity": "charging_station",
+                "capacity": "4",
+                "description": "Haparanda UFC",
+                "operator": "E.ON & Clever",
+                "parking:fee": "no",
+                "ref:nobil": "9954",
+                "socket:type2_combo": "4",
+                "socket:type2_combo:output": "300 kW"
+            }
+        }
+    ]
+}
