@@ -20,3 +20,12 @@ Use [Overpass Turbo](https://overpass-turbo.eu/) To extract data from OSM datase
     [brand = "Tesla"]
     ({{bbox}});
     out;
+
+Get it using a regex
+
+    [out:json];
+    node
+    [amenity=charging_station]
+    [operator ~ "Tesla.*"]
+    ({{bbox}});
+    out;

@@ -735,39 +735,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/9355856534",
-        "access": "yes",
-        "addr:city": "Töre",
-        "addr:country": "SE",
-        "addr:housenumber": "3",
-        "addr:street": "Klippgränd",
-        "amenity": "charging_station",
-        "brand": "Tesla Supercharger",
-        "brand:wikidata": "Q17089620",
-        "capacity": "8",
-        "fee": "yes",
-        "name": "Supercharger Töre",
-        "operator": "Tesla, Inc.",
-        "operator:wikidata": "Q478214",
-        "ref:tesla": "toresupercharger",
-        "socket:tesla_supercharger": "8",
-        "socket:tesla_supercharger:output": "150 kW",
-        "socket:type2_combo": "8",
-        "socket:type2_combo:output": "150 kW",
-        "website": "https://www.tesla.com/findus/location/supercharger/toresupercharger"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.6570907,
-          65.9115733
-        ]
-      },
-      "id": "node/9355856534"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/9610624202",
         "amenity": "charging_station",
         "brand": "Tesla, Inc.",
@@ -1182,35 +1149,6 @@
         ]
       },
       "id": "node/11663855096"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/11752640404",
-        "access": "yes",
-        "addr:city": "Sundsvall",
-        "addr:country": "SE",
-        "addr:housenumber": "11",
-        "addr:postcode": "863 37",
-        "addr:street": "Antennvägen",
-        "amenity": "charging_station",
-        "brand": "Tesla, Inc.",
-        "brand:wikidata": "Q478214",
-        "capacity": "20",
-        "name": "Tesla Sundsvall North Supercharger",
-        "operator": "Tesla, Inc.",
-        "operator:wikidata": "Q478214",
-        "short_name": "Tesla",
-        "socket:type2_combo:output": "250 kW"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.3453001,
-          62.44283
-        ]
-      },
-      "id": "node/11752640404"
     },
     {
       "type": "Feature",
@@ -1961,30 +1899,6 @@
         ]
       },
       "id": "node/12914359159"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/12914372165",
-        "access": "yes",
-        "amenity": "charging_station",
-        "brand": "Tesla Supercharger",
-        "brand:wikidata": "Q17089620",
-        "capacity": "8",
-        "fee": "yes",
-        "name": "Härnösand Supercharger",
-        "operator": "Tesla",
-        "operator:wikidata": "Q478214",
-        "website": "https://www.tesla.com/en_eu/findus?bounds=62.63698099651785%2C17.92874220814429%2C62.63485801350087%2C17.91972998585425&location=333588"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.9241668,
-          62.6357571
-        ]
-      },
-      "id": "node/12914372165"
     },
     {
       "type": "Feature",
