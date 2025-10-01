@@ -544,35 +544,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8893750189",
-        "amenity": "charging_station",
-        "brand": "Tesla",
-        "brand:wikidata": "Q478214",
-        "capacity": "3",
-        "covered": "yes",
-        "fee": "no",
-        "indoor": "yes",
-        "level": "-1",
-        "location": "underground",
-        "motorcar": "yes",
-        "name": "Sittkoffs Galleria",
-        "opening_hours": "Mo-Fr 10:00-18:00, Th 10:00-20:00, Sa 10:00-16:00",
-        "operator": "Tesla Destination Charger",
-        "short_name": "Tesla",
-        "socket:type2": "3"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9426145,
-          60.0989899
-        ]
-      },
-      "id": "node/8893750189"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/9355620901",
         "addr:city": "Huittinen",
         "addr:country": "FI",
