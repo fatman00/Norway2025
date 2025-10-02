@@ -1849,32 +1849,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/12956408219",
-        "access": "yes",
-        "amenity": "charging_station",
-        "brand": "Tesla Supercharger",
-        "brand:wikidata": "Q17089620",
-        "capacity": "8",
-        "fee": "yes",
-        "name": "Pärnu Supercharger",
-        "operator": "Tesla",
-        "operator:wikidata": "Q478214",
-        "socket:tesla_supercharger_ccs": "8",
-        "socket:tesla_supercharger_ccs:output": "250 kW",
-        "website": "https://www.tesla.com/en_eu/findus?bounds=58.3887529036992%2C24.50537540256378%2C58.386458419612076%2C24.496792333716122&location=33144"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.5011423,
-          58.3876963
-        ]
-      },
-      "id": "node/12956408219"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/12959239107",
         "access": "yes",
         "amenity": "charging_station",
