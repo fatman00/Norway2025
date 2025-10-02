@@ -55,6 +55,50 @@
         "type": "Point",
         "coordinates": [25.84744116913099, 66.54439620299316]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pallas-Yllästunturi National Park",
+        "description": "According to WHO data, the world’s cleanest air has been measured at Pallas, Lapland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.134120793182927, 67.96867555099833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hilltop Forest Spa, Inkoo",
+        "description": "Luxury spa meets nature in this modern forest spa with woodland views in Inkoo.<a href='https://www.visitfinland.com/en/articles/best-luxury-spa-experiences-in-finland/'>website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.92562655804942, 60.08368520040133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haikko Spa, Porvoo",
+        "description": "Venture beyond Helsinki to the outskirts of the medieval town of Porvoo, where you’ll find the exclusive Haikko Spa among the city’s quaint surrounds.<a href='https://www.visitfinland.com/en/articles/best-luxury-spa-experiences-in-finland/'>website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.62221699999745, 60.353235228148215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arctic Sauna World",
+        "description": "For an icy luxury spa experience, you can head north to Lapland and relax by the stunning Lake Jerisjӓrvi.<a href='https://www.visitfinland.com/en/articles/best-luxury-spa-experiences-in-finland/'>website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.03943701144397, 67.94549546303897]
+      }
     }
   ]
 }
