@@ -394,10 +394,10 @@
         var baseUrl = 'https://fatman00.github.io/Norway2025/';
         var pinData = ['atlanterhavsvegenpoi.geojson', 'gaularfjelletpoi.geojson','hardangerpoi.geojson','rondanepoi.geojson','aurlandfjelletpoi.geojson','geirangerpoi.geojson','hardangerviddapoi.geojson','ryfylkepoi.geojson'];
         var pinPersonalData = ['privatepoi.geojson'];
-        var fiData = ['fi_day3.geojson']
+        var fiData = ['fi_day3.geojson'];
 
 
-        pinPersonalData.forEach(addDriveFI);
+        fiData.forEach(addDriveFI);
         
         function addDriveFI(url) {
             console.log("adding:"+baseUrl+url);
@@ -408,6 +408,7 @@
         }
 
         pinPersonalData.forEach(addPersonalPins);
+        
         function addPersonalPins(url) {
             console.log("adding:"+baseUrl+url);
             fetchJSON(baseUrl+url)
