@@ -280,7 +280,7 @@
         var day4Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #3C5A96
         var day5Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #2F4675
         var day6Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #213254
-        var fiLayer = l.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } });
+        var fiLayer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } });
         //var day6omLayer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6", "dashArray": "5,10" } }); // #213254
         //var day7Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #141F33
 
@@ -408,7 +408,7 @@
         }
 
         pinPersonalData.forEach(addPersonalPins);
-        
+
         function addPersonalPins(url) {
             console.log("adding:"+baseUrl+url);
             fetchJSON(baseUrl+url)
