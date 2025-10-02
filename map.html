@@ -280,6 +280,7 @@
         var day4Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #3C5A96
         var day5Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #2F4675
         var day6Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #213254
+        var fiLayer = l.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } });
         //var day6omLayer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6", "dashArray": "5,10" } }); // #213254
         //var day7Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #141F33
 
@@ -393,10 +394,20 @@
         var baseUrl = 'https://fatman00.github.io/Norway2025/';
         var pinData = ['atlanterhavsvegenpoi.geojson', 'gaularfjelletpoi.geojson','hardangerpoi.geojson','rondanepoi.geojson','aurlandfjelletpoi.geojson','geirangerpoi.geojson','hardangerviddapoi.geojson','ryfylkepoi.geojson'];
         var pinPersonalData = ['privatepoi.geojson'];
+        var fiData = ['fi_day3.geojson']
 
+
+        pinPersonalData.forEach(addDriveFI);
+        
+        function addDriveFI(url) {
+            console.log("adding:"+baseUrl+url);
+            fetchJSON(baseUrl+url)
+                .then((data) => {
+                    fiLayer.addData(data);
+                });
+        }
 
         pinPersonalData.forEach(addPersonalPins);
-
         function addPersonalPins(url) {
             console.log("adding:"+baseUrl+url);
             fetchJSON(baseUrl+url)
@@ -491,7 +502,8 @@
             "Personal Pins": pinPersonalLayer,
             "Fall 2024": fall24Layer,
             "Spring 2025": spring25Layer,
-            "Fall 2025": fall25Group
+            "Fall 2025": fall25Group,
+            "Finland 2026": fiLayer
         };
 
         var layerControl = L.control.layers(baseMaps, overlayMaps).addTo(map);

@@ -244,29 +244,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4794966461",
-        "amenity": "charging_station",
-        "brand": "Tesla, Inc.",
-        "brand:wikidata": "Q478214",
-        "capacity": "4",
-        "description": "Verkkokaupan pysäköintihallissa",
-        "name": "Tesla Destination Charger",
-        "operator": "Tesla",
-        "short_name": "Tesla",
-        "socket:schuko": "2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.9210623,
-          60.1564423
-        ]
-      },
-      "id": "node/4794966461"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/5003011521",
         "access": "yes",
         "amenity": "charging_station",
