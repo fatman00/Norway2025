@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Päijänne",
+        "description": "YT:EPIC FINLAND ROAD TRIP | 3 Week Itinerary | Lakeland & Lapland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.415950659637314, 61.498261396178634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porvoo",
+        "description": "YT:EPIC FINLAND ROAD TRIP | 3 Week Itinerary | Lakeland & Lapland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.665305590830624, 60.39525808875082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olavinlinna Savolina",
+        "description": "YT:EPIC FINLAND ROAD TRIP | 3 Week Itinerary | Lakeland & Lapland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.901657236470164, 61.864053220237615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Silent People, parking",
+        "description": "YT:EPIC FINLAND ROAD TRIP | 3 Week Itinerary | Lakeland & Lapland</br><a hre='https://www.suomussalmi.fi/fi/kulttuuri-vapaa-aika-ja-nuoret/kulttuuri/hiljainen-kansa'>Website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.904171724247163, 65.09385742076581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Claus Village",
+        "description": "YT:EPIC FINLAND ROAD TRIP | 3 Week Itinerary | Lakeland & Lapland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.84744116913099, 66.54439620299316]
+      }
+    }
+  ]
+}

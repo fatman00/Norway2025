@@ -255,6 +255,8 @@
 
         var pinPersonalLayer = L.geoJSON(false, { onEachFeature: onEachFeatureBluePOI });
 
+        var pinFiLayer = L.geoJSON(false, { onEachFeature: onEachFeatureBluePOI });
+
 
 
         // Color on the roads: https://leafletjs.com/examples/choropleth/
@@ -394,7 +396,8 @@
         var baseUrl = 'https://fatman00.github.io/Norway2025/';
         var pinData = ['atlanterhavsvegenpoi.geojson', 'gaularfjelletpoi.geojson','hardangerpoi.geojson','rondanepoi.geojson','aurlandfjelletpoi.geojson','geirangerpoi.geojson','hardangerviddapoi.geojson','ryfylkepoi.geojson'];
         var pinPersonalData = ['privatepoi.geojson'];
-        var fiData = ['fi_day1.geojson','fi_day2.geojson','fi_day3.geojson'];
+        var fiPOIData = ['fipoi.geojson'];
+        var fiData = ['fi_day1.geojson','fi_day2.geojson','fi_day3.geojson', 'route62.geojson'];
 
 
         fiData.forEach(addDriveFI);
@@ -414,6 +417,17 @@
             fetchJSON(baseUrl+url)
                 .then((data) => {
                     pinPersonalLayer.addData(data);
+                });
+        }
+
+
+        fiPOIData.forEach(addFiPins);
+
+        function addFiPins(url) {
+            console.log("adding:"+baseUrl+url);
+            fetchJSON(baseUrl+url)
+                .then((data) => {
+                    pinFiLayer.addData(data);
                 });
         }
 
@@ -504,7 +518,8 @@
             "Fall 2024": fall24Layer,
             "Spring 2025": spring25Layer,
             "Fall 2025": fall25Group,
-            "Finland 2026": fiLayer
+            "Finland 2026": fiLayer,
+            "Finland POI": pinFiLayer
         };
 
         var layerControl = L.control.layers(baseMaps, overlayMaps).addTo(map);
