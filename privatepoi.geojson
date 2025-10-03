@@ -279,6 +279,17 @@
         "type": "Point",
         "coordinates": [7.3885938057986795, 62.99965300780564]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Måløy",
+        "description": "REDDIT: Underrated: Måløy, Bremanger and the area around there."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.1136890982304415, 61.93538965953356]
+      }
     }
   ]
 }
