@@ -110,7 +110,7 @@
             const lng = pos.coords.longitude;
             const accuracy = pos.coords.accuracy;
 
-            L.marker([lat, lng]).addTo(map);
+            
             L.circle([lat, lng], { radius: accuracy }).addTo(map);
         }
 
