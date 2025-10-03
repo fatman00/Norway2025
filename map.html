@@ -104,7 +104,8 @@
         // https://gis.stackexchange.com/questions/383909/leaflet-locate-current-location
         function onLocationFound(e) {
             var radius = e.accuracy;
-            L.circle(e.latlng, radius).addTo(map);
+            console.log("Locationing allowed with accuracy: "+radius)
+            L.circle(e.latlng, radius).setStyle({fillColor: 'blue'}).addTo(map);
         }
         map.on('locationfound', onLocationFound);
 
@@ -541,18 +542,6 @@
         //myLayer.addData(tesla);
         // https://stackoverflow.com/questions/34384905/leaflet-how-to-toggle-all-layers-either-off-or-on-at-once
         //toiletGroup.clearLayers();
-
-        // Device location shown on map
-        function onLocationFound(e) {
-            var radius = e.accuracy;
-            console.log("We have now found the location within :"+ radius)
-            L.marker(e.latlng).addTo(map)
-                .bindPopup("You are within " + radius + " meters from this point").openPopup();
-
-            L.circle(e.latlng, radius).setStyle({fillColor: 'blue'}).addTo(map);
-        }
-
-        map.on('locationfound', onLocationFound);
 
     </script>
 
