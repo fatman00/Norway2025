@@ -105,13 +105,16 @@
 
         navigator.geolocation.watchPosition(onLocationFound, onLocationError);
 
+        let currentPosCircle;
+        
         function onLocationFound(pos) {
             const lat = pos.coords.latitude;
             const lng = pos.coords.longitude;
             const accuracy = pos.coords.accuracy;
-
-            
-            L.circle([lat, lng], { radius: accuracy }).addTo(map);
+            if(currentPosCircle) {
+                map.removeLayer(currentPosCircle);
+            }
+            currentPosCircle = L.circle([lat, lng], { radius: accuracy }).addTo(map);
         }
 
         function onLocationError(e) {
