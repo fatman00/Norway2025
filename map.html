@@ -110,14 +110,14 @@
             const lng = pos.coords.longitude;
             const accuracy = pos.coords.accuracy;
 
-            L.marker([lat, lon]).addTo(map);
-            L.circle([lat, lon], { radius: accuracy }).addTo(map);
+            L.marker([lat, lng]).addTo(map);
+            L.circle([lat, lng], { radius: accuracy }).addTo(map);
         }
 
         function onLocationError(e) {
             alert(e.message);
         }
-        
+
         var LeafIcon = L.Icon.extend({
             options: {
                 iconSize: [20, 20], // size of the icon
