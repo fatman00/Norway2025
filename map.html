@@ -102,19 +102,22 @@
         // https://leafletjs.com/examples/mobile/
         // https://www.youtube.com/watch?v=NyjMmNCtKf4
         // https://gis.stackexchange.com/questions/383909/leaflet-locate-current-location
-        function onLocationFound(e) {
-            var radius = e.accuracy;
-            console.log("Locationing allowed with accuracy: " + radius)
-            L.circle(e.latlng, radius).addTo(map);
+
+        navigator.geolocation.watchPosition(onLocationFound, onLocationError);
+
+        function onLocationFound(pos) {
+            const lat = pos.coords.latitude;
+            const lng = pos.coords.longitude;
+            const accuracy = pos.coords.accuracy;
+
+            L.marker([lat, lon]).addTo(map);
+            L.circle([lat, lon], { radius: accuracy }).addTo(map);
         }
-        map.on('locationfound', onLocationFound);
 
         function onLocationError(e) {
             alert(e.message);
         }
-
-        map.on('locationerror', onLocationError);
-
+        
         var LeafIcon = L.Icon.extend({
             options: {
                 iconSize: [20, 20], // size of the icon
