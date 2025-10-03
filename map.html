@@ -545,7 +545,7 @@
         // Device location shown on map
         function onLocationFound(e) {
             var radius = e.accuracy;
-
+            console.log("We have now found the location within :"+ radius)
             L.marker(e.latlng).addTo(map)
                 .bindPopup("You are within " + radius + " meters from this point").openPopup();
 
