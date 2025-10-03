@@ -198,7 +198,7 @@
         function onEachFeatureBluePOI(feature, layer) {
             // does this feature have a property named popupContent?
             if (feature.properties && feature.properties.name) {
-                layer.bindPopup(feature.properties.description ? '<strong>'+feature.properties.name+'</strong><br>'+feature.properties.description : feature.properties.name);
+                layer.bindPopup(feature.properties.description ? '<strong>' + feature.properties.name + '</strong><br>' + feature.properties.description : feature.properties.name);
             }
             // https://gis.stackexchange.com/questions/153381/changing-marker-icon-from-oneachfeature-instead-of-pointtolayer-using-leaflet
             layer.setIcon(iconBluePin)
@@ -398,19 +398,19 @@
             .then((data) => {
                 aurlandLayer.addData(data);
             });
-    
+
         var baseUrl = 'https://fatman00.github.io/Norway2025/';
-        var pinData = ['atlanterhavsvegenpoi.geojson', 'gaularfjelletpoi.geojson','hardangerpoi.geojson','rondanepoi.geojson','aurlandfjelletpoi.geojson','geirangerpoi.geojson','hardangerviddapoi.geojson','ryfylkepoi.geojson'];
+        var pinData = ['atlanterhavsvegenpoi.geojson', 'gaularfjelletpoi.geojson', 'hardangerpoi.geojson', 'rondanepoi.geojson', 'aurlandfjelletpoi.geojson', 'geirangerpoi.geojson', 'hardangerviddapoi.geojson', 'ryfylkepoi.geojson'];
         var pinPersonalData = ['privatepoi.geojson'];
         var fiPOIData = ['fipoi.geojson'];
-        var fiData = ['fi_day1.geojson','fi_day2.geojson','fi_day3.geojson', 'route62.geojson'];
+        var fiData = ['fi_day1.geojson', 'fi_day2.geojson', 'fi_day3.geojson', 'route62.geojson'];
 
 
         fiData.forEach(addDriveFI);
-        
+
         function addDriveFI(url) {
-            console.log("adding:"+baseUrl+url);
-            fetchJSON(baseUrl+url)
+            console.log("adding:" + baseUrl + url);
+            fetchJSON(baseUrl + url)
                 .then((data) => {
                     fiLayer.addData(data);
                 });
@@ -419,8 +419,8 @@
         pinPersonalData.forEach(addPersonalPins);
 
         function addPersonalPins(url) {
-            console.log("adding:"+baseUrl+url);
-            fetchJSON(baseUrl+url)
+            console.log("adding:" + baseUrl + url);
+            fetchJSON(baseUrl + url)
                 .then((data) => {
                     pinPersonalLayer.addData(data);
                 });
@@ -430,8 +430,8 @@
         fiPOIData.forEach(addFiPins);
 
         function addFiPins(url) {
-            console.log("adding:"+baseUrl+url);
-            fetchJSON(baseUrl+url)
+            console.log("adding:" + baseUrl + url);
+            fetchJSON(baseUrl + url)
                 .then((data) => {
                     pinFiLayer.addData(data);
                 });
@@ -440,8 +440,8 @@
         pinData.forEach(addPins);
 
         function addPins(url) {
-            console.log("adding:"+baseUrl+url);
-            fetchJSON(baseUrl+url)
+            console.log("adding:" + baseUrl + url);
+            fetchJSON(baseUrl + url)
                 .then((data) => {
                     pinLayer.addData(data);
                 });
@@ -542,6 +542,17 @@
         // https://stackoverflow.com/questions/34384905/leaflet-how-to-toggle-all-layers-either-off-or-on-at-once
         //toiletGroup.clearLayers();
 
+        // Device location shown on map
+        function onLocationFound(e) {
+            var radius = e.accuracy;
+
+            L.marker(e.latlng).addTo(map)
+                .bindPopup("You are within " + radius + " meters from this point").openPopup();
+
+            L.circle(e.latlng, radius).setStyle({fillColor: 'blue'}).addTo(map);
+        }
+
+        map.on('locationfound', onLocationFound);
 
     </script>
 
