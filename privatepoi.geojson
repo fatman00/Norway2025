@@ -312,6 +312,17 @@
         "type": "Point",
         "coordinates": [8.247070470780656, 61.54907922013501]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galdhøpiggen",
+        "description": "Norwegian Explorer: https://www.youtube.com/watch?v=wcs-q4ydN5M. Galdhøpiggen er Fastlands-Norges, Skandinavias og Nord-Europas høyeste fjell."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.312362397448807, 61.6403656772522]
+      }
     }
   ]
 }
