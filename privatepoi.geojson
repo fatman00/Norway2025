@@ -290,6 +290,17 @@
         "type": "Point",
         "coordinates": [5.1136890982304415, 61.93538965953356]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tronfjellet",
+        "description": "Norwegian Explorer: https://www.youtube.com/watch?v=wcs-q4ydN5M"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.69491282377478, 62.1743847681328]
+      }
     }
   ]
 }
