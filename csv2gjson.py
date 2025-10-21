@@ -2,8 +2,8 @@ import csv
 import json
 
 # Replace this with the path to your CSV file
-input_csv = "spring2025.csv"
-output_geojson = "spring2025.geojson"
+input_csv = "fall2024.csv"
+output_geojson = "fall2024.geojson"
 
 features = []
 

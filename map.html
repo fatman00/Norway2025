@@ -262,7 +262,7 @@
         function onEachFeatureImg(feature, layer) {
             // does this feature have a property named popupContent?
             if (feature.properties && feature.properties.SourceFile) {
-                layer.bindPopup("<img src='/"+feature.properties.SourceFile+"'/>");
+                layer.bindPopup("<img src='"+feature.properties.SourceFile+"'/>");
             }
             // https://gis.stackexchange.com/questions/153381/changing-marker-icon-from-oneachfeature-instead-of-pointtolayer-using-leaflet
             //layer.setIcon(iconBluePin)
@@ -511,6 +511,11 @@
             });
 
         fetchJSON('https://fatman00.github.io/Norway2025/spring2025.geojson')
+            .then((data) => {
+                imgLayer.addData(data);
+            });
+
+        fetchJSON('https://fatman00.github.io/Norway2025/fall2024.geojson')
             .then((data) => {
                 imgLayer.addData(data);
             });
