@@ -30,3 +30,14 @@ Get it using a regex
     [operator ~ "Tesla.*"]
     ({{bbox}});
     out;
+
+## Convert images from trip to thumpnails
+Remember to brew install imagemagic exiftool
+
+    for img in *.jpg; do
+      convert "$img" -resize 250x250\> "resized_$img"
+    done
+
+Use exiftool to extract GPS coords:
+
+    exiftool -gpslatitude -gpslongitude -n -csv -r . > ../spring2025.csv
