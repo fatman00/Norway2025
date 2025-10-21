@@ -259,6 +259,14 @@
             return L.marker(latlng, { icon: iconTrack });
         }
 
+        function onEachFeatureImg(feature, layer) {
+            // does this feature have a property named popupContent?
+            if (feature.properties && feature.properties.SourceFile) {
+                layer.bindPopup("<img src='/"+feature.properties.SourceFile+"'/>");
+            }
+            // https://gis.stackexchange.com/questions/153381/changing-marker-icon-from-oneachfeature-instead-of-pointtolayer-using-leaflet
+            //layer.setIcon(iconBluePin)
+        }
         //var toiletLayer = L.geoJSON(false, { onEachFeature: onEachFeatureToilet }).addTo(map);
         var toiletLayer = L.geoJSON(false, { onEachFeature: onEachFeatureToilet });
 
@@ -269,6 +277,8 @@
         var pinPersonalLayer = L.geoJSON(false, { onEachFeature: onEachFeatureBluePOI });
 
         var pinFiLayer = L.geoJSON(false, { onEachFeature: onEachFeatureBluePOI });
+        
+        var imgLayer = L.geoJSON(false, { onEachFeature: onEachFeatureImg });
 
 
 
@@ -500,6 +510,11 @@
                 day6Layer.addData(data);
             });
 
+        fetchJSON('https://fatman00.github.io/Norway2025/spring2025.geojson')
+            .then((data) => {
+                imgLayer.addData(data);
+            });
+
 
         var osmWithRelief = L.layerGroup([osm, arcgis]);
 
@@ -538,7 +553,8 @@
             "Spring 2025": spring25Layer,
             "Fall 2025": fall25Group,
             "Finland 2026": fiLayer,
-            "Finland POI": pinFiLayer
+            "Finland POI": pinFiLayer,
+            "Images": imgLayer
         };
 
         var layerControl = L.control.layers(baseMaps, overlayMaps).addTo(map);
