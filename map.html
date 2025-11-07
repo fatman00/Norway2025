@@ -298,14 +298,15 @@
 
         var spring25Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDrive, style: { color: "#2D9966", "dashArray": "5,10" } }); // #FE9A37
         var fall24Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDrive, style: { color: "#FE9A37", "dashArray": "5,10" } }); // #FE9A37
+        var fall25Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDrive, style: { color: "#496DB6", "dashArray": "5,10" } }); // #FE9A37
         // https://stackoverflow.com/questions/47229723/how-to-style-path-in-leaflet
-        var day1Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #8AA2D0
-        var day2Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #7792C9
-        var day3Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #496DB6
-        var day4Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #3C5A96
-        var day5Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #2F4675
-        var day6Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #213254
-        var fiLayer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } });
+        //var day1Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #8AA2D0
+        //var day2Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #7792C9
+        //var day3Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #496DB6
+        //var day4Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #3C5A96
+        //var day5Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #2F4675
+        //var day6Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #213254
+        //var fiLayer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } });
         //var day6omLayer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6", "dashArray": "5,10" } }); // #213254
         //var day7Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #141F33
 
@@ -478,36 +479,10 @@
             .then((data) => {
                 fall24Layer.addData(data);
             });
-
-        // Single day data for fall 2025 trip
-        fetchJSON('https://fatman00.github.io/Norway2025/day1.geojson')
+        
+        fetchJSON('https://fatman00.github.io/Norway2025/data-fall_2025.geojson')
             .then((data) => {
-                day1Layer.addData(data);
-            });
-
-        fetchJSON('https://fatman00.github.io/Norway2025/day2.geojson')
-            .then((data) => {
-                day2Layer.addData(data);
-            });
-
-        fetchJSON('https://fatman00.github.io/Norway2025/day3.geojson')
-            .then((data) => {
-                day3Layer.addData(data);
-            });
-
-        fetchJSON('https://fatman00.github.io/Norway2025/day4.geojson')
-            .then((data) => {
-                day4Layer.addData(data);
-            });
-
-        fetchJSON('https://fatman00.github.io/Norway2025/day5.geojson')
-            .then((data) => {
-                day5Layer.addData(data);
-            });
-
-        fetchJSON('https://fatman00.github.io/Norway2025/day6.geojson')
-            .then((data) => {
-                day6Layer.addData(data);
+                fall25Layer.addData(data);
             });
 
         fetchJSON('https://fatman00.github.io/Norway2025/spring2025.geojson')
@@ -533,7 +508,7 @@
 
 
         var turistVegerGroup = L.layerGroup([atlantLayer, geirangerLayer, hardangerLayer, jarenLayer, rondaneLayer, ryfylkeLayer, sognefjelletLayer, varaldresflyLayer, viddaLayer, gaular1Layer, gaular2Layer, aurlandLayer]);
-        var fall25Group = L.layerGroup([day1Layer, day2Layer, day3Layer, day4Layer, day5Layer, day6Layer]);
+        //var fall25Group = L.layerGroup([day1Layer, day2Layer, day3Layer, day4Layer, day5Layer, day6Layer]);
         // No need for groups here
         /*
         var teslaGroup = L.layerGroup([teslaLayer])
@@ -556,7 +531,7 @@
             "Personal Pins": pinPersonalLayer,
             "Fall 2024": fall24Layer,
             "Spring 2025": spring25Layer,
-            "Fall 2025": fall25Group,
+            "Fall 2025": fall25Layer,
             "Finland 2026": fiLayer,
             "Finland POI": pinFiLayer,
             "Images": imgLayer
@@ -566,7 +541,6 @@
         teslaLayer.addTo(map)
         eonLayer.addTo(map)
         turistVegerGroup.addTo(map)
-        fall25Group.addTo(map)
         pinPersonalLayer.addTo(map)
         //spring25Layer.addTo(map)
         //fall24Layer.addTo(map)
