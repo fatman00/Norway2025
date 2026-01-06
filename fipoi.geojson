@@ -99,6 +99,17 @@
         "type": "Point",
         "coordinates": [24.03943701144397, 67.94549546303897]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puumala",
+        "description": "In Finland’s southeastern corner, Ruokolahti is the starting point of the Rte 62 drive through some of the Lakeland region’s most pristine scenery.<a href='https://www.lonelyplanet.com/articles/best-road-trips-in-finland'>website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.175340961641325, 61.51845547014584]
+      }
     }
   ]
 }
