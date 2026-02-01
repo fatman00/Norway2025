@@ -110,6 +110,105 @@
         "type": "Point",
         "coordinates": [28.175340961641325, 61.51845547014584]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ørnfløya",
+        "description": "Easy hike with great panoramic view of bridge to Sommarøy."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.058774526842548, 69.61393309639986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sommarøy",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.004207290796373, 69.63594939384753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hammerfest",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.6817228719731, 70.6633887408268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malla Strict Nature Reserve",
+        "description": "Malla Strict Nature Reserve is Finland’s oldest strict nature reserve, located in Lapland near the borders with Sweden and Norway. It protects unique Arctic–alpine landscapes, rare plants, and dramatic fells shaped by harsh northern conditions."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.66781588920971, 69.06555481011618]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sami Shop Heia",
+        "description": "Cool place to stop if you need the toilet or want to grab a drink, but the souvenirs are very pricey. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.052860534714252, 69.14331933858828]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pikefossen",
+        "description": "In Finland’s southeastern corner, Ruokolahti is the starting point of the Rte 62 drive through some of the Lakeland region’s most pristine scenery.<a href='https://www.lonelyplanet.com/articles/best-road-trips-in-finland'>website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.572310295039635, 69.30380686346406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nordkapp Plateau",
+        "description": "You start at the top of Europe (almost). Sheer cliffs dropping 300+ meters into the Barents Sea. Go early morning or late evening to avoid bus traffic. If weather allows, walk away from the visitor center toward Knivskjellodden for solitude."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.7837631743677, 71.17029545271824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gjesværstappan",
+        "description": "Near Nordkapp. Take a boat trip if you can. Puffins, sea eagles, dramatic cliffs. It’s wild and loud — nature doesn’t whisper here."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.336232989351497, 71.14113429679021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viewpoint",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.40469244294399, 71.09378267717217]
+      }
     }
   ]
 }

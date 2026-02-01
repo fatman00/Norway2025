@@ -36,7 +36,10 @@
         // Make the map on the screen
         //var map = L.map('map').setView([51.505, -0.09], 13);
         //Center on Norway
-        var map = L.map('map').setView([60.473465, 7.712402], 7);
+        //var map = L.map('map').setView([60.473465, 7.712402], 7);
+        //Center on Nordic/Finland
+        var map = L.map('map').setView([63.1097171,10.2262861], 5.5);
+        
 
         // Find the right tiles here:
         // https://leaflet-extras.github.io/leaflet-providers/preview/index.html
@@ -427,7 +430,7 @@
         var pinData = ['atlanterhavsvegenpoi.geojson', 'gaularfjelletpoi.geojson', 'hardangerpoi.geojson', 'rondanepoi.geojson', 'aurlandfjelletpoi.geojson', 'geirangerpoi.geojson', 'hardangerviddapoi.geojson', 'ryfylkepoi.geojson'];
         var pinPersonalData = ['privatepoi.geojson'];
         var fiPOIData = ['fipoi.geojson'];
-        var fiData = ['fi_day1.geojson', 'fi_day2.geojson', 'fi_day3.geojson', 'route62.geojson'];
+        var fiData = ['fi_day1.geojson', 'fi_day2.geojson'];
 
 
         fiData.forEach(addDriveFI);
