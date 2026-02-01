@@ -1970,6 +1970,31 @@
         ]
       },
       "id": "node/13168097079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13168097079",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Mäntsälä Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "socket:type2:output": "250 kW",
+        "website": "https://www.tesla.com/da_dk/findus?bounds=61.005095577897514%2C26.642283004882803%2C60.24051313068376%2C23.938272995117178&location=4008211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.29016,
+          60.62509
+        ]
+      },
+      "id": "node/13165468097079"
     }
   ]
 }
