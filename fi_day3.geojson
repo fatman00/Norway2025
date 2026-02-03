@@ -31002,7 +31002,7 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "Kitkantie, Savonlinna,Finland"
+                "name": "Kitkantie, Savonlinna,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -31015,7 +31015,7 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "Vanha valtatie, Niittylahti,Finland"
+                "name": "Vanha valtatie, Niittylahti,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -31028,7 +31028,7 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "79, Rovaniemi,Finland"
+                "name": "79, Rovaniemi,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -31041,7 +31041,8 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "4, Sodankylä,Finland"
+                "name": "4, Sodankylä,Finland",
+                "type": "end"
             },
             "geometry": {
                 "type": "Point",

@@ -32117,7 +32117,7 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "Turku, Finland"
+                "name": "Turku, Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -32130,7 +32130,7 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "Tuulimyllyntie, Jarvenpaa,Finland"
+                "name": "Tuulimyllyntie, Jarvenpaa,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -32143,7 +32143,7 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "Myyntimiehenkatu 4, Lahti,Finland"
+                "name": "Myyntimiehenkatu 4, Lahti,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -32156,7 +32156,7 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "13, Lappeenranta,Finland"
+                "name": "13, Lappeenranta,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -32169,7 +32169,7 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "Puhurinpolku, Mikkeli,Finland"
+                "name": "Puhurinpolku, Mikkeli,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -32182,7 +32182,7 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "Erkonkuja, Särkisalmi,Finland"
+                "name": "Erkonkuja, Särkisalmi,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -32195,7 +32195,7 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "Kitkantie, Savonlinna,Finland",
+                "name": "Kitkantie, Savonlinna,Finland",
                 "type": "end"
             },
             "geometry": {
