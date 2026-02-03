@@ -30997,6 +30997,58 @@
                         185
                     ]
                 ]
+            },
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Kitkantie, Savonlinna,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.10810470581055,
+                    61.88261468841775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Vanha valtatie, Niittylahti,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.84590530395508,
+                    62.54351887364391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "79, Rovaniemi,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.72886466979981,
+                    66.50590491861368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "4, Sodankylä,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5894889831543,
+                    67.41368554828732
+                ]
             }
         }
     ]

@@ -32113,6 +32113,97 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Turku, Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.185732,
+                    60.398454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Tuulimyllyntie, Jarvenpaa,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.059256553649902,
+                    60.45658297921536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Myyntimiehenkatu 4, Lahti,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.630524158477783,
+                    60.93275704141414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "13, Lappeenranta,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.041449999999998,
+                    61.02629800000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Puhurinpolku, Mikkeli,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.262573242187504,
+                    61.695081959115974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Erkonkuja, Särkisalmi,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.482326507568363,
+                    61.60341675319368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "label": "Kitkantie, Savonlinna,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.10810470581055,
+                    61.88261468841775
+                ]
+            }
         }
     ]
 }
