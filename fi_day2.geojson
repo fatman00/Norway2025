@@ -32195,7 +32195,8 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "Kitkantie, Savonlinna,Finland"
+                "label": "Kitkantie, Savonlinna,Finland",
+                "type": "end"
             },
             "geometry": {
                 "type": "Point",
