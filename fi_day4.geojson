@@ -39928,6 +39928,59 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sompiontie 4, Sodankylä,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.59486,
+                    67.416428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pommikuopantie, Inari,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.016582489013675,
+                    68.90680430494875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "4, Utsjoki,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.034606933593754,
+                    69.9123845320004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nordkapp/North Cape, Nordkapp,Norway",
+                "type": "end"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.78162908554077,
+                    71.16807903721072
+                ]
+            }
         }
     ]
 }

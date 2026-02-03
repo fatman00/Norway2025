@@ -35022,7 +35022,73 @@
                         189.1
                     ]
                 ]
+            },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kitkantie, Savonlinna,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.10810470581055,
+                    61.88261468841775
+                ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vanha valtatie, Niittylahti,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.84590530395508,
+                    62.54351887364391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "E 4, Haparanda,NB,Sweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.128379821777344,
+                    65.84186704771983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "79, Rovaniemi,Finland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.72886466979981,
+                    66.50590491861368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sompiontie 4, Sodankylä,Finland",
+                "type": "end"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.59486,
+                    67.416428
+                ]
+            }
+        }
         }
     ]
 }
