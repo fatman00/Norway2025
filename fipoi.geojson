@@ -220,6 +220,28 @@
         "type": "Point",
         "coordinates": [17.626553131729263, 69.50507473021364]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sukkertoppen Trail Headend/parking",
+        "description": "A steep climb to the Sukkertoppen rewards you with a unique 360-degree view over Bergsfjorden, Bergsøyene and Storhavet. Leaving the road the hike leads you through light birch forest. <a href='https://www.alltrails.com/trail/norway/troms-og-finnmark/sukkertoppen'>alltrails.com</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.15312197751227, 69.41259321464547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sommerdalen Trail Headend/parking",
+        "description": "The hike to Sommardalen on the island of Senja is a fantastic choice for visitors seeking spectacular coastal views without committing to a strenuous summit climb. Starting from the village of Skaland, near the local grocery store and old town hall, the trail follows the lower section of the popular route toward Mount Husfjellet. <a href='https://www.alltrails.com/trail/norway/troms-og-finnmark/sommardalen'>alltrails.com</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.300077549493814, 69.44470053385605]
+      }
     }
-  ]
+  ] 
 }
