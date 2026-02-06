@@ -2958,6 +2958,102 @@
         ]
       },
       "id": "node/1316546sd97079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13168097079",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Finnsnes Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "socket:type2:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.979126,
+          69.226945
+        ]
+      },
+      "id": "node/1316546sd97079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13168097079",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Innhavet Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "socket:type2:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.952148,
+          67.958148
+        ]
+      },
+      "id": "node/1316546sd97079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13168097079",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Fauske Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "socket:type2:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.369873,
+          67.276287
+        ]
+      },
+      "id": "node/1316546sd97079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13168097079",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Storjord Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "socket:type2:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.380859,
+          66.796238
+        ]
+      },
+      "id": "node/1316546sd97079"
     }
   ]
 }
