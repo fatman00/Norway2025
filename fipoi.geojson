@@ -209,6 +209,17 @@
         "type": "Point",
         "coordinates": [25.40469244294399, 71.09378267717217]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Segla and Hesten Trail Headend/parking",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.626553131729263, 69.50507473021364]
+      }
     }
   ]
 }
