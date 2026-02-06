@@ -2764,6 +2764,200 @@
         ]
       },
       "id": "node/6666666666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13168097079",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Alta Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "socket:type2:output": "250 kW",
+        "website": "https://www.tesla.com/findus?bounds=70.15366886513075%2C24.38646745312501%2C69.7668572483857%2C22.079338546875015&location=altasupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.258057,
+          69.956856
+        ]
+      },
+      "id": "node/1316546sd97079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13168097079",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Honningsvåg Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "socket:type2:output": "250 kW",
+        "website": "https://www.tesla.com/findus?bounds=71.18255385800678%2C27.12059645312502%2C70.81502652614452%2C24.81346754687502&location=Honningsvagnosupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.993652,
+          70.97761
+        ]
+      },
+      "id": "node/1316546sd97079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13168097079",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Skaidi Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "socket:type2:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.543457,
+          70.436799
+        ]
+      },
+      "id": "node/1316546sd97079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13168097079",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Karasjok Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "socket:type2:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.576172,
+          69.449842
+        ]
+      },
+      "id": "node/1316546sd97079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13168097079",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Kautokeino Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "socket:type2:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.093262,
+          69.005675
+        ]
+      },
+      "id": "node/1316546sd97079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13168097079",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Sørkjosen Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "socket:type2:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.939941,
+          69.718107
+        ]
+      },
+      "id": "node/1316546sd97079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13168097079",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Setermoen Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "socket:type2:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.336182,
+          68.847665
+        ]
+      },
+      "id": "node/1316546sd97079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13168097079",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "8",
+        "fee": "yes",
+        "name": "Karasjok Supercharger",
+        "operator": "Tesla",
+        "operator:wikidata": "Q478214",
+        "socket:type2:output": "250 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.576172,
+          69.449842
+        ]
+      },
+      "id": "node/1316546sd97079"
     }
   ]
 }
