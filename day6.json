@@ -43264,19 +43264,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fjellveien 2, Alta,Norway"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.299427032470707,
-                    69.9770795531585
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Guovdageaineatnu, Kautokeino,Norway"
             },
             "geometry": {
