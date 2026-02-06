@@ -4,6 +4,7 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Day 6: Nordkapp to Alta</br>557 km, 8 h 48 min",
                 "ascent": 10753.3,
                 "descent": 11018.8,
                 "segments": [
