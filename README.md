@@ -31,6 +31,14 @@ Get it using a regex
     (\{\{bbox\}\});
     out;
 
+Get the swimming_pools from OPT
+
+    [out:json];
+    node
+    [leisure=swimming_pool]
+    ({{bbox}});
+    out;
+
 ## Convert images from trip to thumpnails
 Remember to brew install imagemagic exiftool
 
