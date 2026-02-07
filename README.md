@@ -19,7 +19,7 @@ Use [Overpass Turbo](https://overpass-turbo.eu/) To extract data from OSM datase
     node
     [amenity=charging_station]
     [brand = "Tesla"]
-    ({{bbox}});
+    (\{\{bbox\}\});
     out;
 
 Get it using a regex
@@ -28,7 +28,7 @@ Get it using a regex
     node
     [amenity=charging_station]
     [operator ~ "Tesla.*"]
-    ({{bbox}});
+    (\{\{bbox\}\});
     out;
 
 ## Convert images from trip to thumpnails
