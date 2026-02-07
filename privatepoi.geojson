@@ -323,6 +323,28 @@
         "type": "Point",
         "coordinates": [8.312362397448807, 61.6403656772522]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nordlysbadet",
+        "description": "<a href='https://www.nordlysbadet.no/'>website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.2693166, 69.9652107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "grottebadet",
+        "description": "<a href='https://grottebadet.no/'>website</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.5401425, 68.8006485] 
+      }
     }
   ]
 }

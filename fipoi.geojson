@@ -242,6 +242,28 @@
         "type": "Point",
         "coordinates": [17.300077549493814, 69.44470053385605]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Övertorneå Simhall",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.6498853, 66.3864916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ivalon uimahalli",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5670591, 68.6404408]
+      }
     }
   ] 
 }
