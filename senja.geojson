@@ -7973,43 +7973,6 @@
                     ]
                 ]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "_gpxType": "rte",
-                "name": "Nasjonal turistveg Senja",
-                "type": "TT_HARD"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        17.05258,
-                        69.36342
-                    ],
-                    [
-                        17.50425,
-                        69.42301
-                    ],
-                    [
-                        17.33324,
-                        69.48692
-                    ],
-                    [
-                        17.439,
-                        69.5207
-                    ],
-                    [
-                        17.67106,
-                        69.54539
-                    ],
-                    [
-                        17.90391,
-                        69.50803
-                    ]
-                ]
-            }
         }
     ]
 }
