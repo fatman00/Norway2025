@@ -380,7 +380,7 @@
 
         fetchJSON('https://fatman00.github.io/Norway2025/senja.geojson')
             .then((data) => {
-                snejaLayer.addData(data);
+                senjaLayer.addData(data);
             });
 
         fetchJSON('https://fatman00.github.io/Norway2025/helgelandskysten.geojson')
@@ -522,7 +522,7 @@
 
 
 
-        var turistVegerGroup = L.layerGroup([atlantLayer, geirangerLayer, hardangerLayer, snejaLayer, helgeLayer, jarenLayer, rondaneLayer, ryfylkeLayer, sognefjelletLayer, varaldresflyLayer, viddaLayer, gaular1Layer, gaular2Layer, aurlandLayer]);
+        var turistVegerGroup = L.layerGroup([atlantLayer, geirangerLayer, hardangerLayer, senjaLayer, helgeLayer, jarenLayer, rondaneLayer, ryfylkeLayer, sognefjelletLayer, varaldresflyLayer, viddaLayer, gaular1Layer, gaular2Layer, aurlandLayer]);
         //var fall25Group = L.layerGroup([day1Layer, day2Layer, day3Layer, day4Layer, day5Layer, day6Layer]);
         // No need for groups here
         /*
