@@ -4,9 +4,8 @@
         {
             "type": "Feature",
             "properties": {
-                "_gpxType": "trk",
                 "name": "Nasjonal Turistveg Helgelandskysten",
-                "coordinateProperties": {}
+                "closures": "N/A"
             },
             "geometry": {
                 "type": "LineString",
