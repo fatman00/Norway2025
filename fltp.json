@@ -5,8 +5,8 @@
             "type": "Feature",
             "properties": {
                 "name":"Finlandwide Light Vehicle Test<a href='https://www.reddit.com/r/electricvehicles/comments/1ifxeyb/comment/makncn8/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button'>Reddit Post</a>",
-                "ascent": 7932.9,
-                "descent": 7725.6,
+                "ascent": 7766.3,
+                "descent": 7558.9,
                 "segments": [
                     {
                         "distance": 216.085,
@@ -230,8 +230,8 @@
                         "descent": 2115.1049728393555
                     },
                     {
-                        "distance": 364.119,
-                        "duration": 17640.1,
+                        "distance": 341.989,
+                        "duration": 16043.2,
                         "steps": [
                             {
                                 "distance": 0.069,
@@ -383,144 +383,45 @@
                                 ]
                             },
                             {
-                                "distance": 24.001,
-                                "duration": 962.8,
+                                "distance": 23.946,
+                                "duration": 960.6,
                                 "type": 7,
                                 "instruction": "Enter the roundabout and take the 1st exit onto <b>Pohjantie, 4</b>",
                                 "name": "Pohjantie, 4",
                                 "exit_number": 1,
                                 "way_points": [
                                     4248,
-                                    4417
-                                ]
-                            },
-                            {
-                                "distance": 0.367,
-                                "duration": 48.7,
-                                "type": 13,
-                                "instruction": "Keep right",
-                                "name": "-",
-                                "way_points": [
-                                    4417,
-                                    4428
-                                ]
-                            },
-                            {
-                                "distance": 4.84,
-                                "duration": 324.1,
-                                "type": 13,
-                                "instruction": "Keep right",
-                                "name": "-",
-                                "way_points": [
-                                    4428,
-                                    4462
-                                ]
-                            },
-                            {
-                                "distance": 13.479,
-                                "duration": 979.5,
-                                "type": 13,
-                                "instruction": "Keep right",
-                                "name": "-",
-                                "way_points": [
-                                    4462,
-                                    4567
-                                ]
-                            },
-                            {
-                                "distance": 3.389,
-                                "duration": 242.5,
-                                "type": 0,
-                                "instruction": "Turn left onto <b>Kiimingintie, 846</b>",
-                                "name": "Kiimingintie, 846",
-                                "way_points": [
-                                    4567,
-                                    4592
+                                    4416
                                 ]
                             },
                             {
                                 "distance": 0,
                                 "duration": 0,
                                 "type": 10,
-                                "instruction": "Arrive at Kiimingintie, 846, on the right",
+                                "instruction": "Arrive at Pohjantie, 4, on the right",
                                 "name": "-",
                                 "way_points": [
-                                    4592,
-                                    4592
+                                    4416,
+                                    4416
                                 ]
                             }
                         ],
-                        "ascent": 2591.0109729766846,
-                        "descent": 2640.0109729766846
+                        "ascent": 2448.763973236084,
+                        "descent": 2535.763973236084
                     },
                     {
-                        "distance": 110.486,
-                        "duration": 5979.5,
+                        "distance": 108.038,
+                        "duration": 5231.8,
                         "steps": [
                             {
-                                "distance": 2.104,
-                                "duration": 139.6,
+                                "distance": 34.607,
+                                "duration": 1610.2,
                                 "type": 11,
-                                "instruction": "Head southwest on <b>Kiimingintie, 849</b>",
-                                "name": "Kiimingintie, 849",
+                                "instruction": "Head north on <b>Pohjantie, 4</b>",
+                                "name": "Pohjantie, 4",
                                 "way_points": [
-                                    4592,
-                                    4609
-                                ]
-                            },
-                            {
-                                "distance": 8.573,
-                                "duration": 657.4,
-                                "type": 3,
-                                "instruction": "Turn sharp right onto <b>Takalontie</b>",
-                                "name": "Takalontie",
-                                "way_points": [
-                                    4609,
-                                    4697
-                                ]
-                            },
-                            {
-                                "distance": 0.308,
-                                "duration": 42.5,
-                                "type": 0,
-                                "instruction": "Turn left onto <b>Takalontie</b>",
-                                "name": "Takalontie",
-                                "way_points": [
-                                    4697,
-                                    4704
-                                ]
-                            },
-                            {
-                                "distance": 8.045,
-                                "duration": 480.4,
-                                "type": 1,
-                                "instruction": "Turn right onto <b>Kiiminkijoentie, 848</b>",
-                                "name": "Kiiminkijoentie, 848",
-                                "way_points": [
-                                    4704,
-                                    4785
-                                ]
-                            },
-                            {
-                                "distance": 4,
-                                "duration": 234.2,
-                                "type": 6,
-                                "instruction": "Continue straight onto <b>Kiiminkijoentie, 8460</b>",
-                                "name": "Kiiminkijoentie, 8460",
-                                "way_points": [
-                                    4785,
-                                    4820
-                                ]
-                            },
-                            {
-                                "distance": 14.026,
-                                "duration": 803.9,
-                                "type": 0,
-                                "instruction": "Turn left",
-                                "name": "-",
-                                "way_points": [
-                                    4820,
-                                    4917
+                                    4416,
+                                    4619
                                 ]
                             },
                             {
@@ -531,8 +432,8 @@
                                 "name": "Ouluntie, 4",
                                 "exit_number": 2,
                                 "way_points": [
-                                    4917,
-                                    4931
+                                    4619,
+                                    4633
                                 ]
                             },
                             {
@@ -543,8 +444,8 @@
                                 "name": "Kemintie, 4",
                                 "exit_number": 2,
                                 "way_points": [
-                                    4931,
-                                    5465
+                                    4633,
+                                    5167
                                 ]
                             },
                             {
@@ -554,8 +455,8 @@
                                 "instruction": "Keep right",
                                 "name": "-",
                                 "way_points": [
-                                    5465,
-                                    5477
+                                    5167,
+                                    5179
                                 ]
                             },
                             {
@@ -565,8 +466,8 @@
                                 "instruction": "Turn left onto <b>Kiveliönkatu</b>",
                                 "name": "Kiveliönkatu",
                                 "way_points": [
-                                    5477,
-                                    5485
+                                    5179,
+                                    5187
                                 ]
                             },
                             {
@@ -576,8 +477,8 @@
                                 "instruction": "Turn right",
                                 "name": "-",
                                 "way_points": [
-                                    5485,
-                                    5508
+                                    5187,
+                                    5210
                                 ]
                             },
                             {
@@ -587,8 +488,8 @@
                                 "instruction": "Keep right",
                                 "name": "-",
                                 "way_points": [
-                                    5508,
-                                    5512
+                                    5210,
+                                    5214
                                 ]
                             },
                             {
@@ -598,13 +499,13 @@
                                 "instruction": "Arrive at your destination, on the left",
                                 "name": "-",
                                 "way_points": [
-                                    5512,
-                                    5512
+                                    5214,
+                                    5214
                                 ]
                             }
                         ],
-                        "ascent": 440.61899399757385,
-                        "descent": 476.7019941806793
+                        "ascent": 416.1769983768463,
+                        "descent": 414.2599985599518
                     },
                     {
                         "distance": 116.717,
@@ -617,8 +518,8 @@
                                 "instruction": "Head south",
                                 "name": "-",
                                 "way_points": [
-                                    5512,
-                                    5515
+                                    5214,
+                                    5217
                                 ]
                             },
                             {
@@ -628,8 +529,8 @@
                                 "instruction": "Turn left onto <b>Sauvonväylä</b>",
                                 "name": "Sauvonväylä",
                                 "way_points": [
-                                    5515,
-                                    5518
+                                    5217,
+                                    5220
                                 ]
                             },
                             {
@@ -639,8 +540,8 @@
                                 "instruction": "Turn right",
                                 "name": "-",
                                 "way_points": [
-                                    5518,
-                                    5611
+                                    5220,
+                                    5313
                                 ]
                             },
                             {
@@ -650,8 +551,8 @@
                                 "instruction": "Keep right onto <b>4</b>",
                                 "name": "4",
                                 "way_points": [
-                                    5611,
-                                    5625
+                                    5313,
+                                    5327
                                 ]
                             },
                             {
@@ -661,8 +562,8 @@
                                 "instruction": "Keep left onto <b>4</b>",
                                 "name": "4",
                                 "way_points": [
-                                    5625,
-                                    5626
+                                    5327,
+                                    5328
                                 ]
                             },
                             {
@@ -672,8 +573,8 @@
                                 "instruction": "Turn right onto <b>Jäämerentie, 4</b>",
                                 "name": "Jäämerentie, 4",
                                 "way_points": [
-                                    5626,
-                                    6482
+                                    5328,
+                                    6184
                                 ]
                             },
                             {
@@ -683,8 +584,8 @@
                                 "instruction": "Keep right",
                                 "name": "-",
                                 "way_points": [
-                                    6482,
-                                    6491
+                                    6184,
+                                    6193
                                 ]
                             },
                             {
@@ -694,8 +595,8 @@
                                 "instruction": "Turn left onto <b>Hallituskatu</b>",
                                 "name": "Hallituskatu",
                                 "way_points": [
-                                    6491,
-                                    6499
+                                    6193,
+                                    6201
                                 ]
                             },
                             {
@@ -705,8 +606,8 @@
                                 "instruction": "Turn right onto <b>Lapinkävijäntie</b>",
                                 "name": "Lapinkävijäntie",
                                 "way_points": [
-                                    6499,
-                                    6501
+                                    6201,
+                                    6203
                                 ]
                             },
                             {
@@ -717,8 +618,8 @@
                                 "name": "Kairatie",
                                 "exit_number": 3,
                                 "way_points": [
-                                    6501,
-                                    6510
+                                    6203,
+                                    6212
                                 ]
                             },
                             {
@@ -729,8 +630,8 @@
                                 "name": "Kairatie",
                                 "exit_number": 2,
                                 "way_points": [
-                                    6510,
-                                    6526
+                                    6212,
+                                    6228
                                 ]
                             },
                             {
@@ -740,8 +641,8 @@
                                 "instruction": "Turn left onto <b>Teerikatu</b>",
                                 "name": "Teerikatu",
                                 "way_points": [
-                                    6526,
-                                    6530
+                                    6228,
+                                    6232
                                 ]
                             },
                             {
@@ -751,8 +652,8 @@
                                 "instruction": "Turn right onto <b>Teerikatu</b>",
                                 "name": "Teerikatu",
                                 "way_points": [
-                                    6530,
-                                    6532
+                                    6232,
+                                    6234
                                 ]
                             },
                             {
@@ -762,8 +663,8 @@
                                 "instruction": "Turn slight right onto <b>Aseveljentie</b>",
                                 "name": "Aseveljentie",
                                 "way_points": [
-                                    6532,
-                                    6536
+                                    6234,
+                                    6238
                                 ]
                             },
                             {
@@ -773,8 +674,8 @@
                                 "instruction": "Arrive at Aseveljentie, on the left",
                                 "name": "-",
                                 "way_points": [
-                                    6536,
-                                    6536
+                                    6238,
+                                    6238
                                 ]
                             }
                         ],
@@ -792,8 +693,8 @@
                                 "instruction": "Head east on <b>Aseveljentie</b>",
                                 "name": "Aseveljentie",
                                 "way_points": [
-                                    6536,
-                                    6540
+                                    6238,
+                                    6242
                                 ]
                             },
                             {
@@ -803,8 +704,8 @@
                                 "instruction": "Turn slight left onto <b>Teerikatu</b>",
                                 "name": "Teerikatu",
                                 "way_points": [
-                                    6540,
-                                    6542
+                                    6242,
+                                    6244
                                 ]
                             },
                             {
@@ -814,8 +715,8 @@
                                 "instruction": "Turn left onto <b>Teerikatu</b>",
                                 "name": "Teerikatu",
                                 "way_points": [
-                                    6542,
-                                    6546
+                                    6244,
+                                    6248
                                 ]
                             },
                             {
@@ -825,8 +726,8 @@
                                 "instruction": "Turn right onto <b>Kairatie</b>",
                                 "name": "Kairatie",
                                 "way_points": [
-                                    6546,
-                                    6556
+                                    6248,
+                                    6258
                                 ]
                             },
                             {
@@ -837,8 +738,8 @@
                                 "name": "Kairatie",
                                 "exit_number": 2,
                                 "way_points": [
-                                    6556,
-                                    6562
+                                    6258,
+                                    6264
                                 ]
                             },
                             {
@@ -849,8 +750,8 @@
                                 "name": "Lapinkävijäntie",
                                 "exit_number": 3,
                                 "way_points": [
-                                    6562,
-                                    6574
+                                    6264,
+                                    6276
                                 ]
                             },
                             {
@@ -861,8 +762,8 @@
                                 "name": "Lapinkävijäntie",
                                 "exit_number": 2,
                                 "way_points": [
-                                    6574,
-                                    6584
+                                    6276,
+                                    6286
                                 ]
                             },
                             {
@@ -872,8 +773,8 @@
                                 "instruction": "Turn sharp right",
                                 "name": "-",
                                 "way_points": [
-                                    6584,
-                                    6588
+                                    6286,
+                                    6290
                                 ]
                             },
                             {
@@ -883,8 +784,8 @@
                                 "instruction": "Turn left",
                                 "name": "-",
                                 "way_points": [
-                                    6588,
-                                    6591
+                                    6290,
+                                    6293
                                 ]
                             },
                             {
@@ -894,8 +795,8 @@
                                 "instruction": "Turn sharp right",
                                 "name": "-",
                                 "way_points": [
-                                    6591,
-                                    6811
+                                    6293,
+                                    6513
                                 ]
                             },
                             {
@@ -905,8 +806,8 @@
                                 "instruction": "Turn right onto <b>Kemijärventie, 82</b>",
                                 "name": "Kemijärventie, 82",
                                 "way_points": [
-                                    6811,
-                                    7233
+                                    6513,
+                                    6935
                                 ]
                             },
                             {
@@ -916,8 +817,8 @@
                                 "instruction": "Continue straight onto <b>Rovaniementie, 5, 82</b>",
                                 "name": "Rovaniementie, 5, 82",
                                 "way_points": [
-                                    7233,
-                                    7257
+                                    6935,
+                                    6959
                                 ]
                             },
                             {
@@ -927,8 +828,8 @@
                                 "instruction": "Turn left onto <b>Pelkosenniementie</b>",
                                 "name": "Pelkosenniementie",
                                 "way_points": [
-                                    7257,
-                                    7264
+                                    6959,
+                                    6966
                                 ]
                             },
                             {
@@ -938,8 +839,8 @@
                                 "instruction": "Turn right onto <b>Särkilammentie</b>",
                                 "name": "Särkilammentie",
                                 "way_points": [
-                                    7264,
-                                    7266
+                                    6966,
+                                    6968
                                 ]
                             },
                             {
@@ -949,8 +850,8 @@
                                 "instruction": "Arrive at Särkilammentie, on the right",
                                 "name": "-",
                                 "way_points": [
-                                    7266,
-                                    7266
+                                    6968,
+                                    6968
                                 ]
                             }
                         ],
@@ -968,8 +869,8 @@
                                 "instruction": "Head southwest on <b>Särkilammentie</b>",
                                 "name": "Särkilammentie",
                                 "way_points": [
-                                    7266,
-                                    7268
+                                    6968,
+                                    6970
                                 ]
                             },
                             {
@@ -979,8 +880,8 @@
                                 "instruction": "Turn left onto <b>Pelkosenniementie</b>",
                                 "name": "Pelkosenniementie",
                                 "way_points": [
-                                    7268,
-                                    7275
+                                    6970,
+                                    6977
                                 ]
                             },
                             {
@@ -990,8 +891,8 @@
                                 "instruction": "Turn left onto <b>Rovaniementie, 5, 82</b>",
                                 "name": "Rovaniementie, 5, 82",
                                 "way_points": [
-                                    7275,
-                                    7305
+                                    6977,
+                                    7007
                                 ]
                             },
                             {
@@ -1001,8 +902,8 @@
                                 "instruction": "Turn right onto <b>Luusuantie, 944</b>",
                                 "name": "Luusuantie, 944",
                                 "way_points": [
-                                    7305,
-                                    7307
+                                    7007,
+                                    7009
                                 ]
                             },
                             {
@@ -1012,8 +913,8 @@
                                 "instruction": "Turn left onto <b>Kirkkokatu</b>",
                                 "name": "Kirkkokatu",
                                 "way_points": [
-                                    7307,
-                                    7326
+                                    7009,
+                                    7028
                                 ]
                             },
                             {
@@ -1023,8 +924,8 @@
                                 "instruction": "Turn right onto <b>Sallantie, 5, 82</b>",
                                 "name": "Sallantie, 5, 82",
                                 "way_points": [
-                                    7326,
-                                    8782
+                                    7028,
+                                    8484
                                 ]
                             },
                             {
@@ -1034,8 +935,8 @@
                                 "instruction": "Turn left onto <b>Kitkantie</b>",
                                 "name": "Kitkantie",
                                 "way_points": [
-                                    8782,
-                                    8805
+                                    8484,
+                                    8507
                                 ]
                             },
                             {
@@ -1046,8 +947,8 @@
                                 "name": "Kaarlo Hännisen tie",
                                 "exit_number": 1,
                                 "way_points": [
-                                    8805,
-                                    8811
+                                    8507,
+                                    8513
                                 ]
                             },
                             {
@@ -1057,8 +958,8 @@
                                 "instruction": "Keep left onto <b>Oulangantie</b>",
                                 "name": "Oulangantie",
                                 "way_points": [
-                                    8811,
-                                    8816
+                                    8513,
+                                    8518
                                 ]
                             },
                             {
@@ -1068,8 +969,8 @@
                                 "instruction": "Turn right onto <b>Keskuskuja</b>",
                                 "name": "Keskuskuja",
                                 "way_points": [
-                                    8816,
-                                    8818
+                                    8518,
+                                    8520
                                 ]
                             },
                             {
@@ -1079,8 +980,8 @@
                                 "instruction": "Arrive at Keskuskuja, on the left",
                                 "name": "-",
                                 "way_points": [
-                                    8818,
-                                    8818
+                                    8520,
+                                    8520
                                 ]
                             }
                         ],
@@ -1123,120 +1024,110 @@
                             ],
                             [
                                 1949,
-                                4567,
+                                5179,
                                 1
                             ],
                             [
-                                4567,
-                                4820,
+                                5179,
+                                5187,
                                 2
                             ],
                             [
-                                4820,
-                                5477,
+                                5187,
+                                5216,
                                 1
                             ],
                             [
-                                5477,
-                                5485,
-                                2
-                            ],
-                            [
-                                5485,
-                                5514,
-                                1
-                            ],
-                            [
-                                5514,
-                                5515,
+                                5216,
+                                5217,
                                 3
                             ],
                             [
-                                5515,
-                                5518,
+                                5217,
+                                5220,
                                 2
                             ],
                             [
-                                5518,
-                                6491,
+                                5220,
+                                6193,
                                 1
                             ],
                             [
-                                6491,
-                                6526,
+                                6193,
+                                6228,
                                 2
                             ],
                             [
-                                6526,
-                                6546,
+                                6228,
+                                6248,
                                 3
                             ],
                             [
-                                6546,
-                                6584,
+                                6248,
+                                6286,
                                 2
                             ],
                             [
-                                6584,
-                                6593,
+                                6286,
+                                6295,
                                 3
                             ],
                             [
-                                6593,
-                                7257,
+                                6295,
+                                6959,
                                 1
                             ],
                             [
-                                7257,
-                                7264,
+                                6959,
+                                6966,
                                 2
                             ],
                             [
-                                7264,
-                                7268,
+                                6966,
+                                6970,
                                 3
                             ],
                             [
-                                7268,
-                                7275,
+                                6970,
+                                6977,
                                 2
                             ],
                             [
-                                7275,
-                                7305,
+                                6977,
+                                7007,
                                 1
                             ],
                             [
-                                7305,
-                                7326,
+                                7007,
+                                7028,
                                 2
                             ],
                             [
-                                7326,
-                                8782,
+                                7028,
+                                8484,
                                 1
                             ],
                             [
-                                8782,
-                                8811,
+                                8484,
+                                8513,
                                 2
                             ],
                             [
-                                8811,
-                                8818,
+                                8513,
+                                8520,
                                 3
                             ]
                         ],
                         "summary": [
                             {
                                 "value": 1,
-                                "distance": 0.998,
-                                "amount": 96.51
+                                "distance": 1,
+                                "amount": 99.04
                             },
                             {
                                 "value": 2,
-                                "distance": 0.035,
-                                "amount": 3.34
+                                "distance": 0.008,
+                                "amount": 0.8
                             },
                             {
                                 "value": 3,
@@ -1589,255 +1480,240 @@
                             ],
                             [
                                 4409,
-                                4428,
+                                4419,
                                 0
                             ],
                             [
-                                4428,
-                                4556,
+                                4419,
+                                4430,
                                 3
                             ],
                             [
-                                4556,
-                                4557,
-                                0
-                            ],
-                            [
-                                4557,
-                                4697,
-                                3
-                            ],
-                            [
-                                4697,
-                                4704,
-                                0
-                            ],
-                            [
-                                4704,
-                                4731,
-                                3
-                            ],
-                            [
-                                4731,
-                                4732,
+                                4430,
+                                4431,
                                 1
                             ],
                             [
-                                4732,
-                                4762,
+                                4431,
+                                4432,
+                                0
+                            ],
+                            [
+                                4432,
+                                4452,
                                 3
                             ],
                             [
-                                4762,
-                                4763,
+                                4452,
+                                4464,
+                                0
+                            ],
+                            [
+                                4464,
+                                4977,
+                                3
+                            ],
+                            [
+                                4977,
+                                5094,
+                                0
+                            ],
+                            [
+                                5094,
+                                5113,
+                                3
+                            ],
+                            [
+                                5113,
+                                5119,
+                                0
+                            ],
+                            [
+                                5119,
+                                5128,
+                                3
+                            ],
+                            [
+                                5128,
+                                5131,
+                                0
+                            ],
+                            [
+                                5131,
+                                5183,
+                                3
+                            ],
+                            [
+                                5183,
+                                5187,
                                 1
                             ],
                             [
-                                4763,
-                                5275,
+                                5187,
+                                5283,
                                 3
                             ],
                             [
-                                5275,
-                                5392,
-                                0
-                            ],
-                            [
-                                5392,
-                                5411,
-                                3
-                            ],
-                            [
-                                5411,
-                                5417,
-                                0
-                            ],
-                            [
-                                5417,
-                                5426,
-                                3
-                            ],
-                            [
-                                5426,
-                                5429,
-                                0
-                            ],
-                            [
-                                5429,
-                                5481,
-                                3
-                            ],
-                            [
-                                5481,
-                                5485,
+                                5283,
+                                5284,
                                 1
                             ],
                             [
-                                5485,
-                                5581,
+                                5284,
+                                5309,
                                 3
                             ],
                             [
-                                5581,
-                                5582,
+                                5309,
+                                5313,
                                 1
                             ],
                             [
-                                5582,
-                                5607,
+                                5313,
+                                5555,
                                 3
                             ],
                             [
-                                5607,
-                                5611,
-                                1
-                            ],
-                            [
-                                5611,
-                                5853,
-                                3
-                            ],
-                            [
-                                5853,
-                                5858,
+                                5555,
+                                5560,
                                 0
                             ],
                             [
-                                5858,
-                                6309,
+                                5560,
+                                6011,
                                 3
                             ],
                             [
-                                6309,
-                                6319,
+                                6011,
+                                6021,
                                 0
                             ],
                             [
-                                6319,
-                                6380,
+                                6021,
+                                6082,
                                 3
                             ],
                             [
-                                6380,
-                                6392,
+                                6082,
+                                6094,
                                 0
                             ],
                             [
-                                6392,
-                                6421,
+                                6094,
+                                6123,
                                 3
                             ],
                             [
-                                6421,
-                                6429,
+                                6123,
+                                6131,
                                 0
                             ],
                             [
-                                6429,
-                                6454,
+                                6131,
+                                6156,
                                 3
                             ],
                             [
-                                6454,
-                                6459,
+                                6156,
+                                6161,
                                 0
                             ],
                             [
-                                6459,
-                                6478,
+                                6161,
+                                6180,
                                 3
                             ],
                             [
-                                6478,
-                                6481,
+                                6180,
+                                6183,
                                 0
                             ],
                             [
-                                6481,
-                                6490,
+                                6183,
+                                6192,
                                 3
                             ],
                             [
-                                6490,
-                                6491,
+                                6192,
+                                6193,
                                 0
                             ],
                             [
-                                6491,
-                                6584,
+                                6193,
+                                6286,
                                 3
                             ],
                             [
-                                6584,
-                                6588,
+                                6286,
+                                6290,
                                 4
                             ],
                             [
-                                6588,
-                                6601,
+                                6290,
+                                6303,
                                 0
                             ],
                             [
-                                6601,
-                                8521,
+                                6303,
+                                8223,
                                 3
                             ],
                             [
-                                8521,
-                                8522,
+                                8223,
+                                8224,
                                 0
                             ],
                             [
-                                8522,
-                                8771,
+                                8224,
+                                8473,
                                 3
                             ],
                             [
-                                8771,
-                                8773,
+                                8473,
+                                8475,
                                 1
                             ],
                             [
-                                8773,
-                                8797,
+                                8475,
+                                8499,
                                 3
                             ],
                             [
-                                8797,
-                                8805,
+                                8499,
+                                8507,
                                 0
                             ],
                             [
-                                8805,
-                                8811,
+                                8507,
+                                8513,
                                 3
                             ],
                             [
-                                8811,
-                                8816,
+                                8513,
+                                8518,
                                 0
                             ],
                             [
-                                8816,
-                                8818,
+                                8518,
+                                8520,
                                 3
                             ]
                         ],
                         "summary": [
                             {
                                 "value": 3,
-                                "distance": 0.863,
-                                "amount": 83.41
+                                "distance": 0.838,
+                                "amount": 82.97
                             },
                             {
                                 "value": 1,
                                 "distance": 0.106,
-                                "amount": 10.25
+                                "amount": 10.5
                             },
                             {
                                 "value": 0,
                                 "distance": 0.066,
-                                "amount": 6.33
+                                "amount": 6.53
                             },
                             {
                                 "value": 4,
@@ -2550,420 +2426,420 @@
                             ],
                             [
                                 3799,
-                                5666,
+                                5368,
                                 0
                             ],
                             [
-                                5666,
-                                5669,
+                                5368,
+                                5371,
                                 1
                             ],
                             [
-                                5669,
-                                5679,
+                                5371,
+                                5381,
                                 -1
                             ],
                             [
-                                5679,
-                                6275,
+                                5381,
+                                5977,
                                 0
                             ],
                             [
-                                6275,
-                                6287,
+                                5977,
+                                5989,
                                 1
                             ],
                             [
-                                6287,
-                                6396,
+                                5989,
+                                6098,
                                 0
                             ],
                             [
-                                6396,
-                                6401,
+                                6098,
+                                6103,
                                 1
                             ],
                             [
-                                6401,
-                                6510,
+                                6103,
+                                6212,
                                 0
                             ],
                             [
-                                6510,
-                                6511,
+                                6212,
+                                6213,
                                 5
                             ],
                             [
-                                6511,
-                                6535,
+                                6213,
+                                6237,
                                 1
                             ],
                             [
-                                6535,
-                                6556,
+                                6237,
+                                6258,
                                 -1
                             ],
                             [
-                                6556,
-                                6580,
+                                6258,
+                                6282,
                                 -2
                             ],
                             [
-                                6580,
-                                6631,
+                                6282,
+                                6333,
                                 0
                             ],
                             [
-                                6631,
-                                6636,
+                                6333,
+                                6338,
                                 2
                             ],
                             [
-                                6636,
-                                6654,
+                                6338,
+                                6356,
                                 1
                             ],
                             [
-                                6654,
-                                6860,
+                                6356,
+                                6562,
                                 0
                             ],
                             [
-                                6860,
-                                6862,
+                                6562,
+                                6564,
                                 3
                             ],
                             [
-                                6862,
-                                6864,
+                                6564,
+                                6566,
                                 1
                             ],
                             [
-                                6864,
-                                6880,
+                                6566,
+                                6582,
                                 0
                             ],
                             [
-                                6880,
-                                6881,
+                                6582,
+                                6583,
                                 -1
                             ],
                             [
-                                6881,
-                                6883,
+                                6583,
+                                6585,
                                 1
                             ],
                             [
-                                6883,
-                                6918,
+                                6585,
+                                6620,
                                 0
                             ],
                             [
-                                6918,
-                                6932,
+                                6620,
+                                6634,
                                 1
                             ],
                             [
-                                6932,
-                                6933,
+                                6634,
+                                6635,
                                 0
                             ],
                             [
-                                6933,
-                                6934,
+                                6635,
+                                6636,
                                 -1
                             ],
                             [
-                                6934,
-                                6940,
+                                6636,
+                                6642,
                                 1
                             ],
                             [
-                                6940,
-                                6945,
+                                6642,
+                                6647,
                                 0
                             ],
                             [
-                                6945,
-                                6946,
+                                6647,
+                                6648,
                                 -1
                             ],
                             [
-                                6946,
-                                6975,
+                                6648,
+                                6677,
                                 1
                             ],
                             [
-                                6975,
-                                6981,
+                                6677,
+                                6683,
                                 -1
                             ],
                             [
-                                6981,
-                                7035,
+                                6683,
+                                6737,
                                 0
                             ],
                             [
-                                7035,
-                                7055,
+                                6737,
+                                6757,
                                 1
                             ],
                             [
-                                7055,
-                                7091,
+                                6757,
+                                6793,
                                 0
                             ],
                             [
-                                7091,
+                                6793,
+                                6836,
+                                -1
+                            ],
+                            [
+                                6836,
+                                6877,
+                                0
+                            ],
+                            [
+                                6877,
+                                6894,
+                                1
+                            ],
+                            [
+                                6894,
+                                7032,
+                                0
+                            ],
+                            [
+                                7032,
+                                7045,
+                                1
+                            ],
+                            [
+                                7045,
+                                7121,
+                                0
+                            ],
+                            [
+                                7121,
                                 7134,
-                                -1
+                                1
                             ],
                             [
                                 7134,
-                                7175,
-                                0
-                            ],
-                            [
-                                7175,
-                                7192,
-                                1
-                            ],
-                            [
-                                7192,
-                                7330,
-                                0
-                            ],
-                            [
-                                7330,
-                                7343,
-                                1
-                            ],
-                            [
-                                7343,
-                                7419,
-                                0
-                            ],
-                            [
-                                7419,
-                                7432,
-                                1
-                            ],
-                            [
-                                7432,
-                                7448,
+                                7150,
                                 -1
                             ],
                             [
-                                7448,
-                                7508,
+                                7150,
+                                7210,
                                 0
                             ],
                             [
-                                7508,
-                                7521,
+                                7210,
+                                7223,
                                 1
                             ],
                             [
-                                7521,
-                                7529,
+                                7223,
+                                7231,
                                 2
                             ],
                             [
-                                7529,
-                                7542,
+                                7231,
+                                7244,
                                 1
                             ],
                             [
-                                7542,
-                                7544,
+                                7244,
+                                7246,
                                 -3
                             ],
                             [
-                                7544,
-                                7561,
+                                7246,
+                                7263,
                                 -1
                             ],
                             [
-                                7561,
-                                7574,
+                                7263,
+                                7276,
                                 1
                             ],
                             [
-                                7574,
-                                7610,
+                                7276,
+                                7312,
                                 -1
                             ],
                             [
-                                7610,
-                                7669,
+                                7312,
+                                7371,
                                 0
                             ],
                             [
-                                7669,
-                                7670,
+                                7371,
+                                7372,
                                 1
                             ],
                             [
-                                7670,
-                                7800,
+                                7372,
+                                7502,
                                 0
                             ],
                             [
-                                7800,
-                                7814,
+                                7502,
+                                7516,
                                 1
                             ],
                             [
-                                7814,
-                                7875,
+                                7516,
+                                7577,
                                 0
                             ],
                             [
-                                7875,
-                                7890,
+                                7577,
+                                7592,
                                 1
                             ],
                             [
-                                7890,
-                                7925,
+                                7592,
+                                7627,
                                 0
                             ],
                             [
-                                7925,
-                                7930,
+                                7627,
+                                7632,
                                 1
                             ],
                             [
-                                7930,
-                                7937,
+                                7632,
+                                7639,
                                 -1
                             ],
                             [
-                                7937,
-                                7993,
+                                7639,
+                                7695,
                                 1
                             ],
                             [
-                                7993,
-                                8011,
+                                7695,
+                                7713,
                                 -1
                             ],
                             [
-                                8011,
-                                8052,
+                                7713,
+                                7754,
                                 0
                             ],
                             [
-                                8052,
-                                8056,
+                                7754,
+                                7758,
                                 1
                             ],
                             [
-                                8056,
-                                8067,
+                                7758,
+                                7769,
                                 -1
                             ],
                             [
-                                8067,
-                                8079,
+                                7769,
+                                7781,
                                 1
                             ],
                             [
-                                8079,
-                                8103,
+                                7781,
+                                7805,
                                 -1
                             ],
                             [
-                                8103,
-                                8129,
+                                7805,
+                                7831,
                                 0
                             ],
                             [
-                                8129,
-                                8147,
+                                7831,
+                                7849,
                                 -1
                             ],
                             [
-                                8147,
-                                8395,
+                                7849,
+                                8097,
                                 0
                             ],
                             [
-                                8395,
-                                8423,
+                                8097,
+                                8125,
                                 1
                             ],
                             [
-                                8423,
-                                8476,
+                                8125,
+                                8178,
                                 0
                             ],
                             [
-                                8476,
-                                8484,
+                                8178,
+                                8186,
                                 1
                             ],
                             [
-                                8484,
-                                8486,
+                                8186,
+                                8188,
                                 2
                             ],
                             [
-                                8486,
-                                8629,
+                                8188,
+                                8331,
                                 0
                             ],
                             [
-                                8629,
-                                8656,
+                                8331,
+                                8358,
                                 -1
                             ],
                             [
-                                8656,
-                                8671,
+                                8358,
+                                8373,
                                 1
                             ],
                             [
-                                8671,
-                                8677,
+                                8373,
+                                8379,
                                 -1
                             ],
                             [
-                                8677,
-                                8818,
+                                8379,
+                                8520,
                                 0
                             ]
                         ],
                         "summary": [
                             {
                                 "value": 0,
-                                "distance": 0.835,
-                                "amount": 80.71
+                                "distance": 0.81,
+                                "amount": 80.24
                             },
                             {
                                 "value": 1,
                                 "distance": 0.114,
-                                "amount": 11.06
+                                "amount": 11.33
                             },
                             {
                                 "value": -1,
                                 "distance": 0.074,
-                                "amount": 7.17
+                                "amount": 7.34
                             },
                             {
                                 "value": 2,
                                 "distance": 0.004,
-                                "amount": 0.42
+                                "amount": 0.43
                             },
                             {
                                 "value": -2,
                                 "distance": 0.004,
-                                "amount": 0.35
+                                "amount": 0.36
                             },
                             {
                                 "value": -3,
                                 "distance": 0.001,
-                                "amount": 0.13
+                                "amount": 0.14
                             },
                             {
                                 "value": 3,
@@ -2971,12 +2847,12 @@
                                 "amount": 0.08
                             },
                             {
-                                "value": -4,
+                                "value": -5,
                                 "distance": 0,
-                                "amount": 0.03
+                                "amount": 0.04
                             },
                             {
-                                "value": -5,
+                                "value": -4,
                                 "distance": 0,
                                 "amount": 0.03
                             },
@@ -2991,15 +2867,15 @@
                 "way_points": [
                     0,
                     1889,
-                    4592,
-                    5512,
-                    6536,
-                    7266,
-                    8818
+                    4416,
+                    5214,
+                    6238,
+                    6968,
+                    8520
                 ],
                 "summary": {
-                    "distance": 1034.524,
-                    "duration": 51216.6
+                    "distance": 1009.946,
+                    "duration": 48872
                 },
                 "opacity": 0.9
             },
@@ -25087,6 +24963,11 @@
                         14
                     ],
                     [
+                        25.508481,
+                        65.022922,
+                        16
+                    ],
+                    [
                         25.508486,
                         65.023242,
                         18
@@ -25097,2099 +24978,604 @@
                         18
                     ],
                     [
-                        25.50858,
-                        65.023854,
+                        25.508454,
+                        65.023855,
                         18
                     ],
                     [
-                        25.5087,
-                        65.024318,
-                        18.8
+                        25.50837,
+                        65.024418,
+                        19.3
                     ],
                     [
-                        25.508836,
-                        65.024692,
-                        19.1
+                        25.508246,
+                        65.024841,
+                        20
                     ],
                     [
-                        25.508949,
-                        65.024902,
-                        22
+                        25.507979,
+                        65.025419,
+                        20.7
                     ],
                     [
-                        25.509046,
-                        65.02502,
-                        22
-                    ],
-                    [
-                        25.509392,
-                        65.025329,
-                        22
-                    ],
-                    [
-                        25.509633,
-                        65.025493,
-                        22
-                    ],
-                    [
-                        25.510075,
-                        65.025782,
-                        22
-                    ],
-                    [
-                        25.51042,
-                        65.026074,
-                        22
-                    ],
-                    [
-                        25.510513,
-                        65.026265,
-                        22
-                    ],
-                    [
-                        25.510446,
-                        65.026543,
-                        22
-                    ],
-                    [
-                        25.510514,
-                        65.026786,
-                        20.5
-                    ],
-                    [
-                        25.510554,
-                        65.026854,
-                        20.4
-                    ],
-                    [
-                        25.510643,
-                        65.026923,
-                        20.2
-                    ],
-                    [
-                        25.510885,
-                        65.027014,
-                        20.1
-                    ],
-                    [
-                        25.511372,
-                        65.027138,
-                        19
-                    ],
-                    [
-                        25.517142,
-                        65.027818,
-                        20.3
-                    ],
-                    [
-                        25.519691,
-                        65.028162,
-                        20.6
-                    ],
-                    [
-                        25.520914,
-                        65.028339,
+                        25.50729,
+                        65.026386,
                         21.4
                     ],
                     [
-                        25.522605,
-                        65.02861,
+                        25.507024,
+                        65.026677,
                         22
                     ],
                     [
-                        25.523539,
-                        65.028781,
-                        22.6
+                        25.506338,
+                        65.027298,
+                        21.3
                     ],
                     [
-                        25.525026,
-                        65.029085,
+                        25.505541,
+                        65.027875,
+                        20.9
+                    ],
+                    [
+                        25.504435,
+                        65.028541,
+                        20.7
+                    ],
+                    [
+                        25.503715,
+                        65.028921,
+                        20.7
+                    ],
+                    [
+                        25.502666,
+                        65.029394,
+                        20.6
+                    ],
+                    [
+                        25.500587,
+                        65.030226,
+                        20
+                    ],
+                    [
+                        25.499549,
+                        65.030623,
+                        19
+                    ],
+                    [
+                        25.499065,
+                        65.030793,
+                        19
+                    ],
+                    [
+                        25.492596,
+                        65.032997,
+                        22.5
+                    ],
+                    [
+                        25.490453,
+                        65.033886,
+                        22.5
+                    ],
+                    [
+                        25.484535,
+                        65.036699,
+                        25
+                    ],
+                    [
+                        25.479859,
+                        65.038712,
+                        23
+                    ],
+                    [
+                        25.474202,
+                        65.04089,
+                        21.8
+                    ],
+                    [
+                        25.47212,
+                        65.041725,
                         24
                     ],
                     [
-                        25.526641,
-                        65.029482,
-                        24
+                        25.47007,
+                        65.042606,
+                        23.7
                     ],
                     [
-                        25.527437,
-                        65.029693,
-                        26
+                        25.468038,
+                        65.043609,
+                        23.7
                     ],
                     [
-                        25.527608,
-                        65.029739,
-                        26
+                        25.464433,
+                        65.045746,
+                        20
                     ],
                     [
-                        25.529977,
-                        65.030472,
-                        26
+                        25.46014,
+                        65.04839,
+                        18
                     ],
                     [
-                        25.531695,
-                        65.031004,
-                        24
+                        25.458773,
+                        65.049225,
+                        18
                     ],
                     [
-                        25.533781,
-                        65.031635,
-                        23.3
+                        25.455245,
+                        65.051405,
+                        15.5
                     ],
                     [
-                        25.544241,
-                        65.034937,
-                        28.8
+                        25.453909,
+                        65.05226,
+                        14.5
                     ],
                     [
-                        25.546356,
-                        65.035766,
+                        25.452703,
+                        65.053053,
+                        14.6
+                    ],
+                    [
+                        25.450481,
+                        65.054602,
+                        16
+                    ],
+                    [
+                        25.448706,
+                        65.055977,
+                        17.6
+                    ],
+                    [
+                        25.448125,
+                        65.056453,
+                        17.9
+                    ],
+                    [
+                        25.44729,
+                        65.057196,
+                        18
+                    ],
+                    [
+                        25.446346,
+                        65.0581,
+                        18.7
+                    ],
+                    [
+                        25.445182,
+                        65.059348,
+                        20
+                    ],
+                    [
+                        25.444593,
+                        65.060031,
+                        20
+                    ],
+                    [
+                        25.444316,
+                        65.060391,
+                        19
+                    ],
+                    [
+                        25.443554,
+                        65.061438,
+                        20.3
+                    ],
+                    [
+                        25.443039,
+                        65.062343,
+                        20.4
+                    ],
+                    [
+                        25.442704,
+                        65.063056,
+                        20.1
+                    ],
+                    [
+                        25.442275,
+                        65.064239,
+                        18.5
+                    ],
+                    [
+                        25.442053,
+                        65.065259,
+                        17
+                    ],
+                    [
+                        25.441993,
+                        65.065578,
+                        17
+                    ],
+                    [
+                        25.441906,
+                        65.066038,
+                        16.3
+                    ],
+                    [
+                        25.441872,
+                        65.066602,
+                        15.8
+                    ],
+                    [
+                        25.441949,
+                        65.067964,
+                        15
+                    ],
+                    [
+                        25.441953,
+                        65.068066,
+                        15
+                    ],
+                    [
+                        25.44216,
+                        65.070062,
+                        17
+                    ],
+                    [
+                        25.442168,
+                        65.070135,
+                        17
+                    ],
+                    [
+                        25.442425,
+                        65.072455,
+                        21
+                    ],
+                    [
+                        25.442469,
+                        65.074029,
+                        23
+                    ],
+                    [
+                        25.442435,
+                        65.075537,
+                        21.4
+                    ],
+                    [
+                        25.442365,
+                        65.076209,
+                        21
+                    ],
+                    [
+                        25.442274,
+                        65.077336,
+                        22
+                    ],
+                    [
+                        25.441762,
+                        65.080224,
+                        23
+                    ],
+                    [
+                        25.440806,
+                        65.083449,
+                        19
+                    ],
+                    [
+                        25.4402,
+                        65.08498,
+                        19
+                    ],
+                    [
+                        25.439207,
+                        65.087192,
+                        23
+                    ],
+                    [
+                        25.433667,
+                        65.09706,
+                        21
+                    ],
+                    [
+                        25.431593,
+                        65.100649,
+                        22
+                    ],
+                    [
+                        25.431556,
+                        65.100717,
+                        22
+                    ],
+                    [
+                        25.431267,
+                        65.101227,
+                        21
+                    ],
+                    [
+                        25.430905,
+                        65.101997,
+                        19
+                    ],
+                    [
+                        25.430577,
+                        65.102709,
+                        19
+                    ],
+                    [
+                        25.430419,
+                        65.103129,
+                        19
+                    ],
+                    [
+                        25.429793,
+                        65.10485,
+                        21
+                    ],
+                    [
+                        25.42923,
+                        65.106991,
+                        23
+                    ],
+                    [
+                        25.428989,
+                        65.10859,
+                        25
+                    ],
+                    [
+                        25.428926,
+                        65.109348,
+                        25
+                    ],
+                    [
+                        25.428885,
+                        65.110956,
+                        24.2
+                    ],
+                    [
+                        25.428923,
+                        65.11181,
+                        23.4
+                    ],
+                    [
+                        25.429044,
+                        65.113001,
+                        22
+                    ],
+                    [
+                        25.429188,
+                        65.114089,
+                        21.5
+                    ],
+                    [
+                        25.429464,
+                        65.115459,
+                        21
+                    ],
+                    [
+                        25.429944,
+                        65.117749,
+                        18
+                    ],
+                    [
+                        25.430073,
+                        65.118363,
+                        18
+                    ],
+                    [
+                        25.431455,
+                        65.124958,
+                        15
+                    ],
+                    [
+                        25.431841,
+                        65.126643,
+                        15
+                    ],
+                    [
+                        25.432771,
+                        65.131082,
+                        17
+                    ],
+                    [
+                        25.43308,
+                        65.132712,
+                        19
+                    ],
+                    [
+                        25.433123,
+                        65.133062,
+                        19
+                    ],
+                    [
+                        25.433471,
+                        65.134752,
+                        23
+                    ],
+                    [
+                        25.433691,
+                        65.137646,
+                        27
+                    ],
+                    [
+                        25.433737,
+                        65.139919,
+                        27
+                    ],
+                    [
+                        25.433695,
+                        65.140806,
+                        27
+                    ],
+                    [
+                        25.433278,
+                        65.144325,
                         30
                     ],
                     [
-                        25.548276,
-                        65.036583,
-                        29
-                    ],
-                    [
-                        25.549531,
-                        65.03704,
-                        28
-                    ],
-                    [
-                        25.550392,
-                        65.037309,
-                        27.1
-                    ],
-                    [
-                        25.55159,
-                        65.037633,
-                        26
-                    ],
-                    [
-                        25.553063,
-                        65.037981,
-                        25.8
-                    ],
-                    [
-                        25.555205,
-                        65.03845,
-                        26.4
-                    ],
-                    [
-                        25.556344,
-                        65.038733,
-                        26.8
-                    ],
-                    [
-                        25.557423,
-                        65.039043,
-                        27
-                    ],
-                    [
-                        25.55819,
-                        65.039263,
-                        27
-                    ],
-                    [
-                        25.578839,
-                        65.04571,
-                        31
-                    ],
-                    [
-                        25.579365,
-                        65.045874,
-                        32
-                    ],
-                    [
-                        25.580066,
-                        65.046096,
-                        32
-                    ],
-                    [
-                        25.58646,
-                        65.048054,
-                        27
-                    ],
-                    [
-                        25.589522,
-                        65.049031,
-                        29.5
-                    ],
-                    [
-                        25.594817,
-                        65.050824,
-                        39
-                    ],
-                    [
-                        25.596865,
-                        65.051294,
-                        39.4
-                    ],
-                    [
-                        25.59884,
-                        65.051724,
-                        34.9
-                    ],
-                    [
-                        25.600024,
-                        65.052065,
-                        32.7
-                    ],
-                    [
-                        25.600765,
-                        65.052297,
-                        32
-                    ],
-                    [
-                        25.601463,
-                        65.052548,
-                        31.8
-                    ],
-                    [
-                        25.602869,
-                        65.053176,
-                        31.7
-                    ],
-                    [
-                        25.604346,
-                        65.05379,
-                        32
-                    ],
-                    [
-                        25.608434,
-                        65.054993,
-                        33
-                    ],
-                    [
-                        25.609369,
-                        65.055268,
-                        33
-                    ],
-                    [
-                        25.610025,
-                        65.055461,
-                        33
-                    ],
-                    [
-                        25.612022,
-                        65.056101,
-                        34
-                    ],
-                    [
-                        25.614149,
-                        65.056825,
-                        33.7
-                    ],
-                    [
-                        25.615103,
-                        65.057188,
-                        33
-                    ],
-                    [
-                        25.618175,
-                        65.058201,
-                        33
-                    ],
-                    [
-                        25.622914,
-                        65.059728,
-                        38
-                    ],
-                    [
-                        25.627764,
-                        65.061284,
-                        36.1
-                    ],
-                    [
-                        25.630686,
-                        65.062299,
-                        37
-                    ],
-                    [
-                        25.632322,
-                        65.062763,
-                        33.7
-                    ],
-                    [
-                        25.632907,
-                        65.06295,
-                        32
-                    ],
-                    [
-                        25.633344,
-                        65.063089,
-                        31.8
-                    ],
-                    [
-                        25.635451,
-                        65.063834,
-                        33
-                    ],
-                    [
-                        25.63731,
-                        65.06447,
-                        32.3
-                    ],
-                    [
-                        25.638332,
-                        65.064857,
-                        32.6
-                    ],
-                    [
-                        25.639397,
-                        65.06529,
-                        33
-                    ],
-                    [
-                        25.641096,
-                        65.065895,
-                        38
-                    ],
-                    [
-                        25.648391,
-                        65.06843,
-                        46
-                    ],
-                    [
-                        25.650321,
-                        65.069059,
-                        41
-                    ],
-                    [
-                        25.65195,
-                        65.069627,
-                        39
-                    ],
-                    [
-                        25.654678,
-                        65.070598,
-                        37.5
-                    ],
-                    [
-                        25.656039,
-                        65.071144,
-                        37.1
-                    ],
-                    [
-                        25.656405,
-                        65.071325,
-                        37
-                    ],
-                    [
-                        25.657032,
-                        65.071613,
-                        37.3
-                    ],
-                    [
-                        25.657649,
-                        65.071928,
-                        37.2
-                    ],
-                    [
-                        25.658253,
-                        65.072282,
-                        37.5
-                    ],
-                    [
-                        25.658849,
-                        65.072644,
-                        37.7
-                    ],
-                    [
-                        25.659504,
-                        65.073086,
-                        38.1
-                    ],
-                    [
-                        25.65998,
-                        65.073464,
-                        38.2
-                    ],
-                    [
-                        25.660515,
-                        65.073935,
-                        38.3
-                    ],
-                    [
-                        25.665025,
-                        65.07818,
-                        45
-                    ],
-                    [
-                        25.668446,
-                        65.081425,
-                        50
-                    ],
-                    [
-                        25.668808,
-                        65.081773,
-                        50
-                    ],
-                    [
-                        25.669163,
-                        65.082113,
-                        50
-                    ],
-                    [
-                        25.67015,
-                        65.083025,
-                        50
-                    ],
-                    [
-                        25.671715,
-                        65.084384,
-                        47
-                    ],
-                    [
-                        25.672907,
-                        65.085562,
-                        47
-                    ],
-                    [
-                        25.673297,
-                        65.086024,
-                        47
-                    ],
-                    [
-                        25.676906,
-                        65.089477,
-                        50
-                    ],
-                    [
-                        25.681831,
-                        65.094089,
-                        51
-                    ],
-                    [
-                        25.682751,
-                        65.094971,
-                        51
-                    ],
-                    [
-                        25.684392,
-                        65.096513,
-                        48
-                    ],
-                    [
-                        25.684933,
-                        65.097001,
-                        47.7
-                    ],
-                    [
-                        25.685842,
-                        65.097699,
-                        48.4
-                    ],
-                    [
-                        25.687763,
-                        65.098935,
-                        50.7
-                    ],
-                    [
-                        25.691267,
-                        65.101048,
-                        50
-                    ],
-                    [
-                        25.692958,
-                        65.102059,
-                        50
-                    ],
-                    [
-                        25.693704,
-                        65.102481,
-                        50
-                    ],
-                    [
-                        25.695207,
-                        65.103226,
-                        47.5
-                    ],
-                    [
-                        25.696232,
-                        65.103651,
-                        45.8
-                    ],
-                    [
-                        25.696926,
-                        65.103896,
-                        45
-                    ],
-                    [
-                        25.698492,
-                        65.104396,
-                        56
-                    ],
-                    [
-                        25.699544,
-                        65.104682,
-                        56
-                    ],
-                    [
-                        25.702981,
-                        65.105537,
-                        57
-                    ],
-                    [
-                        25.714422,
-                        65.108412,
-                        47
-                    ],
-                    [
-                        25.715961,
-                        65.108798,
-                        50
-                    ],
-                    [
-                        25.716929,
-                        65.10904,
-                        51
-                    ],
-                    [
-                        25.718346,
-                        65.109396,
-                        51
-                    ],
-                    [
-                        25.720985,
-                        65.110055,
-                        51
-                    ],
-                    [
-                        25.722406,
-                        65.110414,
-                        47
-                    ],
-                    [
-                        25.72308,
-                        65.110594,
-                        46.8
-                    ],
-                    [
-                        25.724128,
-                        65.110905,
-                        46.7
-                    ],
-                    [
-                        25.725401,
-                        65.111336,
-                        46.4
-                    ],
-                    [
-                        25.727187,
-                        65.112017,
-                        46
-                    ],
-                    [
-                        25.73826,
-                        65.116292,
-                        53
-                    ],
-                    [
-                        25.73978,
-                        65.116879,
-                        46
-                    ],
-                    [
-                        25.742783,
-                        65.118026,
-                        45.3
-                    ],
-                    [
-                        25.752183,
-                        65.121673,
-                        57
-                    ],
-                    [
-                        25.755019,
-                        65.122774,
-                        57
-                    ],
-                    [
-                        25.75803,
-                        65.123712,
-                        51
-                    ],
-                    [
-                        25.762922,
-                        65.125076,
-                        50
-                    ],
-                    [
-                        25.767646,
-                        65.126393,
-                        54
-                    ],
-                    [
-                        25.768764,
-                        65.126705,
-                        54
-                    ],
-                    [
-                        25.770526,
-                        65.127122,
-                        51
-                    ],
-                    [
-                        25.771129,
-                        65.127211,
-                        51.7
-                    ],
-                    [
-                        25.772252,
-                        65.127412,
-                        52
-                    ],
-                    [
-                        25.773199,
-                        65.127581,
-                        52.7
-                    ],
-                    [
-                        25.77441,
-                        65.127773,
-                        53
-                    ],
-                    [
-                        25.774782,
-                        65.127822,
-                        53
-                    ],
-                    [
-                        25.775195,
-                        65.127873,
-                        52
-                    ],
-                    [
-                        25.775446,
-                        65.127903,
-                        52
-                    ],
-                    [
-                        25.777425,
-                        65.128135,
-                        52
-                    ],
-                    [
-                        25.780494,
-                        65.128402,
-                        52
-                    ],
-                    [
-                        25.781324,
-                        65.128505,
-                        52
-                    ],
-                    [
-                        25.782053,
-                        65.128557,
-                        52
-                    ],
-                    [
-                        25.783745,
-                        65.128678,
-                        52
-                    ],
-                    [
-                        25.784122,
-                        65.128708,
-                        52
-                    ],
-                    [
-                        25.78487,
-                        65.128766,
-                        52
-                    ],
-                    [
-                        25.786079,
-                        65.12889,
-                        52
-                    ],
-                    [
-                        25.787001,
-                        65.129014,
-                        51.2
-                    ],
-                    [
-                        25.787859,
-                        65.129154,
-                        50.2
-                    ],
-                    [
-                        25.789513,
-                        65.129454,
-                        49.3
-                    ],
-                    [
-                        25.79046,
-                        65.129668,
-                        48
-                    ],
-                    [
-                        25.79154,
-                        65.129929,
-                        47
-                    ],
-                    [
-                        25.794761,
-                        65.130824,
-                        47.6
-                    ],
-                    [
-                        25.796407,
-                        65.131253,
-                        47.9
-                    ],
-                    [
-                        25.79734,
-                        65.131445,
-                        48
-                    ],
-                    [
-                        25.796542,
-                        65.132195,
-                        48
-                    ],
-                    [
-                        25.796336,
-                        65.13238,
-                        48
-                    ],
-                    [
-                        25.792053,
-                        65.1362,
-                        53
-                    ],
-                    [
-                        25.790981,
-                        65.137158,
-                        52
-                    ],
-                    [
-                        25.790536,
-                        65.137564,
-                        49
-                    ],
-                    [
-                        25.788766,
-                        65.139177,
-                        48
-                    ],
-                    [
-                        25.786554,
-                        65.14112,
-                        49
-                    ],
-                    [
-                        25.785675,
-                        65.141907,
-                        53
-                    ],
-                    [
-                        25.783707,
-                        65.143711,
-                        51
-                    ],
-                    [
-                        25.782632,
-                        65.144707,
-                        51
-                    ],
-                    [
-                        25.782083,
-                        65.145466,
-                        52.3
-                    ],
-                    [
-                        25.781932,
-                        65.146211,
-                        54.1
-                    ],
-                    [
-                        25.782169,
-                        65.147505,
-                        55
-                    ],
-                    [
-                        25.782533,
-                        65.149368,
-                        59
-                    ],
-                    [
-                        25.783198,
-                        65.151965,
-                        58
-                    ],
-                    [
-                        25.783575,
-                        65.153089,
-                        58
-                    ],
-                    [
-                        25.783693,
-                        65.153314,
-                        58
-                    ],
-                    [
-                        25.783822,
-                        65.153596,
-                        58
-                    ],
-                    [
-                        25.784055,
-                        65.153981,
-                        58
-                    ],
-                    [
-                        25.784404,
-                        65.154499,
-                        57.3
-                    ],
-                    [
-                        25.784827,
-                        65.15503,
-                        57
-                    ],
-                    [
-                        25.785244,
-                        65.155553,
-                        57
-                    ],
-                    [
-                        25.786346,
-                        65.156712,
-                        57
-                    ],
-                    [
-                        25.788063,
-                        65.158317,
-                        53
-                    ],
-                    [
-                        25.789825,
-                        65.159973,
-                        54
-                    ],
-                    [
-                        25.788063,
-                        65.158317,
-                        53
-                    ],
-                    [
-                        25.786346,
-                        65.156712,
-                        57
-                    ],
-                    [
-                        25.785244,
-                        65.155553,
-                        57
-                    ],
-                    [
-                        25.784827,
-                        65.15503,
-                        57
-                    ],
-                    [
-                        25.784404,
-                        65.154499,
-                        57.3
-                    ],
-                    [
-                        25.784055,
-                        65.153981,
-                        58
-                    ],
-                    [
-                        25.783822,
-                        65.153596,
-                        58
-                    ],
-                    [
-                        25.783693,
-                        65.153314,
-                        58
-                    ],
-                    [
-                        25.783575,
-                        65.153089,
-                        58
-                    ],
-                    [
-                        25.783198,
-                        65.151965,
-                        58
-                    ],
-                    [
-                        25.782533,
-                        65.149368,
-                        59
-                    ],
-                    [
-                        25.782169,
-                        65.147505,
-                        55
-                    ],
-                    [
-                        25.781932,
-                        65.146211,
-                        54.1
-                    ],
-                    [
-                        25.782083,
-                        65.145466,
-                        52.3
-                    ],
-                    [
-                        25.782632,
-                        65.144707,
-                        51
-                    ],
-                    [
-                        25.783707,
-                        65.143711,
-                        51
-                    ],
-                    [
-                        25.785675,
-                        65.141907,
-                        53
-                    ],
-                    [
-                        25.785009,
-                        65.141864,
-                        53.4
-                    ],
-                    [
-                        25.784659,
-                        65.141882,
-                        53.5
-                    ],
-                    [
-                        25.784231,
-                        65.141942,
-                        53.6
-                    ],
-                    [
-                        25.780908,
-                        65.142553,
-                        50
-                    ],
-                    [
-                        25.779123,
-                        65.142852,
-                        50
-                    ],
-                    [
-                        25.778532,
-                        65.142936,
-                        50
-                    ],
-                    [
-                        25.775533,
-                        65.143216,
-                        48.9
-                    ],
-                    [
-                        25.774248,
-                        65.143281,
-                        48.7
-                    ],
-                    [
-                        25.773022,
-                        65.143324,
-                        48.8
-                    ],
-                    [
-                        25.771922,
-                        65.143328,
-                        49
-                    ],
-                    [
-                        25.770734,
-                        65.143302,
-                        49
-                    ],
-                    [
-                        25.769029,
-                        65.14323,
-                        47.5
-                    ],
-                    [
-                        25.767984,
-                        65.143151,
-                        45
-                    ],
-                    [
-                        25.763828,
-                        65.142697,
-                        44
-                    ],
-                    [
-                        25.759902,
-                        65.142245,
-                        49
-                    ],
-                    [
-                        25.757753,
-                        65.142006,
-                        49.7
-                    ],
-                    [
-                        25.756944,
-                        65.141934,
-                        49.8
-                    ],
-                    [
-                        25.756135,
-                        65.14189,
-                        50
-                    ],
-                    [
-                        25.754956,
-                        65.141845,
-                        49.4
-                    ],
-                    [
-                        25.753337,
-                        65.141817,
-                        49.3
-                    ],
-                    [
-                        25.751735,
-                        65.141866,
-                        49.1
-                    ],
-                    [
-                        25.750442,
-                        65.141935,
-                        49.3
-                    ],
-                    [
-                        25.748094,
-                        65.142134,
-                        50
-                    ],
-                    [
-                        25.745262,
-                        65.142364,
-                        48
-                    ],
-                    [
-                        25.730777,
-                        65.143567,
-                        43
-                    ],
-                    [
-                        25.725013,
-                        65.144045,
-                        45
-                    ],
-                    [
-                        25.72294,
-                        65.144211,
-                        46
-                    ],
-                    [
-                        25.720401,
-                        65.144413,
-                        47
-                    ],
-                    [
-                        25.717058,
-                        65.144705,
-                        46.3
-                    ],
-                    [
-                        25.715653,
-                        65.144869,
-                        46.4
-                    ],
-                    [
-                        25.714242,
-                        65.145066,
-                        46.8
-                    ],
-                    [
-                        25.7129,
-                        65.145308,
-                        47.4
-                    ],
-                    [
-                        25.711182,
-                        65.14569,
-                        47.5
-                    ],
-                    [
-                        25.709366,
-                        65.146171,
-                        46.4
-                    ],
-                    [
-                        25.708041,
-                        65.146609,
-                        45.3
-                    ],
-                    [
-                        25.706853,
-                        65.147091,
-                        45
-                    ],
-                    [
-                        25.705174,
-                        65.147771,
-                        43
-                    ],
-                    [
-                        25.703483,
-                        65.148505,
-                        40
-                    ],
-                    [
-                        25.699267,
-                        65.150337,
-                        38
-                    ],
-                    [
-                        25.698165,
-                        65.150815,
-                        38
-                    ],
-                    [
-                        25.697911,
-                        65.150921,
-                        38
-                    ],
-                    [
-                        25.696222,
-                        65.151602,
-                        39
-                    ],
-                    [
-                        25.694142,
-                        65.152567,
-                        39
-                    ],
-                    [
-                        25.693502,
-                        65.152927,
-                        39
-                    ],
-                    [
-                        25.691495,
-                        65.15407,
-                        45.4
-                    ],
-                    [
-                        25.69051,
-                        65.154461,
-                        45.4
-                    ],
-                    [
-                        25.688305,
-                        65.154957,
-                        46
-                    ],
-                    [
-                        25.681069,
-                        65.156598,
-                        40
-                    ],
-                    [
-                        25.678566,
-                        65.157167,
-                        40
-                    ],
-                    [
-                        25.676278,
-                        65.15769,
-                        42
-                    ],
-                    [
-                        25.672814,
-                        65.158503,
-                        45
-                    ],
-                    [
-                        25.662101,
-                        65.160921,
-                        40
-                    ],
-                    [
-                        25.659961,
-                        65.161399,
-                        38
-                    ],
-                    [
-                        25.65739,
-                        65.161943,
-                        39
-                    ],
-                    [
-                        25.655864,
-                        65.162252,
-                        40
-                    ],
-                    [
-                        25.655161,
-                        65.16235,
-                        40
-                    ],
-                    [
-                        25.654443,
-                        65.162407,
-                        41
-                    ],
-                    [
-                        25.653305,
-                        65.162378,
-                        40.2
-                    ],
-                    [
-                        25.652341,
-                        65.162205,
-                        39.8
-                    ],
-                    [
-                        25.651675,
-                        65.162024,
-                        39
-                    ],
-                    [
-                        25.651095,
-                        65.1618,
-                        39
-                    ],
-                    [
-                        25.650548,
-                        65.161436,
-                        39
-                    ],
-                    [
-                        25.650198,
-                        65.16096,
-                        39
-                    ],
-                    [
-                        25.6502,
-                        65.160517,
-                        39
-                    ],
-                    [
-                        25.650936,
-                        65.158558,
-                        39
-                    ],
-                    [
-                        25.650856,
-                        65.15799,
-                        40
-                    ],
-                    [
-                        25.650049,
-                        65.156089,
-                        43
-                    ],
-                    [
-                        25.649888,
-                        65.155835,
-                        43
-                    ],
-                    [
-                        25.648964,
-                        65.154686,
-                        42
-                    ],
-                    [
-                        25.648887,
-                        65.15454,
-                        42
-                    ],
-                    [
-                        25.648907,
-                        65.154347,
-                        42
-                    ],
-                    [
-                        25.649138,
-                        65.153719,
-                        42
-                    ],
-                    [
-                        25.649138,
-                        65.153488,
-                        42
-                    ],
-                    [
-                        25.649011,
-                        65.153247,
-                        42
-                    ],
-                    [
-                        25.648886,
-                        65.153101,
-                        42
-                    ],
-                    [
-                        25.648683,
-                        65.152941,
-                        42
-                    ],
-                    [
-                        25.648272,
-                        65.152696,
-                        42
-                    ],
-                    [
-                        25.64792,
-                        65.152506,
-                        42
-                    ],
-                    [
-                        25.646049,
-                        65.151431,
-                        39.5
-                    ],
-                    [
-                        25.645665,
-                        65.151244,
-                        38.9
-                    ],
-                    [
-                        25.644931,
-                        65.151022,
-                        39.2
-                    ],
-                    [
-                        25.643772,
-                        65.150832,
-                        39.1
-                    ],
-                    [
-                        25.643074,
-                        65.150782,
-                        39.4
-                    ],
-                    [
-                        25.642412,
-                        65.150762,
-                        39.6
-                    ],
-                    [
-                        25.642086,
-                        65.150789,
-                        40
-                    ],
-                    [
-                        25.641547,
-                        65.150835,
-                        40
-                    ],
-                    [
-                        25.640176,
-                        65.151043,
-                        40
-                    ],
-                    [
-                        25.640005,
-                        65.15107,
-                        40
-                    ],
-                    [
-                        25.639774,
-                        65.150799,
-                        40
-                    ],
-                    [
-                        25.63917,
-                        65.150216,
-                        39
-                    ],
-                    [
-                        25.6389,
-                        65.14997,
-                        39
-                    ],
-                    [
-                        25.638486,
-                        65.149598,
-                        41.6
-                    ],
-                    [
-                        25.638004,
-                        65.149232,
-                        41.7
-                    ],
-                    [
-                        25.637253,
-                        65.148735,
-                        42.5
-                    ],
-                    [
-                        25.637021,
-                        65.148613,
-                        43
-                    ],
-                    [
-                        25.634993,
-                        65.148959,
-                        43.3
-                    ],
-                    [
-                        25.632678,
-                        65.14946,
-                        43.8
-                    ],
-                    [
-                        25.630509,
-                        65.150024,
-                        42
-                    ],
-                    [
-                        25.627939,
-                        65.150831,
-                        39
-                    ],
-                    [
-                        25.62747,
-                        65.151009,
-                        39
-                    ],
-                    [
-                        25.625394,
-                        65.151774,
-                        37
-                    ],
-                    [
-                        25.622992,
-                        65.15269,
-                        38
-                    ],
-                    [
-                        25.621054,
-                        65.153429,
-                        41
-                    ],
-                    [
-                        25.619686,
-                        65.15395,
-                        43.7
-                    ],
-                    [
-                        25.61812,
-                        65.154512,
-                        45
-                    ],
-                    [
-                        25.616062,
-                        65.155168,
-                        43.2
-                    ],
-                    [
-                        25.613644,
-                        65.15581,
-                        41.7
-                    ],
-                    [
-                        25.612402,
-                        65.156075,
-                        41
-                    ],
-                    [
-                        25.61095,
-                        65.156385,
-                        41
-                    ],
-                    [
-                        25.607845,
-                        65.156957,
-                        41.3
-                    ],
-                    [
-                        25.606561,
-                        65.157297,
-                        41.4
-                    ],
-                    [
-                        25.605291,
-                        65.157704,
-                        41.8
-                    ],
-                    [
-                        25.604518,
-                        65.158084,
-                        42
-                    ],
-                    [
-                        25.60353,
-                        65.158639,
-                        42
-                    ],
-                    [
-                        25.602988,
-                        65.159038,
-                        41
-                    ],
-                    [
-                        25.601617,
-                        65.160044,
-                        40.3
-                    ],
-                    [
-                        25.600678,
-                        65.160928,
-                        39
-                    ],
-                    [
-                        25.600107,
-                        65.161565,
-                        39.9
-                    ],
-                    [
-                        25.599189,
-                        65.162681,
-                        42
-                    ],
-                    [
-                        25.59885,
-                        65.163352,
-                        44
-                    ],
-                    [
-                        25.59876,
-                        65.163741,
-                        43.1
-                    ],
-                    [
-                        25.598835,
-                        65.16485,
-                        41
-                    ],
-                    [
-                        25.59886,
-                        65.165084,
-                        41
-                    ],
-                    [
-                        25.598958,
-                        65.166019,
-                        39.9
-                    ],
-                    [
-                        25.598861,
-                        65.16666,
-                        38.4
-                    ],
-                    [
-                        25.5987,
-                        65.167129,
-                        38
-                    ],
-                    [
-                        25.598264,
-                        65.167874,
-                        36
-                    ],
-                    [
-                        25.597798,
-                        65.168467,
-                        36
-                    ],
-                    [
-                        25.597161,
-                        65.169071,
-                        34.9
-                    ],
-                    [
-                        25.596229,
-                        65.16975,
-                        34.7
-                    ],
-                    [
-                        25.595301,
-                        65.170295,
-                        36
-                    ],
-                    [
-                        25.594529,
-                        65.17068,
-                        37.3
-                    ],
-                    [
-                        25.592608,
-                        65.171478,
-                        40
-                    ],
-                    [
-                        25.591997,
-                        65.171732,
-                        40
-                    ],
-                    [
-                        25.591443,
-                        65.171963,
-                        38
-                    ],
-                    [
-                        25.590297,
-                        65.172431,
-                        37.8
-                    ],
-                    [
-                        25.588324,
-                        65.173202,
-                        37.3
-                    ],
-                    [
-                        25.586818,
-                        65.173686,
-                        37
-                    ],
-                    [
-                        25.585715,
-                        65.174018,
-                        37.1
-                    ],
-                    [
-                        25.584543,
-                        65.174267,
-                        37.2
-                    ],
-                    [
-                        25.583209,
-                        65.174517,
-                        37.3
-                    ],
-                    [
-                        25.581722,
-                        65.174693,
-                        37.6
-                    ],
-                    [
-                        25.580818,
-                        65.174776,
-                        38
-                    ],
-                    [
-                        25.579654,
-                        65.174843,
-                        39
-                    ],
-                    [
-                        25.574634,
-                        65.174968,
-                        40
-                    ],
-                    [
-                        25.573386,
-                        65.174994,
-                        40
-                    ],
-                    [
-                        25.567947,
-                        65.175113,
-                        38
-                    ],
-                    [
-                        25.563668,
-                        65.175218,
-                        38
-                    ],
-                    [
-                        25.560826,
-                        65.175294,
-                        37
-                    ],
-                    [
-                        25.558062,
-                        65.175382,
-                        35.3
-                    ],
-                    [
-                        25.555476,
-                        65.175526,
-                        34
-                    ],
-                    [
-                        25.553807,
-                        65.175671,
-                        33
-                    ],
-                    [
-                        25.55311,
-                        65.175752,
-                        33
-                    ],
-                    [
-                        25.552607,
-                        65.17581,
-                        33
-                    ],
-                    [
-                        25.551363,
-                        65.175991,
-                        34
-                    ],
-                    [
-                        25.550412,
-                        65.176218,
-                        34.2
-                    ],
-                    [
-                        25.547925,
-                        65.176715,
-                        34.7
-                    ],
-                    [
-                        25.546037,
-                        65.177264,
-                        35
-                    ],
-                    [
-                        25.545,
-                        65.177619,
-                        34
-                    ],
-                    [
-                        25.543414,
-                        65.178259,
-                        33
-                    ],
-                    [
-                        25.541855,
-                        65.178867,
-                        32.8
-                    ],
-                    [
-                        25.541029,
-                        65.179139,
-                        32
-                    ],
-                    [
-                        25.540157,
-                        65.179394,
-                        32.3
-                    ],
-                    [
-                        25.538406,
-                        65.17984,
-                        33.1
-                    ],
-                    [
-                        25.536932,
-                        65.18015,
-                        34.3
-                    ],
-                    [
-                        25.535908,
-                        65.180334,
-                        34.4
-                    ],
-                    [
-                        25.534241,
-                        65.18057,
-                        33.8
-                    ],
-                    [
-                        25.532729,
-                        65.180753,
-                        32.4
-                    ],
-                    [
-                        25.531226,
-                        65.180866,
+                        25.432742,
+                        65.14671,
                         32.5
                     ],
                     [
-                        25.529822,
-                        65.180947,
-                        30
+                        25.432428,
+                        65.147914,
+                        32.5
                     ],
                     [
-                        25.526413,
-                        65.181045,
-                        28
-                    ],
-                    [
-                        25.524209,
-                        65.181078,
-                        28.5
-                    ],
-                    [
-                        25.518697,
-                        65.181081,
-                        31
-                    ],
-                    [
-                        25.514637,
-                        65.18128,
-                        33
-                    ],
-                    [
-                        25.510597,
-                        65.181699,
-                        35
-                    ],
-                    [
-                        25.502137,
-                        65.182668,
-                        29
-                    ],
-                    [
-                        25.499348,
-                        65.183014,
-                        26
-                    ],
-                    [
-                        25.49715,
-                        65.183274,
-                        27
-                    ],
-                    [
-                        25.495194,
-                        65.183502,
-                        26
-                    ],
-                    [
-                        25.492912,
-                        65.183782,
-                        25.8
-                    ],
-                    [
-                        25.491344,
-                        65.183942,
-                        26
-                    ],
-                    [
-                        25.490782,
-                        65.183984,
-                        26
-                    ],
-                    [
-                        25.485751,
-                        65.184247,
-                        32.7
-                    ],
-                    [
-                        25.483137,
-                        65.184515,
-                        32.7
-                    ],
-                    [
-                        25.481663,
-                        65.18473,
-                        33
-                    ],
-                    [
-                        25.480732,
-                        65.184906,
-                        32.9
-                    ],
-                    [
-                        25.478321,
-                        65.185419,
-                        32.7
-                    ],
-                    [
-                        25.476001,
-                        65.186054,
+                        25.430616,
+                        65.153593,
                         32
                     ],
                     [
-                        25.474646,
-                        65.186455,
-                        31
-                    ],
-                    [
-                        25.472678,
-                        65.187046,
+                        25.429783,
+                        65.155859,
                         30
                     ],
                     [
-                        25.46817,
-                        65.188336,
-                        29
+                        25.429561,
+                        65.156576,
+                        30
                     ],
                     [
-                        25.467975,
-                        65.188392,
-                        29
+                        25.429032,
+                        65.15793,
+                        30
                     ],
                     [
-                        25.465369,
-                        65.189106,
-                        26
+                        25.428188,
+                        65.160595,
+                        28.3
                     ],
                     [
-                        25.46192,
-                        65.189984,
+                        25.427774,
+                        65.162077,
                         28
                     ],
                     [
-                        25.458412,
-                        65.190892,
-                        26
-                    ],
-                    [
-                        25.456293,
-                        65.191482,
-                        25
-                    ],
-                    [
-                        25.455084,
-                        65.191856,
-                        27
-                    ],
-                    [
-                        25.454297,
-                        65.192107,
-                        26.3
-                    ],
-                    [
-                        25.452487,
-                        65.19275,
-                        25
-                    ],
-                    [
-                        25.452315,
-                        65.192818,
-                        25
-                    ],
-                    [
-                        25.45104,
-                        65.193314,
-                        24
-                    ],
-                    [
-                        25.448864,
-                        65.194197,
-                        26
-                    ],
-                    [
-                        25.448238,
-                        65.194447,
-                        26
-                    ],
-                    [
-                        25.445308,
-                        65.195592,
-                        25
-                    ],
-                    [
-                        25.44233,
-                        65.196648,
+                        25.427223,
+                        65.163761,
                         29
                     ],
                     [
-                        25.437877,
-                        65.198012,
+                        25.426745,
+                        65.165432,
+                        28
+                    ],
+                    [
+                        25.42629,
+                        65.167415,
+                        30
+                    ],
+                    [
+                        25.425979,
+                        65.169395,
                         27
                     ],
                     [
-                        25.434918,
-                        65.198756,
-                        24
+                        25.42573,
+                        65.171899,
+                        26
                     ],
                     [
-                        25.43302,
-                        65.19915,
-                        24
+                        25.42566,
+                        65.174586,
+                        30
                     ],
                     [
-                        25.429893,
-                        65.199716,
-                        24.3
+                        25.425849,
+                        65.177064,
+                        29
                     ],
                     [
-                        25.428854,
-                        65.199873,
-                        24
+                        25.426078,
+                        65.178945,
+                        29
                     ],
                     [
-                        25.428557,
-                        65.199917,
-                        24
+                        25.426956,
+                        65.183566,
+                        26
                     ],
                     [
-                        25.428241,
-                        65.199454,
-                        26.3
+                        25.427064,
+                        65.184409,
+                        25.3
                     ],
                     [
-                        25.428049,
-                        65.199269,
-                        26.4
+                        25.427071,
+                        65.185365,
+                        25.3
                     ],
                     [
-                        25.427832,
-                        65.199128,
-                        26.4
+                        25.427248,
+                        65.186934,
+                        21.5
                     ],
                     [
-                        25.427539,
-                        65.199029,
-                        26.4
+                        25.427407,
+                        65.187738,
+                        20
                     ],
                     [
-                        25.427279,
-                        65.198972,
-                        26.5
+                        25.42748,
+                        65.188141,
+                        20
                     ],
                     [
-                        25.426966,
-                        65.198942,
-                        26.5
+                        25.427651,
+                        65.188866,
+                        20
                     ],
                     [
-                        25.426685,
-                        65.198943,
-                        26.5
+                        25.427815,
+                        65.189935,
+                        16
                     ],
                     [
-                        25.426425,
-                        65.198966,
-                        26.5
+                        25.427911,
+                        65.191405,
+                        18
                     ],
                     [
-                        25.426188,
-                        65.199009,
-                        26.5
+                        25.427911,
+                        65.19219,
+                        20
                     ],
                     [
-                        25.425951,
-                        65.199075,
+                        25.427866,
+                        65.192561,
+                        20
+                    ],
+                    [
+                        25.4276,
+                        65.194027,
+                        21
+                    ],
+                    [
+                        25.42708,
+                        65.19561,
+                        21
+                    ],
+                    [
+                        25.426845,
+                        65.196232,
+                        23
+                    ],
+                    [
+                        25.426182,
+                        65.197538,
+                        25.3
+                    ],
+                    [
+                        25.425345,
+                        65.198839,
                         26.6
                     ],
                     [
-                        25.425672,
-                        65.19919,
-                        26.6
+                        25.424841,
+                        65.199518,
+                        26.8
                     ],
                     [
-                        25.425356,
-                        65.199392,
-                        26.6
+                        25.423425,
+                        65.201123,
+                        27.2
                     ],
                     [
-                        25.425103,
-                        65.199615,
-                        26.6
-                    ],
-                    [
-                        25.423705,
-                        65.201091,
-                        26.9
-                    ],
-                    [
-                        25.423223,
-                        65.201561,
-                        27
-                    ],
-                    [
-                        25.422658,
-                        65.202077,
-                        27
+                        25.422707,
+                        65.201865,
+                        27.4
                     ],
                     [
                         25.421619,
@@ -47120,7 +45506,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Kuusamo Centrum, Finland"
+                "name": "Kuusamo centrum, Finland"
             },
             "geometry": {
                 "type": "Point",
