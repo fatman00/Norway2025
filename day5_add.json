@@ -14624,20 +14624,7 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "4, Rovaniemi,Finland"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    25.72337150573731,
-                    66.50289365864272
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "label": "Saukkovaara pysäköintialue, Posio,Finland"
+                "name": "Saukkovaara pysäköintialue, Posio,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -14650,26 +14637,13 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "Rovaniementie, Kemijarvi,Finland"
+                "name": "Rovaniementie, Kemijarvi,Finland"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     27.364196777343754,
                     66.72064178963309
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "label": "Hermannintie, Sodankyla,Finland"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    26.641073226928714,
-                    67.193488149583
                 ]
             }
         }
