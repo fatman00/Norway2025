@@ -264,6 +264,17 @@
         "type": "Point",
         "coordinates": [27.5670591, 68.6404408]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korouoma Canyon",
+        "description": "Even without doing the full hike, you can make quick stops at the canyon edges for dramatic views over the 30 km gorge."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.540837917171917, 66.15487716157092]
+      }
     }
   ] 
 }
