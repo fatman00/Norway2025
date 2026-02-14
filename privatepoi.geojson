@@ -345,6 +345,17 @@
         "type": "Point",
         "coordinates": [16.5401425, 68.8006485] 
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ifjordfjellet",
+        "description": "A surreal, wide‑open tundra highway. No trees. Huge skies. Pullouts everywhere. Feels like driving on Mars."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.106324217970393, 70.4627406273942] 
+      }
     }
   ]
 }
