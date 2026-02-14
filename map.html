@@ -297,6 +297,8 @@
         var sognefjelletLayer = L.geoJSON(false, { onEachFeature: onEachFeatureVeg });
         var varaldresflyLayer = L.geoJSON(false, { onEachFeature: onEachFeatureVeg });
         var viddaLayer = L.geoJSON(false, { onEachFeature: onEachFeatureVeg });
+        var verangerLayer = L.geoJSON(false, { onEachFeature: onEachFeatureVeg });
+        var havsundLayer = L.geoJSON(false, { onEachFeature: onEachFeatureVeg });
         var gaular1Layer = L.geoJSON(false, { onEachFeature: onEachFeatureVeg });
         var gaular2Layer = L.geoJSON(false, { onEachFeature: onEachFeatureVeg });
         var aurlandLayer = L.geoJSON(false, { onEachFeature: onEachFeatureVeg });
@@ -418,6 +420,16 @@
                 viddaLayer.addData(data);
             });
 
+        fetchJSON('https://fatman00.github.io/Norway2025/veranger.geojson')
+            .then((data) => {
+                verangerLayer.addData(data);
+            });
+
+        fetchJSON('https://fatman00.github.io/Norway2025/havsund.geojson')
+            .then((data) => {
+                havsundLayer.addData(data);
+            });
+
         fetchJSON('https://fatman00.github.io/Norway2025/gaularfjellet1.geojson')
             .then((data) => {
                 gaular1Layer.addData(data);
@@ -522,7 +534,7 @@
 
 
 
-        var turistVegerGroup = L.layerGroup([atlantLayer, geirangerLayer, hardangerLayer, senjaLayer, helgeLayer, jarenLayer, rondaneLayer, ryfylkeLayer, sognefjelletLayer, varaldresflyLayer, viddaLayer, gaular1Layer, gaular2Layer, aurlandLayer]);
+        var turistVegerGroup = L.layerGroup([atlantLayer, geirangerLayer, hardangerLayer, senjaLayer, helgeLayer, jarenLayer, rondaneLayer, ryfylkeLayer, sognefjelletLayer, varaldresflyLayer, viddaLayer, verangerLayer, havsundLayer, gaular1Layer, gaular2Layer, aurlandLayer]);
         //var fall25Group = L.layerGroup([day1Layer, day2Layer, day3Layer, day4Layer, day5Layer, day6Layer]);
         // No need for groups here
         /*
