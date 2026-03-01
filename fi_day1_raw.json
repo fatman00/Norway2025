@@ -13571,8 +13571,7 @@
         {
             "type": "Feature",
             "properties": {
-                "label": "Gårdsjön, Hamneda,KR,Sweden",
-                "type": "end"
+                "label": "Gårdsjön, Hamneda,KR,Sweden"
             },
             "geometry": {
                 "type": "Point",

@@ -245,6 +245,24 @@
             }
         }
 
+        function onEachFeatureDayORM(feature, layer) {
+            // does this feature have a property named popupContent?
+            console.log(feature.properties)
+            var popupLabel = ""
+            if (feature.properties && feature.properties.name) {
+                popupLabel += "<b>" + feature.properties.name + "</b>";
+            }
+            if (feature.properties && feature.properties.summary) {
+                const date = new Date(null);
+                date.setSeconds(feature.properties.summary.duration); // specify value for SECONDS here
+                const tripTime = date.toISOString().slice(11, 19);
+                popupLabel += "<b>" + feature.properties.summary.distance.toFixed(1) + " km, " + tripTime + "</b>";
+            }
+            if(popupLabel != "") {
+                layer.bindPopup(popupLabel);
+            }
+        }
+
         var geojsonMarkerOptions = {
             radius: 5,
             fillColor: "white",
@@ -275,8 +293,8 @@
                 feature.properties.name = feature.properties.label;
             }
             // Set name from label
-            if (feature.properties && feature.properties.type == "end") {
-                marker = L.marker(latlng, { icon: iconFlag, title: "hello" });
+            if (feature.properties && feature.properties._last) {
+                marker = L.marker(latlng, { icon: iconFlag });
             }
 
 
@@ -334,7 +352,7 @@
         //var day4Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #3C5A96
         //var day5Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #2F4675
         //var day6Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #213254
-        var fiLayer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOIORM, style: { color: "#496DB6" } });
+        var fiLayer = L.geoJSON(false, { onEachFeature: onEachFeatureDayORM, pointToLayer: pointOIORM, style: { color: "#496DB6" } });
         //var day6omLayer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6", "dashArray": "5,10" } }); // #213254
         //var day7Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #141F33
 
@@ -475,7 +493,7 @@
         var pinData = ['atlanterhavsvegenpoi.geojson', 'gaularfjelletpoi.geojson', 'hardangerpoi.geojson', 'rondanepoi.geojson', 'aurlandfjelletpoi.geojson', 'geirangerpoi.geojson', 'hardangerviddapoi.geojson', 'ryfylkepoi.geojson'];
         var pinPersonalData = ['privatepoi.geojson'];
         var fiPOIData = ['fipoi.geojson'];
-        var fiData = ['fi_day1.geojson', 'fi_day2.geojson', 'fi_day3.geojson', 'fi_day4.geojson', 'fi_day5.geojson', 'day5_add.json', 'day6.json', 'day7.json', 'day8.json', 'day10.json', 'fi_day11.json', 'fi_day12.json', 'fi_day13.json'];
+        var fiData = ['fi_day1_raw.json', 'fi_day2.geojson', 'fi_day3.geojson', 'fi_day4.geojson', 'fi_day5.geojson', 'day5_add.json', 'day6.json', 'day7.json', 'day8.json', 'day10.json', 'fi_day11.json', 'fi_day12.json', 'fi_day13.json'];
 
 
         fiData.forEach(addDriveFI);
@@ -484,6 +502,10 @@
             console.log("adding(FI):" + baseUrl + url);
             fetchJSON(baseUrl + url)
                 .then((data) => {
+                    data.features.forEach(function(feature, index, array) {
+                        feature.properties._index = index;
+                        feature.properties._last = (index === array.length -1);
+                    })
                     fiLayer.addData(data);
                 });
         }
