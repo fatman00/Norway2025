@@ -17117,12 +17117,12 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "G 534, Hinneryd,KR,Sweden"
+                "label": "Rasmus, Hinneryd,KR,Sweden"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    13.762360811233522,
+                    13.712310811233522,
                     56.615271628488536
                 ]
             }
@@ -17130,7 +17130,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Stadsgården, Stockholm,Sweden",
+                "label": "Stadsgården, Stockholm,Sweden",
                 "type": "end"
             },
             "geometry": {
