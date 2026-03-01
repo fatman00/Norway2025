@@ -247,13 +247,10 @@
 
         function onEachFeatureDayORM(feature, layer) {
 
-            var defaultWeight = 4;
+            var defaultWeight = 3;
             var selectedWeight = 8;
             var isSelected = false;
 
-            layer.setStyle({
-                weight: defaultWeight
-            });
 
             layer.on('click', function () {
 
