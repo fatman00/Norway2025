@@ -262,6 +262,23 @@
             return L.marker(latlng, { icon: iconTrack });
         }
 
+        function pointOIORM(feature, latlng) {
+            var marker;
+            // Set name from label
+            if (feature.properties && feature.properties.type == "end") {
+                marker = L.marker(latlng, { icon: iconFlag });
+            }
+            else {
+                marker = L.marker(latlng, { icon: iconTrack });
+            }
+            // Set name from label
+            if (feature.properties && feature.properties.label) {
+                marker.properties.name = feature.properties.label;
+            }
+
+            return marker;
+        }
+
         function onEachFeatureImg(feature, layer) {
             // does this feature have a property named popupContent?
             if (feature.properties && feature.properties.SourceFile) {
@@ -313,7 +330,7 @@
         //var day4Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #3C5A96
         //var day5Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #2F4675
         //var day6Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #213254
-        var fiLayer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } });
+        var fiLayer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOIORM, style: { color: "#496DB6" } });
         //var day6omLayer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6", "dashArray": "5,10" } }); // #213254
         //var day7Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #141F33
 
@@ -460,7 +477,7 @@
         fiData.forEach(addDriveFI);
 
         function addDriveFI(url) {
-            console.log("adding:" + baseUrl + url);
+            console.log("adding(FI):" + baseUrl + url);
             fetchJSON(baseUrl + url)
                 .then((data) => {
                     fiLayer.addData(data);
