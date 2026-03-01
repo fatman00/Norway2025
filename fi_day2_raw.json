@@ -4,6 +4,7 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Day2",
                 "ascent": 3423.6,
                 "descent": 3533,
                 "segments": [
