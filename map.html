@@ -264,13 +264,12 @@
 
         function pointOIORM(feature, latlng) {
             var marker;
+            marker = L.marker(latlng, { icon: iconTrack });
             // Set name from label
             if (feature.properties && feature.properties.type == "end") {
                 marker = L.marker(latlng, { icon: iconFlag });
             }
-            else {
-                marker = L.marker(latlng, { icon: iconTrack });
-            }
+
             // Set name from label
             if (feature.properties && feature.properties.label) {
                 marker.properties.name = feature.properties.label;
