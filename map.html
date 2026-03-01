@@ -269,15 +269,16 @@
             console.log(feature);
             console.log("pointOIORM(marker):");
             console.log(marker);
-            // Set name from label
-            if (feature.properties && feature.properties.type == "end") {
-                marker = L.marker(latlng, { icon: iconFlag });
-            }
 
             // Set name from label
             if (feature.properties && feature.properties.label) {
-                marker.properties.name = feature.properties.label;
+                feature.properties.name = feature.properties.label;
             }
+            // Set name from label
+            if (feature.properties && feature.properties.type == "end") {
+                marker = L.marker(latlng, { icon: iconFlag, title: "hello" });
+            }
+
 
             return marker;
         }

@@ -12807,7 +12807,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fredericia Kommune, SD,Denmark"
+                "label": "Fredericia Kommune, SD,Denmark"
             },
             "geometry": {
                 "type": "Point",
@@ -12820,7 +12820,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Köpingevägen, Löddeköpinge,SN,Sweden"
+                "label": "Köpingevägen, Löddeköpinge,SN,Sweden"
             },
             "geometry": {
                 "type": "Point",
@@ -12833,7 +12833,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "G 534, Hinneryd,KR,Sweden",
+                "label": "G 534, Hinneryd,KR,Sweden",
                 "type": "end"
             },
             "geometry": {
