@@ -350,7 +350,7 @@
       "type": "Feature",
       "properties": {
         "name": "ifjordfjellet",
-        "description": "A surreal, wide‑open tundra highway. No trees. Huge skies. Pullouts everywhere. Feels like driving on Mars."
+        "description": "A surreal, wide-open tundra highway. No trees. Huge skies. Pullouts everywhere. Feels like driving on Mars."
       },
       "geometry": {
         "type": "Point",
