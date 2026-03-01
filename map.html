@@ -246,6 +246,25 @@
         }
 
         function onEachFeatureDayORM(feature, layer) {
+
+            var defaultWeight = 4;
+            var selectedWeight = 8;
+            var isSelected = false;
+
+            layer.setStyle({
+                weight: defaultWeight
+            });
+
+            layer.on('click', function () {
+
+                if (isSelected) {
+                    layer.setStyle({ weight: defaultWeight });
+                } else {
+                    layer.setStyle({ weight: selectedWeight });
+                }
+
+                isSelected = !isSelected;
+            });
             // does this feature have a property named popupContent?
             console.log(feature.properties)
             var popupLabel = ""
