@@ -250,13 +250,13 @@
             console.log(feature.properties)
             var popupLabel = ""
             if (feature.properties && feature.properties.name) {
-                popupLabel += "<b>" + feature.properties.name + "</b>";
+                popupLabel += "<b>" + feature.properties.name + "</b></br>";
             }
             if (feature.properties && feature.properties.summary) {
                 const date = new Date(null);
                 date.setSeconds(feature.properties.summary.duration); // specify value for SECONDS here
                 const tripTime = date.toISOString().slice(11, 19);
-                popupLabel += "<b>" + feature.properties.summary.distance.toFixed(1) + " km, " + tripTime + "</b>";
+                popupLabel += feature.properties.summary.distance.toFixed(1) + " km, " + tripTime + "";
             }
             if(popupLabel != "") {
                 layer.bindPopup(popupLabel);
