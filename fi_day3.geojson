@@ -27432,7 +27432,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Linnankatu, Turku,Finland"
+                "label": "Linnankatu, Turku,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -27445,7 +27445,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Valtatie 10, Forssa,Finland"
+                "label": "Valtatie 10, Forssa,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -27458,7 +27458,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Pohjoistenjoki, Hameenlinna,Finland"
+                "label": "Pohjoistenjoki, Hameenlinna,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -27471,7 +27471,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Radanrakentajien muistokivi, Lahti,Finland"
+                "label": "Radanrakentajien muistokivi, Lahti,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -27484,7 +27484,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Vuorikivenkatu 15, Imatra,Finland"
+                "label": "Vuorikivenkatu 15, Imatra,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -27497,7 +27497,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Urpola Lappeenrannantie, P,Mikkeli,Finland"
+                "label": "Urpola Lappeenrannantie, P,Mikkeli,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -27510,7 +27510,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Savonlinnantie, Savonlinna,Finland",
+                "label": "Savonlinnantie, Savonlinna,Finland",
                 "type": "end"
             },
             "geometry": {
