@@ -265,6 +265,7 @@
         function pointOIORM(feature, latlng) {
             var marker;
             marker = L.marker(latlng, { icon: iconTrack });
+            console.log(feature)
             // Set name from label
             if (feature.properties && feature.properties.type == "end") {
                 marker = L.marker(latlng, { icon: iconFlag });
