@@ -222,7 +222,7 @@
 
         function onEachFeatureVeg(feature, layer) {
             // does this feature have a property named popupContent?
-            console.log(feature.properties)
+            //console.log(feature.properties)
             if (feature.properties && feature.properties.name && feature.properties.closures) {
                 layer.bindPopup("<b>" + feature.properties.name + "</b><br />" + feature.properties.closures);
             }
@@ -231,7 +231,7 @@
 
         function onEachFeatureDrive(feature, layer) {
             // does this feature have a property named popupContent?
-            console.log(feature.properties)
+            //console.log(feature.properties)
             if (feature.properties && feature.properties.name) {
                 layer.bindPopup("<b>" + feature.properties.name + "</b>");
             }

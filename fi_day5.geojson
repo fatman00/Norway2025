@@ -50597,7 +50597,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "E. Aldrinstraat 4, Berghem,NB,Netherlands"
+                "label": "E. Aldrinstraat 4, Berghem,NB,Netherlands"
             },
             "geometry": {
                 "type": "Point",
@@ -50610,7 +50610,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Rauhankatu 4, Rovaniemi,Finland"
+                "label": "Rauhankatu 4, Rovaniemi,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -50623,7 +50623,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Petsamo Memorial, Ivalo,Finland"
+                "label": "Petsamo Memorial, Ivalo,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -50636,7 +50636,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Inarin Kuukkeli, Inari,Finland"
+                "label": "Inarin Kuukkeli, Inari,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -50649,7 +50649,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "E 75, Tana,Norway"
+                "label": "E 75, Tana,Norway"
             },
             "geometry": {
                 "type": "Point",
@@ -50662,7 +50662,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nordkapp/North Cape, Nordkapp,Norway"
+                "label": "Nordkapp/North Cape, Nordkapp,Norway"
             },
             "geometry": {
                 "type": "Point",

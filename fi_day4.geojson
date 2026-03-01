@@ -23962,7 +23962,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Savonlinnantie, Savonlinna,Finland"
+                "label": "Savonlinnantie, Savonlinna,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -23975,7 +23975,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Taimistonkuja, Joensuu,Finland"
+                "label": "Taimistonkuja, Joensuu,Finland"
             },
             "geometry": {
                 "type": "Point",
@@ -23988,7 +23988,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Ikea, Nedertornea-Haparanda,NB,Sweden",
+                "label": "Ikea, Nedertornea-Haparanda,NB,Sweden",
                 "type": "end"
             },
             "geometry": {

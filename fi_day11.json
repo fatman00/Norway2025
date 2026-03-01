@@ -30025,7 +30025,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Turisthytteplatåstien, Bodo,NO,Norway"
+                "label": "Turisthytteplatåstien, Bodo,NO,Norway"
             },
             "geometry": {
                 "type": "Point",
@@ -30038,7 +30038,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Reipåveien, Meloy,NO,Norway"
+                "label": "Reipåveien, Meloy,NO,Norway"
             },
             "geometry": {
                 "type": "Point",
@@ -30051,7 +30051,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Forøy"
+                "label": "Forøy"
             },
             "geometry": {
                 "type": "Point",
@@ -30064,7 +30064,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "17"
+                "label": "17"
             },
             "geometry": {
                 "type": "Point",
@@ -30103,7 +30103,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aldersundveien 146, Luroy,NO,Norway"
+                "label": "Aldersundveien 146, Luroy,NO,Norway"
             },
             "geometry": {
                 "type": "Point",
@@ -30116,7 +30116,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Flostrandveien, Rana,NO,Norway"
+                "label": "Flostrandveien, Rana,NO,Norway"
             },
             "geometry": {
                 "type": "Point",
@@ -30129,7 +30129,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Movegen 27, Nesna,NO,Norway"
+                "label": "Movegen 27, Nesna,NO,Norway"
             },
             "geometry": {
                 "type": "Point",
@@ -30142,7 +30142,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Åsveien, Leirfjord,NO,Norway"
+                "label": "Åsveien, Leirfjord,NO,Norway"
             },
             "geometry": {
                 "type": "Point",
@@ -30155,7 +30155,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Skjervengan bru, Mosjoen,NO,Norway",
+                "label": "Skjervengan bru, Mosjoen,NO,Norway",
                 "type": "end"
             },
             "geometry": {
