@@ -275,6 +275,17 @@
         "type": "Point",
         "coordinates": [27.540837917171917, 66.15487716157092]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Besøge russisk bjørn",
+        "description": "Ønske fra Nicolai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.83281168372321, 61.12894992764681]
+      }
     }
   ] 
 }
