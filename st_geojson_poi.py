@@ -25,7 +25,7 @@ if st.button("Generate GeoJSON"):
         },
         "geometry": {
             "type": "Point",
-            "coordinates": [lon.strip(), lat.strip()]  # GeoJSON uses lon, lat
+            "coordinates": [float(lon.strip()), float(lat.strip())]  # GeoJSON uses lon, lat
         }
     }
 
