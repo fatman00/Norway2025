@@ -378,6 +378,34 @@
           69.39362996742103
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuru Resort",
+        "description": "Kuru Resort Sisley Day Spa, Rantasalmi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.301515517914687,
+          62.1216788478242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pihlas Resort",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.728855629933886,
+          62.06028343872987
+        ]
+      }
     }
   ]
 }

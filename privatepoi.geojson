@@ -9,7 +9,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [6.11471, 62.558247]
+        "coordinates": [
+          6.11471,
+          62.558247
+        ]
       }
     },
     {
@@ -19,7 +22,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [6.166080351983282, 62.47539377628345]
+        "coordinates": [
+          6.166080351983282,
+          62.47539377628345
+        ]
       }
     },
     {
@@ -29,7 +35,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [6.096745492054304, 62.465485474279426]
+        "coordinates": [
+          6.096745492054304,
+          62.465485474279426
+        ]
       }
     },
     {
@@ -40,18 +49,24 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [6.091913636544147, 62.46849211931721]
+        "coordinates": [
+          6.091913636544147,
+          62.46849211931721
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Torghatten - Nasjonale turistveger",
-        "description":"REDDIT: https://www.reddit.com/r/Norway/comments/1n2meeg/this_place/?share_id=uaVysoMY-oVv0rSKda6FI&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1"
+        "description": "REDDIT: https://www.reddit.com/r/Norway/comments/1n2meeg/this_place/?share_id=uaVysoMY-oVv0rSKda6FI&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [12.097776591349515, 65.39788791326949]
+        "coordinates": [
+          12.097776591349515,
+          65.39788791326949
+        ]
       }
     },
     {
@@ -61,18 +76,24 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [7.812464799999711, 61.04743408638146]
+        "coordinates": [
+          7.812464799999711,
+          61.04743408638146
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Lærdalsøyri",
-        "description":"REDDIT: Your final destination for the day should be near Lærdalsøyri, beautiful little town"
+        "description": "REDDIT: Your final destination for the day should be near Lærdalsøyri, beautiful little town"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [7.485830641983007, 61.09904793463137]
+        "coordinates": [
+          7.485830641983007,
+          61.09904793463137
+        ]
       }
     },
     {
@@ -83,7 +104,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [7.8829304093495525, 61.3465142085598]
+        "coordinates": [
+          7.8829304093495525,
+          61.3465142085598
+        ]
       }
     },
     {
@@ -94,7 +118,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [7.210448980159153, 62.09655632882941]
+        "coordinates": [
+          7.210448980159153,
+          62.09655632882941
+        ]
       }
     },
     {
@@ -105,7 +132,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [7.226017567442494, 60.892911587285475]
+        "coordinates": [
+          7.226017567442494,
+          60.892911587285475
+        ]
       }
     },
     {
@@ -116,7 +146,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [6.164492077030921, 62.47277057264021]
+        "coordinates": [
+          6.164492077030921,
+          62.47277057264021
+        ]
       }
     },
     {
@@ -127,7 +160,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [6.440118540981013, 60.04238122692383]
+        "coordinates": [
+          6.440118540981013,
+          60.04238122692383
+        ]
       }
     },
     {
@@ -138,7 +174,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [6.472343770308502, 60.04644087653178]
+        "coordinates": [
+          6.472343770308502,
+          60.04644087653178
+        ]
       }
     },
     {
@@ -149,7 +188,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [6.072309009605462, 61.233553570424974]
+        "coordinates": [
+          6.072309009605462,
+          61.233553570424974
+        ]
       }
     },
     {
@@ -160,7 +202,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [7.146271732513885, 62.735878769322774]
+        "coordinates": [
+          7.146271732513885,
+          62.735878769322774
+        ]
       }
     },
     {
@@ -171,7 +216,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [9.864872791178424, 61.59897611704042]
+        "coordinates": [
+          9.864872791178424,
+          61.59897611704042
+        ]
       }
     },
     {
@@ -182,7 +230,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [6.209106039155009, 60.40126712342929]
+        "coordinates": [
+          6.209106039155009,
+          60.40126712342929
+        ]
       }
     },
     {
@@ -193,7 +244,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [7.354174512804172, 59.570850919247285]
+        "coordinates": [
+          7.354174512804172,
+          59.570850919247285
+        ]
       }
     },
     {
@@ -203,7 +257,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.326034203743695, 60.40140897761385]
+        "coordinates": [
+          5.326034203743695,
+          60.40140897761385
+        ]
       }
     },
     {
@@ -213,7 +270,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.328747739819624, 60.29956624764443]
+        "coordinates": [
+          5.328747739819624,
+          60.29956624764443
+        ]
       }
     },
     {
@@ -223,51 +283,66 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.233108354382364, 60.37152457579086]
+        "coordinates": [
+          5.233108354382364,
+          60.37152457579086
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Historiske Dalen Hotel",
-        "description":"Dalen Hotel, eventyrhotellet fra 1894, i overdådig, romantisk stil med dragehovud, tårn og spir, altaner, utspring og gesimser. <a href='https://www.visittelemark.no/ting-a-gjore/historiske-dalen-hotel-p555733'>VisitTelemarken.no</a>"
+        "description": "Dalen Hotel, eventyrhotellet fra 1894, i overdådig, romantisk stil med dragehovud, tårn og spir, altaner, utspring og gesimser. <a href='https://www.visittelemark.no/ting-a-gjore/historiske-dalen-hotel-p555733'>VisitTelemarken.no</a>"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [8.011341569173384, 59.44429853509287]
+        "coordinates": [
+          8.011341569173384,
+          59.44429853509287
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Gaustatoppen",
-        "description":"Gaustatoppen (1883 m.o.h.) troner majestetisk over Rjukan i Telemark og omtales ofte som Norges vakreste fjell. Fra toppen kan du i klarvær se nesten en sjettedel av landet – en utsikt som få andre fjell i Norge kan måle seg med. <a href='https://www.visittelemark.no/ting-a-gjore/gaustatoppen-p508993'>VisitTelemarken.no</a>"
+        "description": "Gaustatoppen (1883 m.o.h.) troner majestetisk over Rjukan i Telemark og omtales ofte som Norges vakreste fjell. Fra toppen kan du i klarvær se nesten en sjettedel av landet – en utsikt som få andre fjell i Norge kan måle seg med. <a href='https://www.visittelemark.no/ting-a-gjore/gaustatoppen-p508993'>VisitTelemarken.no</a>"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [8.648895434595573, 59.85542134172597]
+        "coordinates": [
+          8.648895434595573,
+          59.85542134172597
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Heddal Stavkirke",
-        "description":"Bli med inn i Noregs største stavkirke, den vakreste av dem alle! Heddal Stavkirke har ligget i bygden Heddal i mange århundrer, helt siden 1200-tallet.<a href='https://www.visittelemark.no/ting-a-gjore/heddal-stavkirke-p517493'>VisitTelemarken.no</a>"
+        "description": "Bli med inn i Noregs største stavkirke, den vakreste av dem alle! Heddal Stavkirke har ligget i bygden Heddal i mange århundrer, helt siden 1200-tallet.<a href='https://www.visittelemark.no/ting-a-gjore/heddal-stavkirke-p517493'>VisitTelemarken.no</a>"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [9.176256108655352, 59.579634631220905]
+        "coordinates": [
+          9.176256108655352,
+          59.579634631220905
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Jettegrytene",
-        "description":"Jettegrytene i Nissedal, dette utrolige flotte naturfenomenet, finner du helt sør i kommunen, ved den vesle bygda Eikhom, en mil fra Telemarksvegen.<a href='https://www.visittelemark.no/ting-a-gjore/jettegrytene-p544563'>VisitTelemarken.no</a>"
+        "description": "Jettegrytene i Nissedal, dette utrolige flotte naturfenomenet, finner du helt sør i kommunen, ved den vesle bygda Eikhom, en mil fra Telemarksvegen.<a href='https://www.visittelemark.no/ting-a-gjore/jettegrytene-p544563'>VisitTelemarken.no</a>"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [8.338283943691641, 58.93872053613444]
+        "coordinates": [
+          8.338283943691641,
+          58.93872053613444
+        ]
       }
     },
     {
@@ -277,7 +352,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [7.3885938057986795, 62.99965300780564]
+        "coordinates": [
+          7.3885938057986795,
+          62.99965300780564
+        ]
       }
     },
     {
@@ -288,7 +366,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.1136890982304415, 61.93538965953356]
+        "coordinates": [
+          5.1136890982304415,
+          61.93538965953356
+        ]
       }
     },
     {
@@ -299,7 +380,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [10.69491282377478, 62.1743847681328]
+        "coordinates": [
+          10.69491282377478,
+          62.1743847681328
+        ]
       }
     },
     {
@@ -310,7 +394,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [8.247070470780656, 61.54907922013501]
+        "coordinates": [
+          8.247070470780656,
+          61.54907922013501
+        ]
       }
     },
     {
@@ -321,7 +408,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [8.312362397448807, 61.6403656772522]
+        "coordinates": [
+          8.312362397448807,
+          61.6403656772522
+        ]
       }
     },
     {
@@ -332,7 +422,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [23.2693166, 69.9652107]
+        "coordinates": [
+          23.2693166,
+          69.9652107
+        ]
       }
     },
     {
@@ -343,7 +436,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [16.5401425, 68.8006485] 
+        "coordinates": [
+          16.5401425,
+          68.8006485
+        ]
       }
     },
     {
@@ -354,7 +450,24 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [27.106324217970393, 70.4627406273942] 
+        "coordinates": [
+          27.106324217970393,
+          70.4627406273942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kylling Bridge",
+        "description": "Reddit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.059169769012279,
+          62.33888790447777
+        ]
       }
     }
   ]
