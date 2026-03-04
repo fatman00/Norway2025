@@ -28,8 +28,8 @@ if st.button("Generate GeoJSON"):
             "coordinates": [float(lon.strip()), float(lat.strip())]  # GeoJSON uses lon, lat
         }
     }
-
-    geojson_str = json.dumps(geojson, indent=2)
+    geojson_str = ","
+    geojson_str += json.dumps(geojson, indent=2)
 
     st.subheader("GeoJSON Output")
     st.code(geojson_str, language="json")
