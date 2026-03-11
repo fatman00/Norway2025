@@ -397,7 +397,7 @@
       "type": "Feature",
       "properties": {
         "name": "Pihlas Resort",
-        "description": ""
+        "description": "<a href='https://www.google.com/maps/dir/?api=1&destination=62.06028343872987,27.728855629933886'>Navigate</a>"
       },
       "geometry": {
         "type": "Point",
