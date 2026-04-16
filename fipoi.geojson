@@ -406,6 +406,20 @@
           62.06028343872987
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Sport Apartments",
+        "description": "Apartments/hotel, with SPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.76736558039634,
+          66.4971591763003
+        ] 
+      }
     }
   ]
 }
