@@ -6,7 +6,7 @@ awk -F',' '{ print "[" $1 "," $2 "]," }' file.csv
 cat data-28_08_2025.csv | csvcut -c 3,2 | awk -F',' '{ print "[" $1 "," $2 "]," }'
 
 cat jsonstart.txt > data.geojson
-cat data-fall_2026.csv | csvcut -c 3,2 | awk -F',' '{ print "[" $1 "," $2 "]," }' >> data.geojson
+cat data-spring_2026.csv | csvcut -c 3,2 | awk -F',' '{ print "[" $1 "," $2 "]," }' >> data.geojson
 cat jsonend.txt >> data.geojson
 
 auto indent with shift+option+f / shift + alt + f

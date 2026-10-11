@@ -361,8 +361,8 @@
         var spring25Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDrive, style: { color: "#2D9966", "dashArray": "5,10" } }); // #FE9A37
         var fall24Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDrive, style: { color: "#FE9A37", "dashArray": "5,10" } }); // #FE9A37
         var fall25Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDrive, style: { color: "#496DB6", "dashArray": "5,10" } }); // #FE9A37
-        var fall26Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDrive, style: { color: "#D64F70", "dashArray": "5,10" } }); // #FE9A37
-
+        var spring26Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDrive, style: { color: "#D64F70", "dashArray": "5,10" } }); // #FE9A37
+        var fall26Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDrive, style: { color: "#D55E00", "dashArray": "5,10" } }); // #FE9A37
 
         // Næste mulige farver kan være #16A6A1. #C44536 D55E00 56B4E9 CC79A7
         // https://stackoverflow.com/questions/47229723/how-to-style-path-in-leaflet
@@ -575,6 +575,11 @@
                 fall25Layer.addData(data);
             });
         
+        fetchJSON('https://fatman00.github.io/Norway2025/data-spring_2026.geojson')
+            .then((data) => {
+                spring26Layer.addData(data);
+            });
+
         fetchJSON('https://fatman00.github.io/Norway2025/data-fall_2026.geojson')
             .then((data) => {
                 fall26Layer.addData(data);
@@ -631,6 +636,7 @@
             "Fall 2024": fall24Layer,
             "Spring 2025": spring25Layer,
             "Fall 2025": fall25Layer,
+            "Spring 2026": fall26Layer,
             "Fall 2026": fall26Layer,
             "Images": imgLayer
         };
@@ -645,6 +651,7 @@
         spring25Layer.addTo(map)
         fall24Layer.addTo(map)
         fall25Layer.addTo(map)
+        spring26Layer.addTo(map)
         fall26Layer.addTo(map)
         //toiletsGroup.addTo(map)
 
