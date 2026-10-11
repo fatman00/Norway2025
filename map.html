@@ -361,6 +361,7 @@
         var spring25Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDrive, style: { color: "#2D9966", "dashArray": "5,10" } }); // #FE9A37
         var fall24Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDrive, style: { color: "#FE9A37", "dashArray": "5,10" } }); // #FE9A37
         var fall25Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDrive, style: { color: "#496DB6", "dashArray": "5,10" } }); // #FE9A37
+        var fall26Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDrive, style: { color: "#496DB6", "dashArray": "5,10" } }); // #FE9A37
         // https://stackoverflow.com/questions/47229723/how-to-style-path-in-leaflet
         //var day1Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #8AA2D0
         //var day2Layer = L.geoJSON(false, { onEachFeature: onEachFeatureDay, pointToLayer: pointOI, style: { color: "#496DB6" } }); // #7792C9
@@ -527,14 +528,14 @@
         } */
 
         pinPersonalData.forEach(addPersonalPins);
-/* 
+
         function addPersonalPins(url) {
             console.log("adding:" + baseUrl + url);
             fetchJSON(baseUrl + url)
                 .then((data) => {
                     pinPersonalLayer.addData(data);
                 });
-        } */
+        }
 
 
 /*         fiPOIData.forEach(addFiPins);
@@ -569,6 +570,11 @@
         fetchJSON('https://fatman00.github.io/Norway2025/data-fall_2025.geojson')
             .then((data) => {
                 fall25Layer.addData(data);
+            });
+        
+        fetchJSON('https://fatman00.github.io/Norway2025/data-fall_2026.geojson')
+            .then((data) => {
+                fall26Layer.addData(data);
             });
 
         fetchJSON('https://fatman00.github.io/Norway2025/spring2025.geojson')
@@ -618,8 +624,7 @@
             "Fall 2024": fall24Layer,
             "Spring 2025": spring25Layer,
             "Fall 2025": fall25Layer,
-            "Finland 2026": fiLayer,
-            "Finland POI": pinFiLayer,
+            "Fall 2026": fall26Layer,
             "Images": imgLayer
         };
 
@@ -633,6 +638,7 @@
         spring25Layer.addTo(map)
         fall24Layer.addTo(map)
         fall25Layer.addTo(map)
+        fall26Layer.addTo(map)
         //toiletsGroup.addTo(map)
 
         //myLayer.addData(tesla);

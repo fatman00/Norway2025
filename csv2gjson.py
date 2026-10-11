@@ -1,6 +1,6 @@
 import csv
 import json
-
+# Converter for image file
 # Replace this with the path to your CSV file
 input_csv = "fall2024.csv"
 output_geojson = "fall2024.geojson"
