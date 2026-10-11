@@ -508,11 +508,11 @@
         var baseUrl = 'https://fatman00.github.io/Norway2025/';
         var pinData = ['atlanterhavsvegenpoi.geojson', 'gaularfjelletpoi.geojson', 'hardangerpoi.geojson', 'rondanepoi.geojson', 'aurlandfjelletpoi.geojson', 'geirangerpoi.geojson', 'hardangerviddapoi.geojson', 'ryfylkepoi.geojson'];
         var pinPersonalData = ['privatepoi.geojson'];
-        var fiPOIData = ['fipoi.geojson'];
-        var fiData = ['fi_day1_raw.json', 'fi_day2_raw.json', 'fi_day1v2_raw.json', 'fi_day2v2_raw.json', 'fi_day3_raw.json', 'fi_day4_raw.json', 'fi_day5_raw.json', 'fi_day5_raw.json','fi_day6_raw.json','fi_day7_raw.json', 'fi_day10.json', 'fi_day11.json', 'fi_day12.json', 'fi_day13.json'];
+        //var fiPOIData = ['fipoi.geojson'];
+        //var fiData = ['fi_day1_raw.json', 'fi_day2_raw.json', 'fi_day1v2_raw.json', 'fi_day2v2_raw.json', 'fi_day3_raw.json', 'fi_day4_raw.json', 'fi_day5_raw.json', 'fi_day5_raw.json','fi_day6_raw.json','fi_day7_raw.json', 'fi_day10.json', 'fi_day11.json', 'fi_day12.json', 'fi_day13.json'];
 
 
-        fiData.forEach(addDriveFI);
+/*         fiData.forEach(addDriveFI);
 
         function addDriveFI(url) {
             console.log("adding(FI):" + baseUrl + url);
@@ -524,20 +524,20 @@
                     })
                     fiLayer.addData(data);
                 });
-        }
+        } */
 
         pinPersonalData.forEach(addPersonalPins);
-
+/* 
         function addPersonalPins(url) {
             console.log("adding:" + baseUrl + url);
             fetchJSON(baseUrl + url)
                 .then((data) => {
                     pinPersonalLayer.addData(data);
                 });
-        }
+        } */
 
 
-        fiPOIData.forEach(addFiPins);
+/*         fiPOIData.forEach(addFiPins);
 
         function addFiPins(url) {
             console.log("adding:" + baseUrl + url);
@@ -545,7 +545,7 @@
                 .then((data) => {
                     pinFiLayer.addData(data);
                 });
-        }
+        } */
 
         pinData.forEach(addPins);
 
@@ -624,14 +624,15 @@
         };
 
         var layerControl = L.control.layers(baseMaps, overlayMaps).addTo(map);
-        teslaLayer.addTo(map)
-        eonLayer.addTo(map)
+        //teslaLayer.addTo(map)
+        //eonLayer.addTo(map)
         //turistVegerGroup.addTo(map)
         pinPersonalLayer.addTo(map)
-        fiLayer.addTo(map)
-        pinFiLayer.addTo(map)
-        //spring25Layer.addTo(map)
-        //fall24Layer.addTo(map)
+        //fiLayer.addTo(map)
+        //pinFiLayer.addTo(map)
+        spring25Layer.addTo(map)
+        fall24Layer.addTo(map)
+        fall25Layer.addTo(map)
         //toiletsGroup.addTo(map)
 
         //myLayer.addData(tesla);
