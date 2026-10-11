@@ -594,6 +594,11 @@
             .then((data) => {
                 imgLayer.addData(data);
             });
+        
+        fetchJSON('https://fatman00.github.io/Norway2025/spring2026.geojson')
+            .then((data) => {
+                imgLayer.addData(data);
+            });
 
         fetchJSON('https://fatman00.github.io/Norway2025/fall2026.geojson')
             .then((data) => {
